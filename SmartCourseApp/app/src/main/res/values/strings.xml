@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">SmartCourseApp</string>
+    <string name="menu_courses">Courses</string>
+    <string name="menu_notification">Notifications</string>
+    <string name="menu_exchange">Exchange</string>
+    <string name="menu_inbox">Inbox</string>
+    <string-array name="department_array">
+        <item>Department</item>
+        <item>ECE</item>
+        <item>CISE</item>
+    </string-array>
+
+    <string-array name="university_array">
+        <item>University</item>
+        <item>University of Florida</item>
+    </string-array>
+
+    <string-array name="courselevel_array">
+        <item>1000</item>
+        <item>2000</item>
+    </string-array>
+
 </resources>

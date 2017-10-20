@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainScreenActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".CourseScreenActivity" />
+        <activity android:name=".search2Activity"></activity>
     </application>
 
 </manifest>
