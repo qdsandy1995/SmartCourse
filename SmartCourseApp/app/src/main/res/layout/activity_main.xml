@@ -46,10 +46,11 @@
         android:id="@+id/button2"
         android:layout_width="210dp"
         android:layout_height="48dp"
+        android:onClick="sendMessageToSearch"
         android:text="LOGIN"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/button3"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText2" />
 
     <TextView
@@ -65,12 +66,14 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="203dp"
+        android:layout_width="wrap_content"
         android:layout_height="48dp"
+        android:onClick="sendMessage"
         android:text="Create Account"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
 
 </android.support.constraint.ConstraintLayout>
