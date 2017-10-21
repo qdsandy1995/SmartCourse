@@ -70,11 +70,12 @@
         android:id="@+id/button"
         android:layout_width="208dp"
         android:layout_height="48dp"
+        android:onClick="sendMessageToSearch"
         android:text="Register"
         android:textAllCaps="false"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText6" />
 
 </android.support.constraint.ConstraintLayout>
