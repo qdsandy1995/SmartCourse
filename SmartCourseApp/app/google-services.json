@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999468116678",
+    "firebase_url": "https://smartcourse-e4806.firebaseio.com",
+    "project_id": "smartcourse-e4806",
+    "storage_bucket": "smartcourse-e4806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999468116678:android:e52cdc3ffc122116",
+        "android_client_info": {
+          "package_name": "com.cloud.smartcourseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999468116678-ev08fmdqkvclg0o7jo16bp7mvbklqqhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloud.smartcourseapp",
+            "certificate_hash": "42b7a61f0db3a93d95dc79130d7161fb5fc72629"
+          }
+        },
+        {
+          "client_id": "999468116678-cd348p560k4t9q9qieenrb41hvgg292u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5L_q4R0mKH9C2akJ9WTcp_SWIGEdtKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999468116678-cd348p560k4t9q9qieenrb41hvgg292u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
