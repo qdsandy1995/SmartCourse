@@ -16,14 +16,19 @@
             android:name=".MainScreenActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+
         </activity>
-        <activity android:name=".SignUpActivity" />
-        <activity android:name=".CourseScreenActivity" />
-        <activity android:name=".search2Activity"></activity>
+        <activity android:name=".SignUpActivity" >
+
+        </activity>
+
+        <activity android:name=".CourseScreenActivity" >
+
+        </activity>
+        <activity android:name=".search2Activity"><intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter></activity>
     </application>
 
 </manifest>
