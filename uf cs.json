@@ -6,7 +6,7 @@
    "Desciption": "Combines the traditional media production pipeline and software engineering processes to synthesize an approach geared for the production of works incorporating both artistic and computational elements.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 3027",
@@ -14,7 +14,7 @@
    "Description": "Synergy between art and computing through a programming-oriented exploration of fundamental concepts in multimedia.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 3032",
@@ -22,7 +22,7 @@
    "Description": "Introduces programming and data structures for interactive two-dimensional multimedia applications. Representing form and transforms in two dimensions, capturing user actions and driving application behavior interactively. Graphical interfaces, image processing, automata and basic artificial intelligence.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 3034",
@@ -30,7 +30,7 @@
    "Description": "Introduces topics related to computer-aided animation. Rigging for forward and inverse kinematics. Skin weighting. Morph targets. Expression-driven animation, rigid-body and particle simulation.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 3220",
@@ -38,7 +38,7 @@
    "Description": "Introduces topics related to computer-aided modeling. Polygonal mesh, NURBS and subdivision surface meshes. Materials and shading networks. Lighting, shadows and rendering.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 4053",
@@ -46,7 +46,7 @@
    "Description": "Examines the use of A.I. in computer games. Topics include general A.I. knowledge, path finding, movement, tactics and planning, strategy, state machines, learning, dialogue, and emotions.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 4403",
@@ -54,7 +54,7 @@
    "Description": "Basic concepts of applying aesthetics to the representation of formal discrete structures found in computing, as well as to their operational behaviors.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 4621",
@@ -62,7 +62,7 @@
    "Description": "Introduces artificial intelligence concepts. Heuristic search, clause form logic, knowledge representation, reasoning and inference, overview of computer vision, planning, natural language, Lisp and Prolog. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 4680",
@@ -70,7 +70,7 @@
    "Description": "Concepts, theory and various applications for knowledge-based (expert) systems, reasoning schemes, knowledge representation, knowledge-based system tools, building knowledge bases, knowledge acquisition, reasoning under certainty and inexact reasoning.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 4730",
@@ -78,7 +78,7 @@
    "Description": "Studies the major topics in computer graphics: display and output technology, two and three dimensional manipulations; space curves and surfaces, hidden surface removal and shading models.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 4770",
@@ -86,7 +86,7 @@
    "Description": "Introduces the basics of data science including programming for data analytics, file management, relational databases, classification, clustering and regression. The foundation is laid for big data applications ranging from social networks to medical and business informatics.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CAP 4800",
@@ -94,7 +94,7 @@
    "Description": "Simulation methodology and practice. Covers basic concepts in modeling and analysis for both continuous and discrete systems. Combined simulation methods including integrated qualitative/quantitative system modeling. Uses in-house simulation software. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CDA 3101",
@@ -102,7 +102,7 @@
    "Description": "Organization of computing systems. Logical basis of computer structure. Machine representation of instructions and data, flow of control, and basic machine instructions. Assembly language programming. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CDA 4102",
@@ -110,7 +110,7 @@
    "Description": "Introduces computer architecture and system organization including virtual memory supports cache, pipeline, vector processing, multiprocessor and RISC architecture.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CEN 3031",
@@ -118,7 +118,7 @@
    "Description": "Topics include software planning, specifications, coding, testing and maintenance. Gain experience in the team approach to large system development. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0", 
+   "Professor Rating": "0", "Field":"" 
   },
   {
    "Course title": "CEN 3907C",
@@ -126,7 +126,7 @@
    "Description": "Reinforce basic computer engineering skills; design, produce, and report on a computer engineering project, meeting defined specifications and using a structured design methodology and project management.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CEN 3908C",
@@ -134,7 +134,7 @@
    "Description": "Selected capstone design projects involving engineering applications in the various areas of computer engineering. Must be taken prior to the semester of graduation.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CEN 3913",
@@ -142,7 +142,7 @@
    "Description": "Preparatory skills are developed for CISE Design 2 for Computer Engineering students. Teams design, produce and report on a software prototype, meeting defined specifications and using a structured design methodology and project management.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CEN 4072",
@@ -150,7 +150,7 @@
    "Description": "Concepts, principles and techniques of software testing and verification. Strengths and limitations of black-box and white-box testing methods; techniques for proving the correctness of programs.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CEN 4721",
@@ -158,7 +158,7 @@
    "Description": "Studies the major topics in the study, planning and design of the interaction between people and computers. Topics include interface design (principles, theories and guidelines), virtual environments, interactive devices and collaboration.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CEN 4722",
@@ -166,7 +166,7 @@
    "Description": "Introduces methods and tools used in User Experience Design (UXD): the early stages of software design focused on meeting user needs. Key concepts include user research, contextual design, design thinking, ideation, iterative design, prototyping, and design documentation. Projects utilize software tools used in the industry.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CEN 4725",
@@ -174,7 +174,7 @@
    "Description": "Introduces the design, development and evaluation of Natural User Interaction (NUI) technologies (e.g., non-keyboard and mouse technologies such as touchscreen interaction, gesture interaction, speech interaction, etc.). Discussion of the hardware-to-software NUI pipeline and key considerations when developing NUI software, including existing platforms, toolkits and APIs used to create NUI software.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CEN 4914",
@@ -182,7 +182,7 @@
    "Description": "Involves completing a significant CEN-related project. Coordinate with the instructor and a project advisor, prepare a detailed technical report and deliver an oral presentation.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CGS 2032",
@@ -190,7 +190,7 @@
    "Description": "Introduces interdisciplinary computer science topics. Logic, discrete structures, algorithms and automa. Exploration of topics relating mathematics and computing to art, music and nature. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CGS 3063",
@@ -198,7 +198,7 @@
    "Description": "Impact of computers on society. Discussion includes specific cases from many areas, but does not include problem solution. Does not teach how to use the computer but gives an understanding of the implications of computers. (S) (WR)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CGS 3065",
@@ -206,7 +206,7 @@
    "Description": "Explores the history, the myth, the ethics, the law and the risks of computer-based technology in modern society. Emphasizes critical analysis of hypotheticals and case studies. Published material is supplemented with online references.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 2354",
@@ -214,7 +214,7 @@
    "Description": "Introduces many issues in cybersecurity including ubiquity of processors and communications in modern society, vulnerabilities of computers, networks, data, and embedded systems; privacy, risk management, social engineering, various attacks on computers and networked systems, attacks on user authentication systems. Expect weekly discussion of current topics.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4204",
@@ -222,7 +222,7 @@
    "Description": "Introduces principles and techniques associated with the cybersecurity practice known as penetration testing or ethical hacking. Covers planning, reconnaissance, scanning, exploitation, post-exploitation and result reporting. Discovers how system vulnerabilities can be exploited and learn to avoid such problems.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4301",
@@ -230,7 +230,7 @@
    "Description": "First part of a two-course sequence that studies the essential concepts, principles and techniques of modern database systems. Topics include modeling and querying of data using conceptual data models as well as the development of a database application. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4360",
@@ -238,7 +238,7 @@
    "Description": "Covers systematic threat and risk assessment; programmed threats and controls in hardware, software, and human procedures; security policies, models, and mechanisms; theoretical limitations and practical implementations; certification and accreditation standards; and case study reviews. Includes projects.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4362",
@@ -246,7 +246,7 @@
    "Description": "Introduces classical and modern cryptography and cryptanalysis, including symmetric and asymmetric (public key) ciphers. Covers cryptographic hash functions, block and stream ciphers, as well as differential and linear cryptanalysis. Reviews applications of cryptography, cryptographic standards and protocols, and analyzes case studies of failed implementations.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4905",
@@ -254,7 +254,7 @@
    "Description": "Problems in different areas of computer science.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4912C",
@@ -262,7 +262,7 @@
    "Description": "First part of a two-course sequence where teams of engineering and business students partner with industry sponsors to design and build authentic products and processes. Working closely with an industry liaison engineer and a faculty coach, students gain practical experience in teamwork and communication, problem solving and engineering design, and develop leadership, management and people skills. Weekly workshop activities adapt lecture topics to individual projects. Learn firsthand how to develop products and processes that meet customer requirements on time and within budget.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4913C",
@@ -270,7 +270,7 @@
    "Description": "Second part of the CIS 4912/4913 sequence where teams of engineering and business students partner with industry sponsors to design and build authentic products and processes",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4914",
@@ -278,7 +278,7 @@
    "Description": "Involves completing a significant CISE-related project. Coordinate with the instructor and a project advisor, prepare a detailed technical report and deliver an oral presentation. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4930",
@@ -286,7 +286,7 @@
    "Description": "Variable content provides an opportunity for in-depth study of topics not offered elsewhere and of topics of current significance.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4940",
@@ -294,7 +294,7 @@
    "Description": "One term practical software engineering work under industrial supervision as set forth in the Herbert Wertheim College of Engineering regulations. (S-U)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4949",
@@ -302,7 +302,7 @@
    "Description": "Practical engineering work under industrial supervision, as set forth in the Herbert Wertheim College of Engineering regulations. (S-U)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CIS 4956",
@@ -310,7 +310,7 @@
    "Description": "Provides a mechanism by which coursework taken as part of an approved study abroad program can be recorded on the UF transcript and counted toward graduation.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CNT 4007C",
@@ -318,7 +318,7 @@
    "Description": "Fundamental concepts, principles and standards of computer networks. Topics are introduced in bottom-up approach, starting from physical layer in OSI system architecture with a stronger focus on data link, mac, network and transport layers. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "CNT 4409",
@@ -326,7 +326,7 @@
    "Description": "Examines networked threats and vulnerabilities; trust, identification, authentication, and authorization in networked and distributed systems; secure network protocols and standards; certification of network products; firewall configurations, intrusion detection, and anomaly detection; security flaws in network protocols and distributed applications. Includes projects.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 2271",
@@ -334,7 +334,7 @@
    "Description": "Computer programming and the use of computers to solve engineering and mathematical problems. Emphasizes applying problem solving skills; directed toward technical careers in fields employing a reasonably high degree of mathematics. The programming language used depends on the demands of the departments in the college. Several languages may be taught each semester, no more than one per section. Those required to learn a specific language must enroll in the correct section. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 2271L",
@@ -342,7 +342,7 @@
    "Description": "Laboratory for computer programming and the use of computers to solve engineering and mathematical problems. Emphasizes applying problem solving skills. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 2800",
@@ -350,7 +350,7 @@
    "Description": "In-depth treatment of computer programming using JAVA. Problems related to a variety of disciplines are solved. Introduces the basic concepts of software and hardware; develop a variety of stand-alone applications and applets. For non-CISE majors only.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 3229",
@@ -358,7 +358,7 @@
    "Description": "In-depth treatment of the C++ programming language. Introduces Windows programming using Visual C++.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 3275",
@@ -366,7 +366,7 @@
    "Description": "Solve problems related to a variety of disciplines; introduces the basic concepts of software and hardware. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 3502",
@@ -374,7 +374,7 @@
    "Description": "First course of a two-semester introductory sequence for those planning further study in computer science, digital arts and sciences or computer engineering. Concepts of computer science and the process of computer programming, including object-oriented programming, procedural and data abstraction and program modularity.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 3503",
@@ -382,7 +382,7 @@
    "Description": "Second course of a two-semester introductory sequence for those planning further study in computer science, digital arts and sciences or computer engineering. Concepts of computer science and the process of computer programming, including object-oriented programming, procedural and data abstraction and program modularity.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 3504",
@@ -390,7 +390,7 @@
    "Description": "Fast-paced introduction to computer science for those with prior programming experience. Explores major concepts of computer science and the process of computer programming, including object-oriented programming, procedural and data abstraction and program modularity. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 3530",
@@ -398,7 +398,7 @@
    "Description": "Algorithm development using pseudo languages, basic program structures, program design techniques, storage and manipulation of basic data structures like arrays, stacks, queues, sorting and searching and string processing. Linked linear lists. Trees and multilinked structures. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 4020",
@@ -406,7 +406,7 @@
    "Description": "Introduces programming language principles, including language constructs, design goals, run-time structures, implementation techniques and exposure to a wide variety of programming paradigms.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 4331",
@@ -414,7 +414,7 @@
    "Description": "Fundamental conceptual models for programming languages illustrated with specific programming languages and application problems. Specific topics include class and object models, inheritance among classes, objects and static and dynamic systems and implementations.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 4600",
@@ -422,7 +422,7 @@
    "Description": "Design and implementation of various components of a modern operating system, including I/O programming, interrupt handling, process and resource management, computer networks and distributed systems. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 4620",
@@ -430,7 +430,7 @@
    "Description": "Translation of languages, scanning and parsing techniques. Translator writing systems. The implementation of a compiler. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COP 4720",
@@ -438,7 +438,7 @@
    "Description": "Part two of a two-course sequence. Provides a basic understanding of the internals of a modern database system. Topics include data storage, indexing, query processing and advanced concepts such as database tuning, alternate data models and emerging applications. (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COT 3100",
@@ -446,7 +446,7 @@
    "Description": "Covers the mathematics of discrete events; i.e., events that involve distinct elements, finite structures of distinct elements or finite sampled versions of continuous phenomena (such as movement). (M)",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   },
   {
    "Course title": "COT 4501",
@@ -454,7 +454,7 @@
    "Description": "Numerical integration, nonlinear equations, linear and nonlinear systems of equations, differential equations and interpolation.",
    "Difficulty": "0",
    "Popularity": "0",
-   "Professor Rating": "0",
+   "Professor Rating": "0", "Field":""
   }
  ]
 }
