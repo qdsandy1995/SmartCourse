@@ -3,7 +3,7 @@ package com.cloud.smartcourse.backend;
 /**
  * The object model for the data we are sending through endpoints
  */
-public class MyBean {
+public class Course {
 
     private String myData;
 
