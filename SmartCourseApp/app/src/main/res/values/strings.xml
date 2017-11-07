@@ -21,4 +21,11 @@
         <item>2000</item>
     </string-array>
 
+    <string-array name="api_names">
+        <item>Entities</item>
+        <item>Sentiment</item>
+        <item>Syntax</item>
+    </string-array>
+
+    <string name="salience_format">Salience: %.3f</string>
 </resources>
