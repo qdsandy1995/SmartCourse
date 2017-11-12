@@ -4,6 +4,7 @@ package com.cloud.smartcourseapp;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
@@ -28,13 +29,12 @@ import android.widget.TextView;
  * Created by Owner on 11/6/2017.
  */
 
-public class Test_NLB extends AppCompatActivity implements ApiFragment.Callback {
+public class Test_NLB extends AppCompatActivity implements ApiService.Call_back {
 
-    private static final int API_ENTITY = 0;
-    private static final String FRAGMENT_API = "api";
+
     private static final int LOADER_ACCESS_TOKEN = 1;
 
-    private static final String STATE_SHOWING_RESULTS = "showing_results";
+ //   private static final String STATE_SHOWING_RESULTS = "showing_results";
 
     private final View.OnClickListener mOnClickListener = new View.OnClickListener() {
         @Override
@@ -49,13 +49,12 @@ public class Test_NLB extends AppCompatActivity implements ApiFragment.Callback 
     };
 
 
-    private View mResults;
+  //  private View mResults;
 
     private EditText mInput;
 
-    private ViewPager mViewPager;
 
-    private ApiFragment test;
+    private ApiService task;
 
     /**
      * Whether the result view is animating to hide.
@@ -67,44 +66,35 @@ public class Test_NLB extends AppCompatActivity implements ApiFragment.Callback 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.test_screen);
 
-        mResults = findViewById(R.id.results);
+      //  mResults = findViewById(R.id.results);
 
-        final FragmentManager fm = getSupportFragmentManager();
+
 
         // Set up the input EditText so that it accepts multiple lines
         mInput = (EditText) findViewById(R.id.input);
         mInput.setHorizontallyScrolling(false);
         mInput.setMaxLines(Integer.MAX_VALUE);
 
-        if (savedInstanceState == null) {
-            // The app has just launched; handle share intent if it is necessary
-            handleShareIntent();
-        } else {
-            // Configuration changes; restore UI states
-            boolean results = savedInstanceState.getBoolean(STATE_SHOWING_RESULTS);
-            if (results) {
-                mResults.setVisibility(View.VISIBLE);
-            } else {
-                mResults.setVisibility(View.INVISIBLE);
-            }
-        }
 
         // Bind event listeners
         findViewById(R.id.send).setOnClickListener(mOnClickListener);
+        task = new ApiService(Test_NLB.this);
 
+        prepareApi(task);
         // Prepare the API
-
+/*
         if (getApiFragment() == null) {
             fm.beginTransaction().add(new ApiFragment(), FRAGMENT_API).commit();
         }
 
         prepareApi();
+        */
     }
 
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        outState.putBoolean(STATE_SHOWING_RESULTS, mResults.getVisibility() == View.VISIBLE);
+     //   outState.putBoolean(STATE_SHOWING_RESULTS, mResults.getVisibility() == View.VISIBLE);
     }
 
     private void handleShareIntent() {
@@ -117,12 +107,12 @@ public class Test_NLB extends AppCompatActivity implements ApiFragment.Callback 
             }
         }
     }
-
+/*
     private ApiFragment getApiFragment() {
         return (ApiFragment) getSupportFragmentManager().findFragmentByTag(FRAGMENT_API);
     }
-
-    private void prepareApi() {
+*/
+    private void prepareApi(final ApiService task) {
         // Initiate token refresh
         getSupportLoaderManager().initLoader(LOADER_ACCESS_TOKEN, null,
                 new LoaderManager.LoaderCallbacks<String>() {
@@ -133,8 +123,9 @@ public class Test_NLB extends AppCompatActivity implements ApiFragment.Callback 
 
                     @Override
                     public void onLoadFinished(Loader<String> loader, String token) {
-                        ApiFragment temp = getApiFragment();
-                        temp.setAccessToken(token);
+           //             ApiFragment temp = getApiFragment();
+          //              temp.setAccessToken(token);
+                        task.setAccessToken(token);
                     }
 
                     @Override
@@ -146,11 +137,12 @@ public class Test_NLB extends AppCompatActivity implements ApiFragment.Callback 
     private void start_analyze() {
 
         final String text = mInput.getText().toString();
-        getApiFragment().analyzeEntities(text);
-        getApiFragment().analyzeSentiment(text);
+        task.execute(text);
+   //     getApiFragment().analyzeEntities(text);
+  //      getApiFragment().analyzeSentiment(text);
     }
     public void onEntitiesReady(EntityInfo[] entities) {
-
+        task.cancel(true);
     }
 
     public void onSentimentReady(SentimentInfo  sentiment) {

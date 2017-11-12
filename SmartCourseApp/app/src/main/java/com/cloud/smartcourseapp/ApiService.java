@@ -24,13 +24,16 @@ import com.google.api.services.language.v1.model.Features;
 import com.google.api.services.language.v1.model.Token;
 
 import android.app.Activity;
+import android.app.IntentService;
 import android.content.Context;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 
 import java.io.IOException;
+import java.net.URL;
 import java.util.List;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
@@ -38,10 +41,10 @@ import java.util.concurrent.BlockingQueue;
 
 // Handles all the API requests of Cloud Natural Language API.
 
-public class ApiFragment extends Fragment {
+public class ApiService extends AsyncTask<String,Object,List<EntityInfo>>{
 
 
-    public interface Callback {
+    public interface Call_back {
 
 
         //  Called when an "entities" API request is complete.
@@ -49,10 +52,18 @@ public class ApiFragment extends Fragment {
         void onEntitiesReady(EntityInfo[] entities);
 
 
-         // Called when a "sentiment" API request is complete.
+        // Called when a "sentiment" API request is complete.
 
         void onSentimentReady(SentimentInfo sentiment);
 
+    }
+
+    private Call_back mCallback;
+    private Context mContext;
+
+
+    public ApiService(Call_back activityContext){
+        this.mCallback = activityContext;
     }
 
     private static final String TAG = "ApiFragment";
@@ -74,8 +85,18 @@ public class ApiFragment extends Fragment {
 
     private Thread mThread;
 
-     private Callback mCallback;
 
+
+    @Override
+    protected List<EntityInfo> doInBackground(String[] arg0){
+        analyzeEntities(arg0[0]);
+
+        return null;
+    }
+    protected void onPostExecute(List<EntityInfo> a)
+    {
+    }
+/*
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -94,6 +115,7 @@ public class ApiFragment extends Fragment {
         mCallback = null;
         super.onDetach();
     }
+*/
 
     public void setAccessToken(String token) {
         mCredential = new GoogleCredential()
@@ -157,7 +179,7 @@ public class ApiFragment extends Fragment {
     }
 
     private void deliverResponse(GenericJson response) {
-             final Activity activity = getActivity();
+           //  final Activity activity = getActivity();
             if (response instanceof AnalyzeEntitiesResponse) {
                 final List<Entity> entities = ((AnalyzeEntitiesResponse) response).getEntities();
                 final int size = entities.size();
