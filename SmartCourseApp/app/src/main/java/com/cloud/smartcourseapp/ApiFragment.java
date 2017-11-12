@@ -22,9 +22,6 @@ import com.google.api.services.language.v1.model.Document;
 import com.google.api.services.language.v1.model.Entity;
 import com.google.api.services.language.v1.model.Features;
 import com.google.api.services.language.v1.model.Token;
-import com.cloud.smartcourseapp.EntityInfo;
-import com.cloud.smartcourseapp.TokenInfo;
-import com.cloud.smartcourseapp.SentimentInfo;
 
 import android.app.Activity;
 import android.content.Context;
@@ -43,22 +40,19 @@ import java.util.concurrent.BlockingQueue;
 
 public class ApiFragment extends Fragment {
 
+
     public interface Callback {
 
-        /**
-         * Called when an "entities" API request is complete.
-         */
+
+        //  Called when an "entities" API request is complete.
+
         void onEntitiesReady(EntityInfo[] entities);
 
-        /**
-         * Called when a "sentiment" API request is complete.
-         */
+
+         // Called when a "sentiment" API request is complete.
+
         void onSentimentReady(SentimentInfo sentiment);
 
-        /**
-         * Called when a "syntax" API request is complete.
-         */
-        void onSyntaxReady(TokenInfo[] tokens);
     }
 
     private static final String TAG = "ApiFragment";
@@ -80,7 +74,7 @@ public class ApiFragment extends Fragment {
 
     private Thread mThread;
 
-    private Callback mCallback;
+     private Callback mCallback;
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
@@ -135,20 +129,6 @@ public class ApiFragment extends Fragment {
         }
     }
 
-    public void analyzeSyntax(String text) {
-        try {
-            mRequests.add(mApi
-                    .documents()
-                    .annotateText(new AnnotateTextRequest()
-                            .setDocument(new Document()
-                                    .setContent(text)
-                                    .setType("PLAIN_TEXT"))
-                            .setFeatures(new Features()
-                                    .setExtractSyntax(true))));
-        } catch (IOException e) {
-            Log.e(TAG, "Failed to create analyze request.", e);
-        }
-    }
 
     private void startWorkerThread() {
         if (mThread != null) {
@@ -177,48 +157,41 @@ public class ApiFragment extends Fragment {
     }
 
     private void deliverResponse(GenericJson response) {
-        final Activity activity = getActivity();
-        if (response instanceof AnalyzeEntitiesResponse) {
-            final List<Entity> entities = ((AnalyzeEntitiesResponse) response).getEntities();
-            final int size = entities.size();
-            final EntityInfo[] array = new EntityInfo[size];
-            for (int i = 0; i < size; i++) {
-                array[i] = new EntityInfo(entities.get(i));
-            }
-            activity.runOnUiThread(new Runnable() {
-                @Override
-                public void run() {
-                    if (mCallback != null) {
-                        mCallback.onEntitiesReady(array);
-                    }
+             final Activity activity = getActivity();
+            if (response instanceof AnalyzeEntitiesResponse) {
+                final List<Entity> entities = ((AnalyzeEntitiesResponse) response).getEntities();
+                final int size = entities.size();
+                final EntityInfo[] array = new EntityInfo[size];
+                for (int i = 0; i < size; i++) {
+                    array[i] = new EntityInfo(entities.get(i));
+                    Log.d("Entity Name",array[i].name);
                 }
-            });
-        } else if (response instanceof AnalyzeSentimentResponse) {
-            final SentimentInfo sentiment = new SentimentInfo(((AnalyzeSentimentResponse) response)
-                    .getDocumentSentiment());
-            activity.runOnUiThread(new Runnable() {
-                @Override
-                public void run() {
-                    if (mCallback != null) {
-                        mCallback.onSentimentReady(sentiment);
-                    }
+                if (mCallback != null) {
+                    mCallback.onEntitiesReady(array);
                 }
-            });
-        } else if (response instanceof AnnotateTextResponse) {
-            final List<Token> tokens = ((AnnotateTextResponse) response).getTokens();
-            final int size = tokens.size();
-            final TokenInfo[] array = new TokenInfo[size];
-            for (int i = 0; i < size; i++) {
-                array[i] = new TokenInfo(tokens.get(i));
-            }
-            activity.runOnUiThread(new Runnable() {
-                @Override
-                public void run() {
-                    if (mCallback != null) {
-                        mCallback.onSyntaxReady(array);
+                /*
+                activity.runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        if (mCallback != null) {
+                            mCallback.onEntitiesReady(array);
+                        }
                     }
-                }
-            });
+                });
+                */
+            } else if (response instanceof AnalyzeSentimentResponse) {
+                final SentimentInfo sentiment = new SentimentInfo(((AnalyzeSentimentResponse) response)
+                        .getDocumentSentiment());
+                /*
+                activity.runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        if (mCallback != null) {
+                            mCallback.onSentimentReady(sentiment);
+                        }
+                    }
+                });
+                */
         }
     }
 

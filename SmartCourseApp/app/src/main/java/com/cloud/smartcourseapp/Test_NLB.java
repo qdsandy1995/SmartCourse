@@ -28,7 +28,7 @@ import android.widget.TextView;
  * Created by Owner on 11/6/2017.
  */
 
-public abstract class Test_NLB extends AppCompatActivity implements ApiFragment.Callback {
+public class Test_NLB extends AppCompatActivity implements ApiFragment.Callback {
 
     private static final int API_ENTITY = 0;
     private static final String FRAGMENT_API = "api";
@@ -54,6 +54,8 @@ public abstract class Test_NLB extends AppCompatActivity implements ApiFragment.
     private EditText mInput;
 
     private ViewPager mViewPager;
+
+    private ApiFragment test;
 
     /**
      * Whether the result view is animating to hide.
@@ -91,6 +93,7 @@ public abstract class Test_NLB extends AppCompatActivity implements ApiFragment.
         findViewById(R.id.send).setOnClickListener(mOnClickListener);
 
         // Prepare the API
+
         if (getApiFragment() == null) {
             fm.beginTransaction().add(new ApiFragment(), FRAGMENT_API).commit();
         }
@@ -130,7 +133,8 @@ public abstract class Test_NLB extends AppCompatActivity implements ApiFragment.
 
                     @Override
                     public void onLoadFinished(Loader<String> loader, String token) {
-                        getApiFragment().setAccessToken(token);
+                        ApiFragment temp = getApiFragment();
+                        temp.setAccessToken(token);
                     }
 
                     @Override
@@ -144,23 +148,12 @@ public abstract class Test_NLB extends AppCompatActivity implements ApiFragment.
         final String text = mInput.getText().toString();
         getApiFragment().analyzeEntities(text);
         getApiFragment().analyzeSentiment(text);
-        getApiFragment().analyzeSyntax(text);
+    }
+    public void onEntitiesReady(EntityInfo[] entities) {
+
     }
 
-
-    private void showResults() {
-
-        if (mHidingResult) {
-            ViewCompat.animate(mResults).cancel();
-        }
-        if (mResults.getVisibility() == View.INVISIBLE) {
-            mResults.setVisibility(View.VISIBLE);
-            ViewCompat.setAlpha(mResults, 0.01f);
-            ViewCompat.animate(mResults)
-                    .alpha(1.f)
-                    .setListener(null)
-                    .start();
-        }
+    public void onSentimentReady(SentimentInfo  sentiment) {
     }
 
     }
