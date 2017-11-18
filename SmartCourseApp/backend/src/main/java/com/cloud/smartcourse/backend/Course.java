@@ -1,10 +1,10 @@
 package com.cloud.smartcourse.backend;
 
 /**
- * Created by xiaoxiao on 11/6/17.
+ * The object model for the data we are sending through endpoints
  */
+public class MyBean {
 
-public class Course {
     private String myData;
 
     public String getData() {
