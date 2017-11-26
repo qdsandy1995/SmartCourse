@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Manifest-Version: 1.0
 
 =======
 Manifest-Version: 1.0
 
 >>>>>>> eb3f0b08f8ad89912227b243864b5afbb4d2b6b8
+=======
+Manifest-Version: 1.0
+
+>>>>>>> parent of c75cff5... a
