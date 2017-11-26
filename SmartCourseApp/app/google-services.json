@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "999468116678-542jh2a2on47cqa8b9ukgh68259c20rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloud.smartcourseapp",
+            "certificate_hash": "290b33fc65f7affe52bf67ed284275a3e1a9aefd"
+          }
+        },
+        {
           "client_id": "999468116678-ev08fmdqkvclg0o7jo16bp7mvbklqqhp.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
