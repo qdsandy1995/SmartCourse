@@ -1,7 +1,6 @@
 package com.cloud.smartcourseapp;
-
 /**
- * Created by fengjie on 11/26/17.
+ * Created by fengjie on 11/12/17.
  */
 
 import android.content.res.AssetManager;
@@ -10,8 +9,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.TextView;
 
-import com.google.api.services.bigquery.model.QueryRequest;
-import com.google.api.services.bigquery.model.QueryResponse;
 import com.google.cloud.AuthCredentials;
 import com.google.cloud.WriteChannel;
 import com.google.cloud.bigquery.BigQuery;
@@ -22,28 +19,36 @@ import com.google.cloud.bigquery.Table;
 import com.google.cloud.bigquery.TableId;
 import com.google.cloud.bigquery.WriteChannelConfiguration;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
 
 
-public class writeData extends AppCompatActivity {
+public class writeDataFromBQ extends AppCompatActivity {
 
 
-    private static final String CREDENTIALS_FILE = "CloudPlatform-3d208c60b41c.json";
+    private static final String CREDENTIALS_FILE = "/Users/fengjie/Downloads/CloudPlatform-3d208c60b41c.json";
     private static final String PROJECT_ID = "cloudplatform-185115";
     private final int ROW_INTERVAL = 10;
     private int num_rows = 0;
-    private TextView Course_title, Credits, Description, Difficulty, Popularity, Professor_Rating, Field;
+    private static TextView Course_title, Credits, Description, Difficulty, Popularity, Professor_Rating, Field;
 
 
 
 
-    public void ButtonChanged() {
+    public static void ButtonActivity() {
+        //Course_title = (TextView) findViewById();  //string
+        //Credits = (TextView) findViewById();       //integer
+        //Description = (TextView) findViewById();   //string
+        //Difficulty = (TextView) findViewById();    //integer
+        //Popularity = (TextView) findViewById();    //integer
+        //Professor_Rating = (TextView) findViewById();  //integer
+        //Field = (TextView) findViewById();          //string
 
-        
-        /*String newRow = "{\"Course_title\": " + Course_title.getText().toString() +
+        /*final String newRow = "{\"Course_title\": " + Course_title.getText().toString() +
                 ", \"Credits\": " + Integer.parseInt(Credits.getText().toString()) +
                 ", \"Description\": " + Description.getText().toString() +
                 ", \"Difficulty\": " + Integer.parseInt(Difficulty.getText().toString()) +
@@ -63,15 +68,20 @@ public class writeData extends AppCompatActivity {
 
         new BigQueryTask().execute(newRow);
 
+
+    }
+
+    public static void main(String []args) {
+        new writeDataFromBQ().ButtonActivity();
     }
 
 
 
+    private static class BigQueryTask extends AsyncTask<String, Integer, String>{
 
-    private class BigQueryTask extends AsyncTask<String, Integer, String>{
         protected void onPreExecute() {
             super.onPreExecute();
-            Log.d("Main", "Launching BigQuery API request ("+Integer.toString(num_rows)+" rows)");
+           // Log.d("readDataFromBQ", "Launching BigQuery API request ("+Integer.toString(num_rows)+" rows)");
         }
 
 
@@ -80,15 +90,15 @@ public class writeData extends AppCompatActivity {
 
             String JSON_CONTENT = contents[0];
             try{
-                AssetManager am = writeData.this.getAssets();
-                InputStream isCredentialsFile = am.open(CREDENTIALS_FILE);
+                //AssetManager am = readDataFromBQ.this.getAssets();
+                File file = new File(CREDENTIALS_FILE);
+                InputStream isCredentialsFile = new FileInputStream(file);
+
                 BigQuery bigquery = BigQueryOptions.builder()
                         .authCredentials(AuthCredentials.createForJson(isCredentialsFile))
                         .projectId( PROJECT_ID )
                         .build().service();
-                String querySql = "";
-                //QueryResponse query = bigquery.jobs().query(PROJECT_ID, new QueryRequest().setQuery(querySql)).execute();
-                //bigquery.query()
+
                 TableId tableId = TableId.of("uf_cs", "example");
                 Table table = bigquery.getTable(tableId);
                 int num = 0;

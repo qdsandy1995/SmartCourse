@@ -13,11 +13,23 @@
       },
       "oauth_client": [
         {
+<<<<<<< HEAD
+          "client_id": "999468116678-542jh2a2on47cqa8b9ukgh68259c20rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloud.smartcourseapp",
+            "certificate_hash": "290b33fc65f7affe52bf67ed284275a3e1a9aefd"
+          }
+        },
+        {
+          "client_id": "999468116678-ev08fmdqkvclg0o7jo16bp7mvbklqqhp.apps.googleusercontent.com",
+=======
           "client_id": "151283227365-ogbrdcp5rc62cp947t1v0t58mnrhpoog.apps.googleusercontent.com",
           "client_type": 3
         },
         {
           "client_id": "151283227365-3o1d9ka3ie4b07oukhojp7sk2kcqrjrv.apps.googleusercontent.com",
+>>>>>>> e41a47e1f015a4ddb7917f740e467df7bf9967c9
           "client_type": 1,
           "android_info": {
             "package_name": "com.cloud.smartcourseapp",
