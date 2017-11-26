@@ -25,6 +25,9 @@ android {
 }
 
 dependencies {
+    compile ('com.google.cloud:gcloud-java-bigquery:0.2.1') {
+        exclude group: 'com.google.api-client', module: 'google-api-client-appengine'
+    }
     implementation 'com.android.support:support-v4:26.1.0'
     compile fileTree(include: ['*.jar'], dir: 'libs')
     // Dependencies for Google API Client Libraries
@@ -32,11 +35,7 @@ dependencies {
         exclude module: 'httpclient'
         exclude module: 'jsr305'
     }
-<<<<<<< HEAD
-    compile("com.google.api-client:google-api-client-android:1.22.0") {
-=======
     compile('com.google.api-client:google-api-client-android:1.22.0') {
->>>>>>> e41a47e1f015a4ddb7917f740e467df7bf9967c9
         exclude module: 'httpclient'
         exclude module: 'jsr305'
     }
@@ -44,30 +43,14 @@ dependencies {
         exclude module: 'httpclient'
         exclude module: 'jsr305'
     }
-<<<<<<< HEAD
-
-
-    compile('com.google.cloud:gcloud-java-bigquery:0.2.1') {
-        exclude group: 'com.google.api-client', module: 'google-api-client-appengine'
-    }
-=======
     compile project(path: ':backend', configuration: 'android-endpoints')
->>>>>>> e41a47e1f015a4ddb7917f740e467df7bf9967c9
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:design:26.+'
     //compile 'com.google.firebase:firebase-database:11.0.0'
     compile 'com.google.code.findbugs:jsr305:2.0.1'
-    compile 'com.google.firebase:firebase-storage:9.0.0'
     testCompile 'junit:junit:4.12'
-<<<<<<< HEAD
-    compile project(path: ':backend', configuration: 'android-endpoints')
-
-}
-apply plugin: 'com.google.gms.google-services'
-=======
     implementation 'com.google.android.gms:play-services-auth:11.6.0'
 }
 apply plugin: 'com.google.gms.google-services'
 
->>>>>>> e41a47e1f015a4ddb7917f740e467df7bf9967c9
