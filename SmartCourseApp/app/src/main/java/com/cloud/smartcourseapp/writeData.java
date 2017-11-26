@@ -41,6 +41,8 @@ public class writeData extends AppCompatActivity {
 
 
     public void ButtonChanged() {
+
+        
         /*String newRow = "{\"Course_title\": " + Course_title.getText().toString() +
                 ", \"Credits\": " + Integer.parseInt(Credits.getText().toString()) +
                 ", \"Description\": " + Description.getText().toString() +
