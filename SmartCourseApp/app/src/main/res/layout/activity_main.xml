@@ -14,13 +14,14 @@
         android:layout_gravity="center"
         android:textAlignment="center"
         android:textSize="30sp"
+        android:textColor="@color/colorPrimaryDark"
         android:layout_marginTop="60dp"/>
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/sign_in_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="50dp"
         android:layout_gravity="center"
         />
 
@@ -28,7 +29,7 @@
         android:id="@+id/tvOr"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="25dp"
         android:text="Or"
         android:textAlignment="center"
         tools:text="Or"
@@ -41,7 +42,7 @@
         android:ems="10"
         android:hint="Email Address"
         android:inputType="textEmailAddress"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="25dp"
         android:layout_gravity="center"
          />
 
@@ -52,6 +53,7 @@
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword"
+        android:layout_marginTop="10dp"
         android:layout_gravity="center"
          />
 
@@ -60,13 +62,17 @@
         android:layout_width="210dp"
         android:layout_height="48dp"
         android:text="LOGIN"
+        android:layout_marginTop="15dp"
+        android:background="@color/colorBlue"
         android:layout_gravity="center"/>
 
     <Button
         android:id="@+id/buttonCreateAccount"
         android:layout_width="203dp"
+        android:layout_marginTop="15dp"
         android:layout_height="48dp"
         android:text="Create Account"
+        android:background="@color/colorYellow"
         android:layout_gravity="center"/>
 
 
