@@ -6,9 +6,6 @@ android {
     defaultConfig {
         applicationId "com.cloud.smartcourseapp"
         minSdkVersion 19
-=======
-        minSdkVersion 15
->>>>>>> parent of 312a45a... Restore
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
