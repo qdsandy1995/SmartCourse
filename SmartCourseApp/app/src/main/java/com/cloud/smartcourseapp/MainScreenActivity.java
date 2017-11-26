@@ -1,8 +1,12 @@
 package com.cloud.smartcourseapp;
 
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
+import android.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -20,13 +24,13 @@ public class MainScreenActivity extends AppCompatActivity {
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             switch (item.getItemId()) {
                 case R.id.navigation_home:
-                    //mTextMessage.setText(R.string.title_home);
+                    loadFragment(new HomeFragment());
                     return true;
-                case R.id.navigation_courses:
-                    //mTextMessage.setText(R.string.title_courses);
+                case R.id.navigation_recommendation:
+                    loadFragment(new RecommendationFragment());
                     return true;
-                case R.id.navigation_notifications:
-                    //mTextMessage.setText(R.string.title_notifications);
+                case R.id.navigation_dashboard:
+                    loadFragment(new DashboardFragment());
                     return true;
             }
             return false;
@@ -41,9 +45,9 @@ public class MainScreenActivity extends AppCompatActivity {
         Toolbar myToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(myToolbar);
 
-        mTextMessage = (TextView) findViewById(R.id.mainscreenmessage);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+        loadFragment(new HomeFragment());
     }
 
     @Override
@@ -52,7 +56,19 @@ public class MainScreenActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.toolbar_menu, menu);
         return true;
     }
-
+    private void loadFragment(Fragment fragment) {
+        if(fragment == null) {
+            return;
+        }
+        FragmentManager fragmentManager = getFragmentManager();
+        if(fragmentManager != null){
+            FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+            if(fragmentTransaction != null){
+                fragmentTransaction.replace(R.id.homeEmptyFrame, fragment);
+                fragmentTransaction.commit();
+            }
+        }
+    }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
@@ -63,6 +79,10 @@ public class MainScreenActivity extends AppCompatActivity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
+        }
+        if (id == R.id.action_newRequest) {
+            Intent intent = new Intent(this, CourseRequestActivity.class);
+            startActivity(intent);
         }
 
         return super.onOptionsItemSelected(item);

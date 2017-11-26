@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">SmartCourseApp</string>
+    <string name="request_type">Select request type</string>
+    <string-array name="request_arrays">
+        <item>Exchange</item>
+        <item>Hold</item>
+    </string-array>
+    <string name="career_field">select future career field</string>
+    <string-array name="career_arrays">
+        <item>Big data analysis</item>
+        <item>Machine learning</item>
+        <item>System programmer</item>
+    </string-array>
     <string name="title_home">Home</string>
     <string name="title_courses">Courses</string>
     <string name="title_notifications">Notifications</string>
@@ -20,6 +31,9 @@
         <item>1000</item>
         <item>2000</item>
     </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string-array name="api_names">
         <item>Entities</item>

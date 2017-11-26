@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.cloud.smartcourseapp.UserProfileActivity"
+    >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="60dp"
+        android:text="User Profile"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="30sp"
+        />
+
+    <EditText
+        android:id="@+id/editText13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:inputType="textPersonName"
+        android:hint="Choose your university"
+        />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:entries="@array/career_arrays"
+        android:prompt="@string/career_field"
+        />
+
+    <EditText
+        android:id="@+id/editTextGpa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:inputType="numberDecimal"
+        android:hint="GPA"
+        />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter previous technical courses (optional)"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+
+    <ScrollView android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:maxLines="5"
+        >
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:minLines="3"
+        android:inputType="textMultiLine" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:text="Submit"
+        android:background="@color/colorBlue"
+        android:onClick="submitClick"
+        />
+
+</LinearLayout>
