@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.cloud.smartcourseapp.MainActivity">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Smart Course"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:layout_marginTop="60dp"/>
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/tvOr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Or"
+        android:textAlignment="center"
+        tools:text="Or"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Email Address"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="32dp"
+        android:layout_gravity="center"
+         />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+         />
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="210dp"
+        android:layout_height="48dp"
+        android:text="LOGIN"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/buttonCreateAccount"
+        android:layout_width="203dp"
+        android:layout_height="48dp"
+        android:text="Create Account"
+        android:layout_gravity="center"/>
+
+
+
+
+</LinearLayout>

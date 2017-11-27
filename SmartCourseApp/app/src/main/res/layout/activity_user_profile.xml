@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.cloud.smartcourseapp.UserProfileActivity"
+    >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="40dp"
+        android:text="User Profile"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        />
+
+    <EditText
+        android:id="@+id/editText13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:inputType="textPersonName"
+        android:hint="Choose your university"
+        />
+
+    <EditText
+        android:id="@+id/editTextGpa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:inputType="numberDecimal"
+        android:hint="GPA"
+        />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Future Career and Study direction"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+
+    <EditText
+        android:id="@+id/editTextFutureCareer"
+        android:layout_width="383dp"
+        android:layout_height="173dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/textbox"
+        android:inputType="textMultiLine"
+        android:textAlignment="viewStart" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter previous technical courses (optional)"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+
+    <ScrollView android:layout_height="10dp"
+        android:layout_width="match_parent"
+        android:maxLines="5"
+        >
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:minLines="3"
+        android:inputType="textMultiLine" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Submit"
+        android:textAlignment="center" />
+
+</LinearLayout>
