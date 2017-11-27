@@ -28,7 +28,7 @@ import java.util.List;
  */
 
 public class readData extends AppCompatActivity {
-    private static final String CREDENTIALS_FILE = "CloudPlatform-3d208c60b41c.json";
+    private static final String CREDENTIALS_FILE = "credential.json";
     private static final String PROJECT_ID = "cloudplatform-185115";
 
     private TextView Course_title, Credits, Description, Difficulty, Popularity, Professor_Rating, Field;

@@ -14,7 +14,7 @@ public class UserProfileActivity extends AppCompatActivity implements ApiService
     private static final int LOADER_ACCESS_TOKEN = 1;
     private EditText mInput;
     private ApiService task;
-
+    private long startTime;
 
     private final View.OnClickListener mOnClickListener = new View.OnClickListener() {
         @Override
@@ -74,6 +74,7 @@ public class UserProfileActivity extends AppCompatActivity implements ApiService
 
     private void start_analyze() {
         final String text = mInput.getText().toString();
+        startTime = System.nanoTime();
         task.execute(text);
     }
 
@@ -81,6 +82,8 @@ public class UserProfileActivity extends AppCompatActivity implements ApiService
         //Search database with entities
 
         task.cancel(true);
+        long endTime  = System.nanoTime();
+        long duration = (endTime - startTime);
         Intent intent = new Intent(this, MainScreenActivity.class);
         startActivity(intent);
     }

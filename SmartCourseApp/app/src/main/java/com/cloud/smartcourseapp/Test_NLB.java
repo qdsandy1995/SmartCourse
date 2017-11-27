@@ -137,6 +137,7 @@ public class Test_NLB extends AppCompatActivity implements ApiService.Call_back 
     private void start_analyze() {
 
         final String text = mInput.getText().toString();
+        long startTime = System.nanoTime();
         task.execute(text);
    //     getApiFragment().analyzeEntities(text);
   //      getApiFragment().analyzeSentiment(text);
