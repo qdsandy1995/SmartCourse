@@ -20,22 +20,25 @@ public class DashboardFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
+        final LoadData load = new LoadData();
         View view = inflater.inflate(R.layout.fragment_dashboard, container, false);
         SwipeRefreshLayout mSwipeRefreshLayout = view.findViewById(R.id.dashboard_swiperefreshlayout);
         mSwipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
                 Log.i("log", "onRefreshFromSwipeRefreshLayout");
-                refreshDashboard();
+                load.refreshDashboard();
             }
         });
+
         return view;
     }
     // TODO load data
-    private void refreshDashboard () {
+    public class LoadData extends readData {
 
+        private void refreshDashboard() {
+            ((readData)getActivity()).ButtonChanged();
+        }
     }
-
 
 }

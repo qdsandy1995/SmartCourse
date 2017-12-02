@@ -3,6 +3,7 @@ package com.cloud.smartcourseapp;
 /**
  * Created by fengjie on 11/26/17.
  */
+import android.content.Context;
 import android.content.res.AssetManager;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
@@ -28,8 +29,9 @@ import java.util.List;
  */
 
 public class readData extends AppCompatActivity {
+
     private static final String CREDENTIALS_FILE = "credential.json";
-    private static final String PROJECT_ID = "cloudplatform-185115";
+    private static final String PROJECT_ID = "smartcourse-e4806";
 
     private TextView Course_title, Credits, Description, Difficulty, Popularity, Professor_Rating, Field;
 
@@ -53,10 +55,12 @@ public class readData extends AppCompatActivity {
                 "}";
 
         new readData.BigQueryTask().execute(newRow);
-
     }
 
-    private class BigQueryTask extends AsyncTask<String, Integer, String> {
+
+
+    public class BigQueryTask extends AsyncTask<String, Integer, String> {
+
         protected void onPreExecute() {
             super.onPreExecute();
             Log.d("Main", "Launching BigQuery API request");
@@ -80,7 +84,7 @@ public class readData extends AppCompatActivity {
                         .pageSize(1000L)
                         .build();
                 */
-                QueryRequest.Builder qb = QueryRequest.builder("SELECT Field FROM example");
+                QueryRequest.Builder qb = QueryRequest.builder("SELECT Course_title FROM Course_Data");
                 qb.defaultDataset(DatasetId.of("uf_cs"));
                 qb.maxWaitTime(60000L);
                 qb.pageSize(1000L);

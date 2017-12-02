@@ -31,8 +31,8 @@ import java.nio.charset.StandardCharsets;
 public class writeData extends AppCompatActivity {
 
 
-    private static final String CREDENTIALS_FILE = "CloudPlatform-3d208c60b41c.json";
-    private static final String PROJECT_ID = "cloudplatform-185115";
+    private static final String CREDENTIALS_FILE = "credential.json";
+    private static final String PROJECT_ID = "smartcourse-e4806";
     private final int ROW_INTERVAL = 10;
     private int num_rows = 0;
     private TextView Course_title, Credits, Description, Difficulty, Popularity, Professor_Rating, Field;
