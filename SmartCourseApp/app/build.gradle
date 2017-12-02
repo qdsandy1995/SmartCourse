@@ -10,6 +10,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -26,16 +27,18 @@ android {
 }
 
 dependencies {
-    implementation 'com.android.support:support-v4:26.1.0'
+   // implementation 'com.android.support:support-v4:26.1.0'
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     // Dependencies for Google API Client Libraries
     implementation ('com.google.cloud:gcloud-java-bigquery:0.2.1') {
         exclude group: 'com.google.api-client', module: 'google-api-client-appengine'
+        exclude group: 'com.google.guava'
     }
 
     implementation('com.google.http-client:google-http-client:1.22.0') {
         exclude module: 'httpclient'
         exclude module: 'jsr305'
+        exclude group: 'com.google.guava'
     }
     implementation('com.google.api-client:google-api-client-android:1.22.0') {
         exclude module: 'httpclient'
@@ -44,6 +47,7 @@ dependencies {
     implementation('com.google.apis:google-api-services-language:v1-rev386-1.22.0') {
         exclude module: 'httpclient'
         exclude module: 'jsr305'
+        exclude group: 'com.google.guava'
     }
 
     implementation 'com.android.support:appcompat-v7:26.1.0'
