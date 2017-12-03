@@ -90,8 +90,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void LoginIn(View view) {
-        Intent intent = new Intent(this, UserProfileActivity.class);
+        Intent intent = new Intent(this, CareerSelectionActivity.class);
         startActivity(intent);
+        finish();
     }
 
     private void signIn()

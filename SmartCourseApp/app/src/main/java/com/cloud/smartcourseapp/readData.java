@@ -29,6 +29,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 // import static java.security.AccessController.getContext;
@@ -43,7 +44,7 @@ public class readData extends AppCompatActivity {
     private static final String PROJECT_ID = "smartcourse-e4806";
 
     public interface call_back{
-        void onQuery_Ready(List<String> rows);
+        void onQuery_Ready(List<String> rows, List<String> credits, List<String> descriptions);
     }
 
     private call_back mCallback;
@@ -110,7 +111,7 @@ public class readData extends AppCompatActivity {
                         .pageSize(1000L)
                         .build();
                 */
-                String search = "SELECT Course_title FROM Course_Data WHERE Description CONTAINS " + "'" + contents[0] + "'";
+                String search = "SELECT Course_title,Credits,Description FROM Course_Data WHERE Description CONTAINS " + "'" + contents[0] + "'";
                 QueryRequest.Builder qb = QueryRequest.builder(search);
                 qb.defaultDataset(DatasetId.of("test_data"));
                 qb.maxWaitTime(60000L);
@@ -122,21 +123,30 @@ public class readData extends AppCompatActivity {
                     response = bigquery.getQueryResults(response.jobId());
                 }
                 //List<FieldValue> row = new ArrayList<>();;
-                List<String> row = new ArrayList<>() ;
+                List<String> titles = new ArrayList<>() ;
+                List<String> credits = new ArrayList<>() ;
+                List<String> descriptions = new ArrayList<>() ;
                 List<BigQueryError> executionErrors = response.executionErrors();
+                Pattern p = Pattern.compile(Pattern.quote("Introduces") + "(.*?)" + Pattern.quote("}"));
                 // look for errors in executionErrors
                 QueryResult result = response.result();
+                //String a = result.values();
+                Iterable<List<FieldValue>> q = result.values();
                 Iterator<List<FieldValue>> rowIterator = result.iterateAll();
                 while(rowIterator.hasNext()) {
-                    String temp = rowIterator.next().toString();
-                    temp = temp.substring(temp.lastIndexOf("=") + 1);
-                    String[] seg = temp.split(Pattern.quote("}"));
-                    row.add(seg[0]);
+                    List<FieldValue> k = rowIterator.next();
+                    for(int i = 0; i < k.size()-2; i+=3){
+                        titles.add(k.get(i).stringValue());
+                        credits.add(k.get(i+1).stringValue());
+                        descriptions.add(k.get(i+2).stringValue());
+                    }
+
+                  //   temp = temp.substring(temp.lastIndexOf("=") + 1);
+                    //  String[] seg = temp.split(Pattern.quote("}"));
                  //   System.out.println(row);
-                    // do something with row
                 }
                 if (mCallback != null) {
-                    mCallback.onQuery_Ready(row);
+                    mCallback.onQuery_Ready(titles,credits,descriptions);
                 }
             }catch (Exception e) {
                 Log.d("Main", "Exception: " + e.toString());

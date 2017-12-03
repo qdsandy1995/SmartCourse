@@ -27,10 +27,10 @@ android {
 }
 
 dependencies {
-   // implementation 'com.android.support:support-v4:26.1.0'
+    // implementation 'com.android.support:support-v4:26.1.0'
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     // Dependencies for Google API Client Libraries
-    implementation ('com.google.cloud:gcloud-java-bigquery:0.2.1') {
+    implementation('com.google.cloud:gcloud-java-bigquery:0.2.1') {
         exclude group: 'com.google.api-client', module: 'google-api-client-appengine'
     }
 
@@ -53,7 +53,7 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     implementation 'com.android.support:design:26.1.0'
     implementation 'com.google.code.findbugs:jsr305:2.0.1'
-    testImplementation  'junit:junit:4.12'
+    testImplementation 'junit:junit:4.12'
     implementation 'com.google.android.gms:play-services-auth:11.6.0'
 }
 apply plugin: 'com.google.gms.google-services'

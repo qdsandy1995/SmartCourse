@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class UserProfileActivity extends AppCompatActivity implements ApiService.Call_back{
+    private String msg;
     private static final int LOADER_ACCESS_TOKEN = 1;
     private EditText mInput;
     private ApiService task;
@@ -38,7 +39,8 @@ public class UserProfileActivity extends AppCompatActivity implements ApiService
         mInput = (EditText) findViewById(R.id.editTextFutureCareer);
         mInput.setHorizontallyScrolling(false);
         mInput.setMaxLines(Integer.MAX_VALUE);
-
+        Intent intent = getIntent();
+        msg = intent.getStringExtra("msg");
         // Bind event listeners
         findViewById(R.id.buttonSubmit).setOnClickListener(mOnClickListener);
         task = new ApiService(UserProfileActivity.this);
@@ -81,11 +83,13 @@ public class UserProfileActivity extends AppCompatActivity implements ApiService
     public void onEntitiesReady(EntityInfo[] entities) {
         //Search database with entities
 
-        task.cancel(true);
+     //   task.cancel(true);
         long endTime  = System.nanoTime();
         long duration = (endTime - startTime);
         Intent intent = new Intent(this, MainScreenActivity.class);
+        intent.putExtra("msg",msg);
         startActivity(intent);
+        finish();
     }
 
     public void onSentimentReady(SentimentInfo  sentiment) {}

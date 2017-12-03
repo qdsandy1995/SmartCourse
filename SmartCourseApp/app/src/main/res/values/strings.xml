@@ -42,4 +42,5 @@
     </string-array>
 
     <string name="salience_format">Salience: %.3f</string>
+    <string name="title_activity_career_selection">CareerSelectionActivity</string>
 </resources>

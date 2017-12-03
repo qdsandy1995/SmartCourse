@@ -23,11 +23,13 @@ public class MainScreenActivity extends AppCompatActivity implements readData.ca
     private readData.BigQueryTask queryTask;
     private int flag = 0;
     private  RecommendationFragment frag;
-    public void onQuery_Ready(List<String> rows)
+    public void onQuery_Ready(List<String> titles, List<String> credits, List<String> descriptions)
     {
         frag = new RecommendationFragment();
         Bundle b = new Bundle();
-        b.putStringArrayList("list",new ArrayList<>(rows));
+        b.putStringArrayList("title",new ArrayList<>(titles));
+        b.putStringArrayList("credit",new ArrayList<>(credits));
+        b.putStringArrayList("description",new ArrayList<>(descriptions));
         frag.setArguments(b);
         flag = 1;
         //System.out.println(result);
@@ -65,9 +67,10 @@ public class MainScreenActivity extends AppCompatActivity implements readData.ca
         setSupportActionBar(myToolbar);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+        Intent intent = getIntent();
         task = new readData(MainScreenActivity.this);
         queryTask = task.new BigQueryTask(MainScreenActivity.this);
-        queryTask.execute("system");
+        queryTask.execute(intent.getStringExtra("msg"));
         loadFragment(new HomeFragment());
     }
 

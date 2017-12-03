@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.cloud.bigquery.FieldValue;
@@ -25,7 +26,9 @@ public class RecommendationFragment extends Fragment {
 
     private static final int REQ_CODE_RECOM = 9002;
     private ListView courseList;
-
+    private TextView title;
+    private TextView credit;
+   private  Bundle bundle;
     private List<String> result;
     private String[] courses = new String[]{
          "Data structure", "Cloud computing", "Algorithm"
@@ -45,9 +48,9 @@ public class RecommendationFragment extends Fragment {
         courseList = view.findViewById(R.id.courseList);
 
 
-        Bundle bundle = getArguments();
+        bundle = getArguments();
         ArrayAdapter<String> adapter = new ArrayAdapter<>
-                (view.getContext(), android.R.layout.simple_list_item_1, android.R.id.text1, bundle.getStringArrayList("list"));
+                (view.getContext(), android.R.layout.simple_list_item_1, android.R.id.text1, bundle.getStringArrayList("title"));
 
         courseList.setAdapter(adapter);
 
@@ -58,7 +61,13 @@ public class RecommendationFragment extends Fragment {
                 int itemPosition = position;
                 // ListView Clicked item value
                 String itemValue = (String) courseList.getItemAtPosition(position);
+
                 Intent intent = new Intent(getActivity(), CourseScreenActivity.class);
+                Bundle course = new Bundle();
+                course.putString("t",bundle.getStringArrayList("title").get(position));
+                course.putString("c",bundle.getStringArrayList("credit").get(position));
+                course.putString("d",bundle.getStringArrayList("description").get(position));
+                intent.putExtras(course);
                 Toast.makeText( getActivity().getApplicationContext(),
                         "Click Item",Toast.LENGTH_LONG).show();
                 startActivity(intent);
