@@ -13,12 +13,30 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-public class MainScreenActivity extends AppCompatActivity {
+import java.util.ArrayList;
+import java.util.List;
+
+public class MainScreenActivity extends AppCompatActivity implements readData.call_back {
 
     private TextView mTextMessage;
+    private readData task;
+    private readData.BigQueryTask queryTask;
+    private int flag = 0;
+    private  RecommendationFragment frag;
+    public void onQuery_Ready(List<String> rows)
+    {
+        frag = new RecommendationFragment();
+        Bundle b = new Bundle();
+        b.putStringArrayList("list",new ArrayList<>(rows));
+        frag.setArguments(b);
+        flag = 1;
+        //System.out.println(result);
+        // queryTask.cancel(true);
+    }
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
+
 
         @Override
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
@@ -27,7 +45,8 @@ public class MainScreenActivity extends AppCompatActivity {
                     loadFragment(new HomeFragment());
                     return true;
                 case R.id.navigation_recommendation:
-                    loadFragment(new RecommendationFragment());
+                    while(flag == 0) {}
+                    loadFragment(frag);
                     return true;
                 case R.id.navigation_dashboard:
                     loadFragment(new DashboardFragment());
@@ -44,9 +63,11 @@ public class MainScreenActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main_screen);
         Toolbar myToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(myToolbar);
-
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+        task = new readData(MainScreenActivity.this);
+        queryTask = task.new BigQueryTask(MainScreenActivity.this);
+        queryTask.execute("system");
         loadFragment(new HomeFragment());
     }
 

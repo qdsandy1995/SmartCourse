@@ -14,11 +14,19 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.google.cloud.bigquery.FieldValue;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 
 public class RecommendationFragment extends Fragment {
 
     private static final int REQ_CODE_RECOM = 9002;
     private ListView courseList;
+
+    private List<String> result;
     private String[] courses = new String[]{
          "Data structure", "Cloud computing", "Algorithm"
     };
@@ -26,6 +34,7 @@ public class RecommendationFragment extends Fragment {
     public RecommendationFragment() {
 
     }
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -35,8 +44,10 @@ public class RecommendationFragment extends Fragment {
 
         courseList = view.findViewById(R.id.courseList);
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>
-                (view.getContext(), android.R.layout.simple_list_item_1, android.R.id.text1, courses);
+
+        Bundle bundle = getArguments();
+        ArrayAdapter<String> adapter = new ArrayAdapter<>
+                (view.getContext(), android.R.layout.simple_list_item_1, android.R.id.text1, bundle.getStringArrayList("list"));
 
         courseList.setAdapter(adapter);
 
@@ -50,13 +61,14 @@ public class RecommendationFragment extends Fragment {
                 Intent intent = new Intent(getActivity(), CourseScreenActivity.class);
                 Toast.makeText( getActivity().getApplicationContext(),
                         "Click Item",Toast.LENGTH_LONG).show();
-                startActivityForResult(intent, REQ_CODE_RECOM);
+                startActivity(intent);
             }
         });
 
         return view;
     }
 
+    /*
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         // If the activity result was received from the "Get Car" request
@@ -75,4 +87,5 @@ public class RecommendationFragment extends Fragment {
             super.onActivityResult(requestCode, resultCode, data);
         }
     }
+    */
 }

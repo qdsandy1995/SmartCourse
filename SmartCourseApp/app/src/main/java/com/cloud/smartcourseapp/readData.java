@@ -6,32 +6,52 @@ package com.cloud.smartcourseapp;
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.os.AsyncTask;
+import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.TextView;
+import android.view.View;
 
+
+import java.util.StringJoiner;
 import com.google.cloud.AuthCredentials;
 import com.google.cloud.bigquery.BigQuery;
 import com.google.cloud.bigquery.BigQueryError;
 import com.google.cloud.bigquery.BigQueryOptions;
 import com.google.cloud.bigquery.DatasetId;
 import com.google.cloud.bigquery.FieldValue;
+import com.google.cloud.bigquery.QueryJobConfiguration;
 import com.google.cloud.bigquery.QueryRequest;
 import com.google.cloud.bigquery.QueryResponse;
 import com.google.cloud.bigquery.QueryResult;
 
-import java.io.InputStream;
+import java.io.*;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.regex.Pattern;
+
+// import static java.security.AccessController.getContext;
 
 /**
  * Created by fengjie on 11/15/17.
  */
 
 public class readData extends AppCompatActivity {
-
+    private Context mContext;
     private static final String CREDENTIALS_FILE = "credential.json";
     private static final String PROJECT_ID = "smartcourse-e4806";
+
+    public interface call_back{
+        void onQuery_Ready(List<String> rows);
+    }
+
+    private call_back mCallback;
+
+    public readData() {}
+    public readData(call_back activityContext){
+        this.mCallback = activityContext;
+    }
 
     private TextView Course_title, Credits, Description, Difficulty, Popularity, Professor_Rating, Field;
 
@@ -54,12 +74,18 @@ public class readData extends AppCompatActivity {
                 ", \"Field\": " + "cs" +
                 "}";
 
-        new readData.BigQueryTask().execute(newRow);
+        new readData.BigQueryTask(mContext).execute();
     }
 
 
-
     public class BigQueryTask extends AsyncTask<String, Integer, String> {
+
+
+
+
+        public BigQueryTask (Context context){
+            mContext = context;
+        }
 
         protected void onPreExecute() {
             super.onPreExecute();
@@ -70,7 +96,7 @@ public class readData extends AppCompatActivity {
         @Override
         protected String doInBackground(String... contents) {
             try {
-                AssetManager am = readData.this.getAssets();
+                AssetManager am = mContext.getAssets();
                 InputStream isCredentialsFile = am.open(CREDENTIALS_FILE);
                 BigQuery bigquery = BigQueryOptions.builder()
                         .authCredentials(AuthCredentials.createForJson(isCredentialsFile))
@@ -84,27 +110,34 @@ public class readData extends AppCompatActivity {
                         .pageSize(1000L)
                         .build();
                 */
-                QueryRequest.Builder qb = QueryRequest.builder("SELECT Course_title FROM Course_Data");
-                qb.defaultDataset(DatasetId.of("uf_cs"));
+                String search = "SELECT Course_title FROM Course_Data WHERE Description CONTAINS " + "'" + contents[0] + "'";
+                QueryRequest.Builder qb = QueryRequest.builder(search);
+                qb.defaultDataset(DatasetId.of("test_data"));
                 qb.maxWaitTime(60000L);
                 qb.pageSize(1000L);
                 QueryRequest request =  qb.build();
-
                 QueryResponse response = bigquery.query(request);
                 while (!response.jobCompleted()) {
                     Thread.sleep(1000);
                     response = bigquery.getQueryResults(response.jobId());
                 }
+                //List<FieldValue> row = new ArrayList<>();;
+                List<String> row = new ArrayList<>() ;
                 List<BigQueryError> executionErrors = response.executionErrors();
                 // look for errors in executionErrors
                 QueryResult result = response.result();
                 Iterator<List<FieldValue>> rowIterator = result.iterateAll();
                 while(rowIterator.hasNext()) {
-                    List<FieldValue> row = rowIterator.next();
-                    System.out.println(row);
+                    String temp = rowIterator.next().toString();
+                    temp = temp.substring(temp.lastIndexOf("=") + 1);
+                    String[] seg = temp.split(Pattern.quote("}"));
+                    row.add(seg[0]);
+                 //   System.out.println(row);
                     // do something with row
                 }
-
+                if (mCallback != null) {
+                    mCallback.onQuery_Ready(row);
+                }
             }catch (Exception e) {
                 Log.d("Main", "Exception: " + e.toString());
             }

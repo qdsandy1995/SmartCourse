@@ -32,17 +32,16 @@ dependencies {
     // Dependencies for Google API Client Libraries
     implementation ('com.google.cloud:gcloud-java-bigquery:0.2.1') {
         exclude group: 'com.google.api-client', module: 'google-api-client-appengine'
-        exclude group: 'com.google.guava'
     }
 
     implementation('com.google.http-client:google-http-client:1.22.0') {
         exclude module: 'httpclient'
         exclude module: 'jsr305'
-        exclude group: 'com.google.guava'
     }
     implementation('com.google.api-client:google-api-client-android:1.22.0') {
         exclude module: 'httpclient'
         exclude module: 'jsr305'
+        exclude group: 'com.google.guava'
     }
     implementation('com.google.apis:google-api-services-language:v1-rev386-1.22.0') {
         exclude module: 'httpclient'

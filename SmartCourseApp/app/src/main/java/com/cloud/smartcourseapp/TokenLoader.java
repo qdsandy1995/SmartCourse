@@ -23,7 +23,7 @@ public class TokenLoader extends AsyncTaskLoader<String> {
     private static final String PREFS = "TokenLoader";
     private static final String PREF_ACCESS_TOKEN = "access_toke n";
 
-    public TokenLoader(Context context) {
+     public TokenLoader(Context context) {
         super(context);
     }
 

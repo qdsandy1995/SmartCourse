@@ -37,7 +37,7 @@ public class DashboardFragment extends Fragment {
     public class LoadData extends readData {
 
         private void refreshDashboard() {
-            ((readData)getActivity()).ButtonChanged();
+
         }
     }
 
