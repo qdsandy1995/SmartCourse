@@ -1,0 +1,1056 @@
+{"Rice University":[
+ {"RICE_CS": [
+  {
+   "Course title": "COMP 007 - VISITING RESEARCH",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 100 - INTRO COMPUTING & INFO SYS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 110 - COMPUTATION IN SCI & ENGI",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 130 - ELEMENTS OF ALGORITHMS & COMP",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 140 - COMPUTATIONAL THINKING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 160 - INTRO TO GAME PROG IN PYTHON",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 162 - INTRO TO GAME CONTENT CREATION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 180 - PRINCIPLES OF COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 182 - ALGORITHMIC THINKING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 200 - ELEMENTS OF COMPUTER SCIENCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 215 - INTRODUCTION TO PROGRAM DESIGN",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 281 - NUMBER HISTORY/GAMES OF CHANCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 290 - COMPUTER SCIENCE PROJECTS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 300 - SOCIETY IN THE INFORMATION AGE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 310 - ADV OBJECT-ORIENTED PROG",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 311 - FUNCTIONAL PROGRAMMING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 314 - APPL ALGORITHMS&DATA STRUCTURE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 316 - VIRTL RECONSTR HISTORCL CITIES",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 321 - INTRO TO COMPUTER SYSTEMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 322 - FUNDAMENTALS OF PARALLEL PROG",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 326 - DIGITAL LOGIC DESIGN",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 327 - INTRO TO COMPUTER SECURITY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 330 - TOOLS & MODELS - DATA SCIENCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 360 - COMPUTER GRAPHICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 361 - GEOMETRIC MODELING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 370 - EVOLUTIONARY BIOINFORMATICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 382 - REASONING ABOUT ALGORITHMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 390 - COMPUTER SCIENCE PROJECTS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 402 - PRODUCTION PROGRAMMING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 405 - ADV TOP OBJECT/ORIENTED DESIGN",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 409 - ADV. LOGIC IN COMPUTER SCIENCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 410 - SOFTWARE ENGINEER METHODOLOGY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 411 - PRINCIPLES OF PROG LANGUAGES",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 412 - COMPILER CONSTRUCTION - UG",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 413 - DISTRIB PROGRAM CONSTRUCTION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 415 - REAL-WORLD SOFTWARE DEVELOPMNT",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 420 - INTRO TO DISTRIBUTED COMP SYS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 421 - OP SYS/CONCURRENT PROGRAMMING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 422 - PARALLEL COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 424 - MOBILE & EMBEDDED SYSTEM",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 425 - COMPUTER SYSTEMS ARCHITECTURE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 427 - INTRO TO COMPUTER SECURITY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 429 - INTRO TO COMPUTER NETWORKS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 430 - INTRO TO DATABASE SYSTEMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 431 - WEB DEVELOPMENT",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 435 - ELECTION SYSTEMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 440 - ARTIFICIAL INTELLIGENCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 441 - LARGE-SCALE MACHINE LEARNING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 446 - MOBILE DEVICE APPLICATIONS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 447 - INTRO TO COMPUTER VISION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 450 - ALGORITHMIC ROBOTICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 451 - DESIGN&ANALYSIS CYBER/PHYSICAL",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 460 - ADV COMPUTER GRAPHICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 470 - FROM SEQUENCE TO STRUCTURE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 477 - SPECIAL TOPICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 481 - AUTOMATA/FORMAL LANG/COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 485 - FUND MEDICAL IMAGING I",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 486 - FUND MEDICAL IMAGING II",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 487 - COMPUTATIONAL COMPLEXITY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 490 - COMPUTER SCIENCE PROJECTS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 491 - COMPUTER SCIENCE TEACHING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 496 - RTG CROSS-TRAINING IN DATA SCI",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 498 - INTRODUCTION TO ROBOTICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 501 - PRODUCTION PROGRAMMING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 502 - NEURAL MACHINE LEARNING I",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 504 - GR OBJ-ORIENTED PROG & DESIGN",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 505 - ADV TOP OBJECT/ORIENTED DESIGN",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 506 - COMPILER CONSTRUCTION - GR",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 507 - COMPUTER-AIDED PROGRAM DESIGN",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 508 - SECURE EMBEDDED SYS FOR IoT",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 509 - ADV LOGIC IN COMPUTER SCIENCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 511 - PRINCIPLES OF PROG LANGUAGES",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 512 - ADVANCED COMPILER CONSTRUCTION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 513 - COMPLEXITY IN MODERN SYSTEMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 514 - SUSTAINABILITY & ENERGY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 515 - ADV COMPILATION VECTOR PARALEL",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 516 - CLOUD COMPUTING PRACTICUM",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 518 - ENERGY EFFICIENCY MODERN SYS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 519 - NETWORK SYSTEMS ARCHITECTURE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 520 - DISTRIBUTED SYSTEMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 521 - OP SYS/CONCURRENT PROGRAMMING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 522 - MULTI-CORE COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 523 - COMPUTER-AIDED DESIGN FOR VLSI",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  }
+],
+  "RICE_ECE":[
+{
+   "Course title": "COMP 524 - MOBILE AND WIRELESS NETWORKING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 525 - VIRTUAL & CLOUD RESOURCE MGMT",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 526 - HIGH PERFORM COMPUTER ARCH",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 527 - COMPUTER SYSTEMS SECURITY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 528 - INTRODUCTION TO VIRTUALIZATION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 529 - ADVANCED COMPUTER NETWORKS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 530 - DATABASE SYSTEM IMPLEMENTATION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 531 - WEB DEVELOPMENT AND DESIGN",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 532 - INTRO TO DISTRIBUTED COMP SYS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 533 - INTRO TO DATABASE SYSTEMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 534 - PARALLEL COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 535 - APPROX COMP SYS FOR BIG DATA",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 538 - EMBEDDED HW SYSTEMS SECURITY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 539 - SOFTWARE ENGINEER METHODOLOGY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 540 - STATISTICAL MACHINE LEARNING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 541 - INTRO TO COMPUTER SECURITY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 542 - LARGE-SCALE MACHINE LEARNING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 546 - INTRO TO COMPUTER VISION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 550 - ALGORITHMIC ROBOTICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 552 - DESIGN&ANALYSIS CYBER-PHYS SYS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 554 - COMPUTER SYSTEMS ARCHITECTURE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 555 - DESIGN&ANALYSIS CYBER/PHYSICAL",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 556 - INTRO TO COMPUTER NETWORKS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 557 - ARTIFICIAL INTELLIGENCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 560 - COMPUTER GRAPHICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 561 - GEOMETRIC MODELING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 571 - BIOINFORMATICS: SEQUENCE",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 572 - BIOINFORMATICS: NETWORKS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 573 - BIOMEDICAL INFORMATICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 576 - INTRODUCTION TO DEEP LEARNING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 581 - AUTOMATA/FORMAL LANG/COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 582 - GR DESGN ANALY OF ALGORITHMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 587 - COMPUTATIONAL COMPLEXITY",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 590 - COMPUTER SCIENCE PROJECTS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 591 - GRAD COMPUTER SCIENCE TEACHING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 598 - INTRODUCTION TO ROBOTICS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 600 - GRADUATE SEMINAR",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 601 - WRITING & EDITING CONF PAPERS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 602 - NEURAL MACHINE LEARNING II",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 607 - AUTOMATED PROGRAM VERIFICATION",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 620 - GRAD SEMINAR DIST COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 640 - GR SEM IN MACHINE LEARNING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 650 - PHYSICAL COMPUTING",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 690 - RESEARCH AND THESIS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 693 - ADV TOPICS - COMPUTER SYSTEMS",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 694 - HOW TO BE A CTO",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 696 - RTG CROSS-TRAINING IN DATA SCI",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "COMP 800 - GRADUATE RESEARCH",
+   "Credits": "3",
+   "Description": "Research conducted by a visiting student scholars. Department Permission Required. Repeatable for Credit.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  }
+ ]
+ }
+]
+}

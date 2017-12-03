@@ -1,0 +1,1028 @@
+{"Washington University in St. Louis":[
+ {"WUSTL_CS": [
+  {
+   "Course title": "E81 CSE 104 Web Development",
+   "Credits": "3",
+   "Description": "This comprehensive course does not assume prior programming background or web design experience. Explores elementary principles that go into designing, creating and publishing an effective website. Topics include the production process, design metaphors, interface/information design, page layout concepts, graphics preparation, color theory, development tools, HTML, style sheets, basic scripting techniques, search engine optimization and site maintenance/marketing strategies."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 131 Computer Science I",
+   "Credits": "3",
+   "Description": "An introduction to software concepts and implementation, emphasizing problem solving through abstraction and decomposition. Introduces processes and algorithms, procedural abstraction, data abstraction, encapsulation and object-oriented programming. Recursion, iteration and simple data structures are covered. Concepts and skills are mastered through programming projects, many of which employ graphics to enhance conceptual understanding. Java, an object-oriented programming language, is the vehicle of exploration. Active-learning sessions are conducted in a studio setting in which students interact with each other and the professor to solve problems collaboratively. Prerequisites: Comfort with algebra and geometry at the high school level is assumed. Patience, good planning and organization promote success. This course assumes no prior experience with programming."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 131R Seminar: Computer Science I",
+   "Credits": "1",
+   "Description": "A seminar and discussion session that complements the material studied in CSE 131. Provides background and breadth for the disciplines of computer science and computer engineering. Features guest lectures and highly interactive discussions of diverse computer science topics. Highly recommended for majors and for any student seeking a broader view of computer science or computer engineering. Pass/Fail only."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 132 Computer Science II",
+   "Credits": "3",
+   "Description": "CSE 132 introduces students to fundamental concepts in the basic operation of computers, ranging from desktops and servers to microcontrollers and handheld devices. Subjects include digital and analog input/output, sensing the physical world, information representation, basic computer architecture and machine language, time-critical computation, machine-to-machine communication and protocol design. Students will use both desktop systems and handheld microcontrollers for laboratory experiments. Active-learning sessions are conducted in a studio setting in which students interact with each other and the professor to solve problems collaboratively. Prerequisite: CSE 131."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 141 The Digital Society",
+   "Credits": "3",
+   "Description": "Our modern digital society is both exciting and challenging. As the effectiveness of computing advances, and digital technologies like the internet and algorithmic decision-making affect and penetrate more and more aspects of our lives, we face extraordinary opportunities and equally extraordinary challenges. Computer driven automation increases our quality of life but eradicates our jobs! The internet and smartphones keep us connected but subject us to growing corporate, government and criminal surveillance! In this course, co-taught by professors from the Schools of Engineering and Law, we will examine the fundamental technical underpinnings of digital society and its consequences. We will discuss \"Welcome to the Future,\" \"The Future of Jobs,\" and \"The Future of Humans.\" All aspects of life are evolving rapidly in our digital society, and we will draw on expert and engaging guest speakers from all seven schools of Washington University and intellectual leaders from beyond our campus to share their perspectives and insights. This course will help students to perceive the modern world in new ways in order to better understand how technological shifts are changing and challenging notions of individual and collective prosperity. Our goal is to give students both the technical understanding of how our new technologies work and the critical skills to evaluate them for themselves as citizens and leaders of our new digital society.\nSame as I50 InterD 141"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 222S Internet of Things",
+   "Credits": "3",
+   "Description": "For a very long time, the Things in our world have lived relatively lonely and single-purposed lives. With the advent of the Internet of Things, we can address, control, and interconnect these formerly isolated devices to create new and interesting applications. In this course we study Bluetooth Low Energy, one of the fundamental networking technologies behind Internet-of-Things devices, and Appcessories, which include smart watches, health monitors, toys and appliances. In addition to learning about the Bluetooth Low Energy protocol and network stack, students gain hands-on experience developing multi-platform solutions that control and communicate with Things using an accompanying app on a mobile device. Students apply their knowledge and skill to develop a project of their choosing using topics from the course. Prerequisite: CSE 132."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 231S Introduction to Parallel and Concurrent Programming",
+   "Credits": "3",
+   "Description": "This course explores concepts, techniques, and design approaches for parallel and concurrent programming. We study how to write programs that make use of multiple processors for responsiveness and that share resources reliably and fairly. Parallel programming concepts include task-level, functional, and loop-level parallelism. Concurrent programming concepts include threads, synchronization and locks. We cover how to adapt algorithms to achieve determinism and avoid data races and deadlock. Concepts and skills are acquired through the design and implementation of software projects. Collaboration skills are developed through work performed in small teams. Prerequisite: CSE 131 or equivalent."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 232 Programming Skills Workshop",
+   "Credits": "1",
+   "Description": "This course provides an overview of practical implementation skills. Topics include compilation and linking, memory management, pointers and references, using code libraries, testing and debugging. Prerequisites: CSE 132."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 240 Logic and Discrete Mathematics",
+   "Credits": "3",
+   "Description": "Introduces elements of logic and discrete mathematics that allow reasoning about computational structures and processes. Generally, the areas of discrete structures, proof techniques, probability and computational models are covered. Topics typically include propositional and predicate logic; sets, relations, functions and graphs; proof by contradiction, induction and reduction; finite state machines and regular languages; and introduction to discrete probability, expected value and variance. Prerequisite: CSE 131."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 247 Data Structures and Algorithms",
+   "Credits": "3",
+   "Description": "Study of fundamental algorithms, data structures, and their effective use in a variety of applications. Emphasizes importance of data structure choice and implementation for obtaining the most efficient algorithm for solving a given problem. A key component of this course is worst-case asymptotic analysis, which provides a quick and simple method for determining the scalability and effectiveness of an algorithm. Prerequisite: CSE 240."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 260M Introduction to Digital Logic and Computer Design",
+   "Credits": "3",
+   "Description": "Introduction to design methods for digital logic and fundamentals of computer architecture. Boolean algebra and logic minimization techniques; sources of delay in combinational circuits and effect on circuit performance; survey of common combinational circuit components; sequential circuit design and analysis; timing analysis of sequential circuits; use of computer-aided design tools for digital logic design (schematic capture, hardware description languages, simulation); design of simple processors and memory subsystems; program execution in simple processors; basic techniques for enhancing processor performance; configurable logic devices. Prerequisites: CSE 131."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 316A Social Network Analysis",
+   "Credits": "3",
+   "Description": "This course looks at social networks and markets through the eyes of a computer scientist. We will look at questions including, \"Why are acquaintances rather than friends more likely to get us job opportunities?\" and, \"Why do the rich get richer?\" We begin by studying graph theory (allowing us to study the structure) and game theory (allowing us to study the interactions) of social networks and market behavior at the introductory level. Among other topics, we will study auctions, epidemics, and the structure of the internet (including web searches). This course examines the intersection of computer science, economics, sociology, and applied mathematics. Prerequisites: CSE 247 and ESE 326."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 330S Rapid Prototype Development and Creative Programming",
+   "Credits": "3",
+   "Description": "This course uses web development as a vehicle for developing skills in rapid prototyping. Students acquire the skills to build a Linux web server in Apache, to write a website from scratch in PHP, to run an SQL database, to perform scripting in Python, to employ the AngularJS web framework, and to develop modern web applications in client-side and server-side JavaScript. The course culminates with a creative project in which students are able to synthesize the course material into a project of their own interest. The course implements an interactive studio format: After a formal presentation of a topic, students develop a related project under the supervision of the instructor. Prerequisite: CSE 131."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 332S Object-Oriented Software Development Laboratory",
+   "Credits": "3",
+   "Description": "Intensive focus on practical aspects of designing, implementing and debugging software, using object-oriented, procedural, and generic programming techniques. The course emphasizes familiarity and proficiency with a wide range of C++ language features through hands-on practice completing studio exercises and lab assignments, supplemented with readings and summary presentations for each session. Prerequisites: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 341T Parallel and Sequential Algorithms",
+   "Credits": "3",
+   "Description": "The course aims to teach how to design, analyze and implement parallel algorithms. The emphasis is on teaching fundamental principles and design techniques that easily transfer over to parallel programming. These techniques include divide and conquer, contraction, the greedy method, etc. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 347 Analysis of Algorithms",
+   "Credits": "3",
+   "Description": "Introduces techniques for the mathematical analysis of algorithms, including randomized algorithms and non-worst-case analyses such as amortized and competitive analysis. Introduces the standard paradigms of divide-and-conquer, greedy, and dynamic programming algorithms, as well as reductions. Also provides an introduction to the study of intractability and techniques to determine when good algorithms cannot be designed. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 361S Introduction to Systems Software",
+   "Credits": "3",
+   "Description": "Introduction to the hardware and software foundations of computer processing systems. This course provides a programmer's perspective of how computer systems execute programs and store information. The course material aims to enable students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for other system courses, such as compilers, networks, and operating systems, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, and supporting concurrent computation. Prerequisites: CSE 132."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 362M Computer Architecture",
+   "Credits": "3",
+   "Description": "This course explores the interaction and design philosophy of hardware and software for digital computer systems. Topics include: processor architecture, instruction set architecture, Assembly Language, memory hierarchy design, I/O considerations, and a comparison of computer architectures. Prerequisite: CSE 260M."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 365S Elements of Computing Systems",
+   "Credits": "3",
+   "Description": "All computers are made up of 0s and 1s. However, the conceptual gap between the 0s and 1s and the day-to-day operation of modern computers is enormously wide. This fast-paced course aims to bridge the divide by starting with simple logic gates and building up the levels of abstraction until one can create games like Tetris. There is no specific programming language requirement, but some experience with programming is needed. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 400 Independent Study",
+   "Credits": "Credit variable, maximum 6 units.",
+   "Description": "Investigation of a topic in computer science and engineering of mutual interest to the student and a mentor. Interested students are encouraged to approach and engage faculty to develop a topic of interest. A form declaring the agreement must be filed in the departmental office. This course carries university credit, but does not count toward a CSE major or minor. To arrange for CSE major or minor credit for independent study, a student must enroll in CSE 400E instead of CSE 400. Consult also: CSE 400E."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 400E Independent Study",
+   "Credits": "Credit variable, maximum 6 units.",
+   "Description": "Investigation of a topic in computer science and engineering of mutual interest to the student and a mentor. Interested students are encouraged to approach and engage faculty to develop a topic of interest. A form declaring the agreement must be filed in the departmental office. Credit earned for CSE 400E can be counted toward a student's major or minor program, with the consent of the student's adviser. Consult also: CSE 400."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 417T Introduction to Machine Learning",
+   "Credits": "3",
+   "Description": "The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience. This course is a broad introduction to machine learning, covering the foundations of supervised learning and important supervised learning algorithms. Topics to be covered are the theory of generalization (including VC-dimension, the bias-variance trade-off, validation and regularization) and linear and nonlinear learning models (including linear and logistic regression, decision trees, ensemble methods, neural networks, nearest-neighbor methods, and support vector machines). Prerequisites: CSE 347 (can be taken concurrently), ESE 326 (or Math 3200), Math 233, and Math 309 (can be taken concurrently)."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 422S Operating Systems Organization",
+   "Credits": "3",
+   "Description": "Exploration of operating systems as managers of shared resources. Students study algorithms and data structures that support essential operating systems services. Concepts are reinforced through programming exercises and comparative studies. Topics include: proportional sharing and real-time scheduling of processes and threads, I/O facilities, memory management, virtual memory, device management, concurrent programming, and file system organization. Prerequisite: CSE 361S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 425S Programming Systems and Languages",
+   "Credits": "3",
+   "Description": "A systematic study of the principles, concepts and mechanisms of computer programming languages: their syntax, semantics and pragmatics; the processing and interpretation of computer programs; programming paradigms; and language design. Illustrative examples are selected from a variety of programming language paradigms. Prerequisites: CSE 332S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 427S Cloud Computing with Big Data Applications",
+   "Credits": "3",
+   "Description": "This course provides a comprehensive introduction to applied parallel computing using the MapReduce programming model facilitating large-scale data management and processing. There will be an emphasis on hands-on experience working with the Hadoop architecture, an open-source software framework written in Java for distributed storage and processing of very large data sets on computer clusters. Further, we will make use of related big data technologies from the Hadoop ecosystem of tools, such as Hive, Impala, and Pig in developing analytics and solving problems faced by enterprises today. Prerequisites: CSE 247, CSE 131 (or solid background in programming with Java), CSE 247, and CSE 330."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 431S Translation of Computer Languages",
+   "Credits": "3",
+   "Description": "The theory of language recognition and translation is introduced in support of compiler construction for modern programming languages. Topics include syntactic and semantic analysis, symbol table management, code generation, and runtime libraries. A variety of parsing methods is covered, including top-down and bottom-up. Machine problems culminate in the course project, for which students construct a working compiler. Prerequisites: CSE 240 and CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 432S Pattern-Oriented Software Design and Development",
+   "Credits": "3",
+   "Description": "Intensive focus on design and implementation of software using design patterns. Particular emphasis on successive refinement based on identification of unresolved design forces at each step of the design process, and on application of patterns to guide design refinement. Design implementations are conducted in Java and C++ in a team setting, with weekly presentations and critiques of design and implementation decisions and outcomes throughout the course. Prerequisites: CSE 332S or graduate standing, and proficiency in Java and C++ software development."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 437S Software Engineering Workshop",
+   "Credits": "3",
+   "Description": "An introduction and exploration of concepts and issues related to large-scale software systems development. Areas of exploration include technical complexities, organization issues, and communication techniques for large-scale development. Students participate through teams emulating industrial development. The projects cover the principal system development life-cycle phases from requirements analysis, to software design, and to final implementation. Issues relating to real-time control systems, human factors, reliability, performance, operating costs, maintainability and others are addressed and resolved in a reasonable manner. Prerequisite: junior or senior standing."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 438S Mobile Application Development",
+   "Credits": "3",
+   "Description": "Learn how to create iOS apps in the Swift programming language. This course covers a variety of topics in the development of modern mobile applications, with a focus on hands-on projects. Students will create multiple fully-functional apps from scratch. The course emphasizes object-oriented design patterns and real-world development techniques. Time is provided at the end of the course for students to work on a project of the their own interest. Prerequisites: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 450A Video Game Programming",
+   "Credits": "3",
+   "Description": "This course teaches the core aspects of a video game developer's toolkit. Students work in groups and with a large game software engine to create and playtest a full-featured video game. Students will explore topics around the design of games through analysis of current games. Students have the opportunity to explore additional topics including graphics, artificial intelligence, networking, physics, and user interface design through their game project. Prerequisite: CSE 3xxS or 4xxS."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 452A Computer Graphics",
+   "Credits": "3",
+   "Description": "Introduction to computer graphics. The course covers fundamental concepts, data structures and algorithms related to the construction, display and manipulation of three-dimensional objects. Topics include scan-conversion, basic image processing, transformations, scene graphs, camera projections, local and global rendering, fractals, and parametric curves and surfaces. Students develop interactive graphics programs using C++ language. Prerequisites: CSE 332S and Math 309."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 460T Switching Theory",
+   "Credits": "3",
+   "Description": "Advanced topics in switching theory as employed in the synthesis, analysis and design of information processing systems. Combinational techniques: minimization, multiple output networks, state identification and fault detection, hazards, testability and design for test are examined. Sequential techniques: synchronous circuits, machine minimization, optimal state assignment, asynchronous circuits, and built-in self-test techniques. Prerequisite: CSE 260M."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 462M Computer Systems Design",
+   "Credits": "3",
+   "Description": "Introduction to modern design practices, including the use of FPGA design methodologies. Students use a commercial CAE/CAD system for VHDL-based design and simulation while designing a selected computation system. Prerequisites: CSE 361S and CSE 362M."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 465M Digital Systems Laboratory",
+   "Credits": "3",
+   "Description": "Hardware/software co-design; processor interfacing; procedures for reliable digital design, both combinational and sequential; understanding manufacturers' specifications; use of test equipment. Several single-period laboratory exercises, several design projects, and application of microprocessors in digital design. One lecture and one laboratory period a week. Prerequisites: CSE 260M and CSE 361S.\nSame as E35 ESE 465"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 467S Embedded Computing Systems",
+   "Credits": "3",
+   "Description": "Introduces the issues, challenges and methods for designing embedded computing systems — systems designed to serve a particular application, which incorporate the use of digital processing devices. Examples of embedded systems include PDAs, cellular phones, appliances, game consoles, automobiles and iPod. Emphasis is given to aspects of design that are distinct to embedded systems. The course examines hardware, software and system-level design. Hardware topics include microcontrollers, digital signal processors, memory hierarchy and I/O. Software issues include languages, run-time environments and program analysis. System-level topics include real-time operating systems, scheduling, power management and wireless sensor networks. Students perform a course project on a real wireless sensor network testbed. Prerequisite: CSE 361S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 473S Introduction to Computer Networks",
+   "Credits": "3",
+   "Description": "A broad overview of computer networking. Topics include history, protocols, Hyper Text Transfer Protocol (HTTP), File Transfer Protocol (FTP), Simple Mail Transfer Protocol (SMTP), Domain Course title System (DNS), peer-to-peer (P2P), transport layer design issues, transport layer protocols, Transmission Control Protocol (TCP), User Datagram Protocol (UDP), TCP congestion control, network layer, Internet Protocol version 4 (IPv4), Internet Control Message Protocol (ICMP), Internet Protocol version 6 (IPv6), routing algorithms, routing protocols, Open Shortest Path First (OSPF), Routing Information Protocol (RIP), Border Gateway Protocol (BGP), datalink layer and local area networks carrier sense multiple access with collision detection (CSMA/CD), Ethernet, virtual local area networks (VLANs), Point-to-Point Protocol (PPP), Multi-Protocol Label Switching, wireless and mobile networks, multimedia networking, security in computer networks, cryptography, and network management. Prerequisites: CSE 132 and 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 483M Introduction to Electronic Instrumentation Design",
+   "Credits": "3",
+   "Description": "This course covers the principles underlying the design of electronic instrumentation systems. As a case study we will design and analyze a complete instrumentation amplifier integrated circuit and discuss topics related to signal conditioning, amplification, filtering, biasing, data conversion, interface design, mixed-signal layout and mixed-signal simulation. Students are expected to work with state-of-the-art circuit simulation and layout tools for their homework and project assignments. Prerequisites: CSE 260 and ESE 232."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 497 Senior Project I",
+   "Credits": "3",
+   "Description": "Implementation of a substantive project on an individual basis, involving one or more major areas in computer science. Problems pursued under this framework may be predominantly analytical, involving exploration and extension of theoretical structures, or may pivot around the design/development of solutions for particular applications drawn from areas throughout the University and/or community. In either case, the project serves as a focal point for crystallizing the concepts, techniques and methodologies encountered throughout the curriculum. Students intending to take CSE 497-498 must submit a project proposal for approval by the department during the spring semester of the junior year. Prerequisite: senior standing."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 498 Senior Project II",
+   "Credits": "3",
+   "Description": "Implementation of a substantive project on an individual basis, involving one or more major areas in computer science. Problems pursued under this framework may be predominantly analytical, involving exploration and extension of theoretical structures, or may pivot around the design/development of solutions for particular applications drawn from areas throughout the University and/or community. In either case, the project serves as a focal point for crystallizing the concepts, techniques and methodologies encountered throughout the curriculum. Students intending to take CSE 497-498 must submit a project proposal for approval by the department during the spring semester of the junior year. Prerequisite: senior standing."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 499 Undergraduate Honors Thesis",
+   "Credits": "3",
+   "Description": "Working closely with a faculty member, the student investigates an original idea (algorithm, model technique, etc.), including a study of its possible implications, its potential application and its relationship to previous related work reported in the literature. Contributions and results from this investigation are synthesized and compiled into a publication-quality research paper presenting the new idea. Prerequisites: a strong academic record and permission of instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 500 Independent Study",
+   "Credits": "Credit variable, maximum 3 units."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 501N Programming Concepts and Practice",
+   "Credits": "3",
+   "Description": "An introduction to software concepts and implementation, emphasizing problem solving through abstraction and decomposition. Introduces processes and algorithms, procedural abstraction, data abstraction, encapsulation, and object-oriented programming. Recursion, iteration, and simple data structures are covered. Concepts and skills are mastered through programming projects, many of which employ graphics to enhance conceptual understanding. Java, an object-oriented programming language, is the vehicle of exploration. Active-learning sessions are conducted in a studio setting in which students interact with each other and the professor to solve problems collaboratively. Prerequisites: Comfort with algebra and geometry at the high school level is assumed. Patience, good planning, and organization will promote success. This course assumes no prior experience with programming.\nSame as E81 CSE 131"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 502N Fundamentals of Computer Science",
+   "Credits": "3",
+   "Description": "Study of fundamental algorithms, data structures, and their effective use in a variety of applications. Emphasizes importance of data structure choice and implementation for obtaining the most efficient algorithm for solving a given problem. A key component of this course is worst-case asymptotic analysis, which provides a quick and simple method for determining the scalability and effectiveness of an algorithm. Prerequisite: CSE 240.\nSame as E81 CSE 247"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 503S Rapid Prototype Development and Creative Programming",
+   "Credits": "3",
+   "Description": "This course uses web development as a vehicle for developing skills in rapid prototyping. Students acquire the skills to build a Linux web server in Apache, to write a website from scratch in PHP, to run an SQL database, to perform scripting in Python, to employ the AngularJS web framework, and to develop modern web applications in client-side and server-side JavaScript. The course culminates with a creative project in which students are able to synthesize the course material into a project of their own interest. The course implements an interactive studio format: After a formal presentation of a topic, students develop a related project under the supervision of the instructor. Prerequisite: CSE 131.\nSame as E81 CSE 330S"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 504N Object-Oriented Software Development Laboratory",
+   "Credits": "3",
+   "Description": "Intensive focus on practical aspects of designing, implementing and debugging software, using object-oriented, procedural, and generic programming techniques. The course emphasizes familiarity and proficiency with a wide range of C++ language features through hands-on practice completing studio exercises and lab assignments, supplemented with readings and summary presentations for each session. Prerequisites: CSE 247.\nSame as E81 CSE 332S"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 505N Introduction to Digital Logic and Computer Design",
+   "Credits": "3",
+   "Description": "Introduction to design methods for digital logic and fundamentals of computer architecture. Boolean algebra and logic minimization techniques; sources of delay in combinational circuits and effect on circuit performance; survey of common combinational circuit components; sequential circuit design and analysis; timing analysis of sequential circuits; use of computer-aided design tools for digital logic design (schematic capture, hardware description languages, simulation); design of simple processors and memory subsystems; program execution in simple processors; basic techniques for enhancing processor performance; configurable logic devices. Prerequisite: CSE 131.\nSame as E81 CSE 260M"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 506M Principle and Methods of Micro- and Nanofabrication",
+   "Credits": "3",
+   "Description": "A hands-on introduction to the fundamentals of micro- and nanofabrication processes with emphasis on cleanroom practices. The physical principles of oxidation, optical lithography, thin film deposition, etching and metrology methods will be discussed, demonstrated and practiced. Students will be trained in cleanroom concepts and safety protocols. Sequential microfabrication processes involved in the manufacture of microelectronic and photonic devices will be shown. Training in imaging and characterization of micro- and nanostructures will be provided. Prerequisites: graduate or senior standing or permission of the instructor.\nSame as E37 MEMS 5611"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 507A Technology Entrepreneurship",
+   "Credits": "3",
+   "Description": "This is a course for students who plan to be, or work with, entrepreneurs. An entrepreneurial mindset is needed to create or grow economically viable enterprises, be they new companies, new groups within companies, or new university laboratories. This course aims to cultivate an entrepreneurial perspective with particular emphasis on information technology-related activities. The course is jointly offered for business and CSE students, allowing for acculturation between these disciplines. In addition to an introductory treatment of business and technology fundamentals, course topics include: business ethics, opportunity assessment, team formation, financing, intellectual property and university technology transfer. The course features significant participant and guest instruction from experienced practitioners. Prerequisites: none."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 511A Introduction to Artificial Intelligence",
+   "Credits": "3",
+   "Description": "The discipline of artificial intelligence (AI) is concerned with building systems that think and act like humans or rationally on some absolute scale. This course is an introduction to the field, with special emphasis on sound modern methods. The topics include knowledge representation, problem solving via search, game playing, logical and probabilistic reasoning, planning, dynamic programming, and reinforcement learning. Programming exercises concretize the key methods. The course targets graduate students and advanced undergraduates. Evaluation is based on written and programming assignments, a midterm exam and a final exam. Prerequisites: CSE 347, ESE 326, Math 233."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 513T Theory of Artificial Intelligence and Machine Learning",
+   "Credits": "3",
+   "Description": "Mathematical foundations for Artificial Intelligence and Machine Learning. An introduction to the PAC-Semantics (\"Probably Approximately Correct\") as a common semantics for knowledge obtained from learning and declarative sources, and the computational problems underlying the acquisition and processing of such knowledge. We emphasize the design and analysis of efficient algorithms for these problems, and examine for which representations these problems are known or believed to be tractable. Prerequisite: CSE 347."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 514A Data Mining",
+   "Credits": "3",
+   "Description": "With the vast advancement in science and technology, data acquisition in large quantities are routinely done in many fields. Examples of large data include various types of data on the internet, high-throughput sequencing data in biology and medicine, extraterrestrial data from telescopes in astronomy, and images from surveillance cameras in security. Mining a large amount of data through data mining has become an effective means to extracting knowledge from data. This course introduces the basic concepts and methods for data mining and provides hands-on experience for processing, analyzing and modeling structured and unstructured data. Homework problems, exams and programming assignments will be administrated throughout the course to enhance learning. Prerequisites: CSE 247 and ESE 326 (or Math 320) or their equivalent, or permission of the instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 515T Bayesian Methods in Machine Learning",
+   "Credits": "3",
+   "Description": "This course will cover machine learning from a Bayesian probabilistic perspective. Bayesian probability allows us to model and reason about all types of uncertainty. The result is a powerful, consistent framework for approaching many problems that arise in machine learning, including parameter estimation, model comparison, and decision making. We will begin with a high-level introduction to Bayesian inference, then proceed to cover more-advanced topics. These will include inference techniques (exact, MAP, sampling methods, the Laplace approximation, etc.), Bayesian decision theory, Bayesian model comparison, Bayesian nonparametrics, and Bayesian optimization. Prerequisites: CSE 417T, ESE 326."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 516A Multi-Agent Systems",
+   "Credits": "3",
+   "Description": "This course introduces the fundamental techniques and concepts needed to study multi-agent systems, in which multiple autonomous entities with different information sets and goals interact. We will study algorithmic, mathematical, and game-theoretic foundations, and how these foundations can help us understand and design systems ranging from robot teams to online markets to social computing platforms. Topics covered may include game theory, distributed optimization, multi-agent learning and decision-making, preference elicitation and aggregation, mechanism design, and incentives in social computing systems. Prerequisites: CSE 347 (may be taken concurrently), ESE 326 (or Math 3200), and Math 233 or equivalents, or permission of instructor. Some prior exposure to artificial intelligence, machine learning, game theory, and microeconomics may be helpful, but is not required."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 517A Machine Learning",
+   "Credits": "3",
+   "Description": "This course assumes a basic understanding of machine learning and covers advanced topics at the frontier of the field in-depth. Topics to be covered include kernel methods (support vector machines, Gaussian processes), neural networks (deep learning), and unsupervised learning. Depending on developments in the field, the course will also cover some advanced topics, which may include learning from structured data, active learning, and practical machine learning (feature selection, dimensionality reduction). Prerequisites: CSE 247, CSE 417T, ESE 326, Math 233 and Math 309. The instructor will hold a take-home placement exam (on basic mathematical knowledge) for all students currently enrolled and on the waitlist. The exam will be due on the first day of class. Only students who pass the placement exam will be enrolled in the course."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 519T Advanced Machine Learning",
+   "Credits": "3",
+   "Description": "This course provides a close look at advanced machine learning algorithms — their theoretical guarantees (computational learning theory) and tricks to make them work in practice. In addition, this course focuses on more specialized learning settings, including unsupervised learning, semi-supervised learning, domain adaptation, multi-task learning, structured prediction, metric learning and learning of data representations. Learning approaches may include graphical models, non-parametric Bayesian statistics, and technical topics such as sampling, approximate inference and non-linear function optimization. Mathematical maturity and general familiarity of machine learning is required. Prerequisites: CSE 517A or 511A or 7100."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 520S Real-Time Systems",
+   "Credits": "3",
+   "Description": "This course covers software systems and network technologies for real-time applications such as automobiles, avionics, industrial automation and Internet of Things. Topics include real-time scheduling, real-time operating systems and middleware, Quality of Service, industrial networks and real-time cloud computing. Prerequisite: CSE 422S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 521S Wireless Sensor Networks",
+   "Credits": "3",
+   "Description": "Dense collections of smart sensors networked to form self-configuring pervasive computing systems provide a basis for a new computing paradigm that challenges many classical approaches to distributed computing. Naming, wireless networking protocols, data management and approaches to dependability, real-time, security and middleware services all fundamentally change when confronted with this new environment. Embedded sensor networks and pervasive computing are among the most exciting research areas with many open research questions. This class studies a large number of research papers that deal with various aspects of wireless sensor networks. Students perform a project on a real wireless sensor network composed of tiny devices each consisting of sensors, a radio transceiver and a microcontroller. Prerequisite: CSE 422S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 522S Advanced Operating Systems",
+   "Credits": "3",
+   "Description": "This course explores core OS abstractions, mechanisms and policies and how they impact support for general purpose, embedded and real-time operating environments. How to evaluate, modify and optimize the use of kernel-level resources is covered hands-on and in detail, including CPU and I/O scheduling, memory management, and interprocess communication. Prerequisite: CSE 422S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 523S Systems Security",
+   "Credits": "3",
+   "Description": "This course examines the intersection between computer design and information security. While performance and efficiency in digital systems have improved markedly in recent decades, computer security has worsened overall in this time frame. To understand why, we will explore the role that design choices play in the security characteristics of modern computer and network systems. Students will use and write software to illustrate mastery of the material. Projects will include identifying security vulnerabilities, exploiting vulnerabilities, and detecting and defending against exploits. Prerequisite: CSE 361S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 530S Database Management Systems",
+   "Credits": "3",
+   "Description": "A study of data models and the database management systems that support these data models. The design theory for databases is developed and various tools are utilized to apply the theory. General query languages are studied and techniques for query optimization are investigated. Integrity and security requirements are studied in the context of concurrent operations on a database, where the database may be distributed over one or more locations. The unique requirements for engineering design databases, image databases, and long transaction systems are analyzed. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 531S Theory of Compiling and Language Translation",
+   "Credits": "3",
+   "Description": "Algorithms and intermediate representations for automatic program analysis are examined, with an emphasis on practical methods and efficient engineering of program optimization and transformations. The course includes a thorough treatment of monotone data flow frameworks: a mathematical model in which most optimization problems can be specified and solved. The course primarily covers optimizations that are applicable to any target architecture; however, optimizations specific to parallel, distributed and storage-hierarchical systems also are discussed. Prerequisite: CSE 431S or CSE 425S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 532S Advanced Multiparadigm Software Development",
+   "Credits": "3",
+   "Description": "Intensive focus on advanced design and implementation of concurrent and distributed system software in C++. Topics covered include C++11 concurrency and synchronization features and software architecture patterns. Prerequisites: CSE 332S/CSE 504N or graduate standing and strong familiarity with C++; and CSE 422S or CSE 522S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 536S Distributed System Design: Models and Languages",
+   "Credits": "3",
+   "Description": "Modern computing environments are highly distributed. This has been the result of major advances in networking technology and their rapid assimilation by a society that functions in a highly distributed and decentralized manner. The goal of this course is to familiarize students with basic concepts, models and languages that shaped recent developments in distributed computing. The focus is on exploring new ways of thinking about computing and communication that made the development of distributed software systems possible. Competing concepts and design strategies will be examined both from a theoretical and a practical perspective. Prerequisites: CSE 240 and CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 538T Modeling and Performance Evaluation of Interconnected Computer Systems",
+   "Credits": "3",
+   "Description": "Modern computing systems consist of multiple interconnected components, which all influence performance. The focus of this course is on developing modeling tools aimed at understanding how to design and provision such systems to meet certain performance or efficiency targets, and the trade-offs involved. The course covers Markov chains and their applications to simple queues, and proceeds to explore more complex systems including server farms and how to optimize their performance through scheduling and task assignment policies. The course includes a brief review of the necessary probability and mathematical concepts. Prerequisite: ESE 326."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 539S Concepts in Multicore Computing",
+   "Credits": "3",
+   "Description": "Nowadays, the vast majority of computer systems are built using multicore processor chips. This fundamental shift in hardware design impacts all areas of computer science — one must write parallel programs in order to unlock the computational power provided by modern hardware.The goal of this course is to study concepts in multicore computing. We will examine the implications of the multicore hardware design, discuss challenges in writing high performance software, and study emerging technologies relevant to developing software for multicore systems. Topics include memory hierarchy, cache coherence protocol, memory models, scheduling, high-level parallel language models, concurrent programming (synchronization and concurrent data structures), algorithms for debugging parallel software, and performance analysis. Prerequisites: CSE 332S and CSE 361S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 541T Advanced Algorithms",
+   "Credits": "3",
+   "Description": "Provides a broad coverage of fundamental algorithm design techniques with the focus on developing efficient algorithms for solving combinatorial and optimization problems. The topics covered include: greedy algorithms, dynamic programming, linear programming, NP-completeness, approximation algorithms, lower bound techniques, and on-line algorithms. Throughout this course there is an emphasis on correctness proofs and the ability to apply the techniques taught to design efficient algorithms for problems from a wide variety of application areas. Prerequisites: CSE 247 and 347."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 542T Advanced Data Structures and Algorithms",
+   "Credits": "3",
+   "Description": "This course is concerned with the design and analysis of efficient algorithms, focusing principally on algorithms for combinatorial optimization problems. A key element in the course is the role of data structures in algorithm design and the use of amortized complexity analysis to determine how data structures affect performance. The course is organized around a set of core problems and algorithms, including the classical network optimization algorithms, as well as newer and more efficient algorithms. This core is supplemented by algorithms selected from the recent technical literature. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 543T Algorithms for Nonlinear Optimization",
+   "Credits": "3",
+   "Description": "The course will provide an in-depth coverage of modern algorithms for the numerical solution of multidimensional optimization problems. Unconstrained optimization techniques including Gradient methods, Newton's methods, Quasi-Newton methods, and conjugate methods will be introduced. The emphasis is on constrained optimization techniques: Lagrange theory, Lagrangian methods, penalty methods, sequential quadratic programming, primal-dual methods, duality theory, nondifferentiable dual methods, and decomposition methods. The course will also discuss applications in engineering systems and use of state-of-the-art computer codes. Special topics may include large-scale systems, parallel optimization, and convex optimization. Prerequisites: Calculus I and Math 309."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 544T Special Topics in Computer Science Theory",
+   "Credits": "3",
+   "Description": "Cake-cutting algorithms consider the division of resources among a set of participants such that the recipients believe they have been treated fairly. In some cases, a given resource can be divided without loss of value, while in other cases, dividing a resource may lessen its value, perhaps significantly. Notions of fairness include proportionality, envy-freeness and equitability. This course is organized around a rich set of fair-division problems, studying the correctness, complexity, and applicability of algorithms for solving such problems. The problems and algorithms studied span millennia and include recent technical literature."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 546T Computational Geometry",
+   "Credits": "3",
+   "Description": "Computational geometry is the algorithmic study of problems that involve geometric shapes such as points, lines and polygons. Such problems appear in computer graphics, vision, robotics, animation, visualization, molecular biology, and geographic information systems. This course covers data structures that are unique to geometric computing, such as convex hull, Voronoi diagram, Delaunay triangulation, arrangement, range searching, KD-trees, and segment trees. Also covered are algorithms for polygon triangulation, shortest paths, the post office problem, and the art gallery problem. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 547T Introduction to Formal Languages and Automata",
+   "Credits": "3",
+   "Description": "An introduction to the theory of computation, with emphasis on the relationship between formal models of computation and the computational problems solvable by those models. Specifically, this course covers finite automata and regular languages; Turing machines and computability; and basic measures of computational complexity and the corresponding complexity classes. Prerequisites: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 548T Concurrent Systems: Design and Verification",
+   "Credits": "3",
+   "Description": "Formerly CSE 563T. Concurrency presents programmers with unprecedented complexity further exacerbated by our limited ability to reason about concurrent computations. Yet, concurrent algorithms are central to the development of software executing on modern multiprocessors or across computer networks. This course reviews several important classes of concurrent algorithms and presents a formal method for specifying, reasoning about, verifying, and deriving concurrent algorithms. The selected algorithms are judged to have made significant contributions to our understanding of concurrency. Rigorous treatment of the design and programming process is emphasized. Students entering this course must be familiar with predicate calculus and sequential algorithms. Upon completion of this course students will be able to reason completely formally about small concurrent programs and to apply systematically and correctly their formal skills to larger problems. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 549T Theory of Parallel Systems",
+   "Credits": "3",
+   "Description": "The course covers various aspects of parallel programming such as algorithms, schedulers and systems from a theoretical perspective. We will cover both classic and recent results in parallel computing. Topics include parallel algorithms and analysis in the work/span model, scheduling algorithms, external memory algorithms and their analysis, cache-coherence protocols, etc. The focus will be on design and analysis. Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 552A Advanced Computer Graphics",
+   "Credits": "3",
+   "Description": "This course covers advanced topics in graphics in the areas of modeling, rendering, volume rendering, image-based rendering and image processing. Topics include, but are not limited to, subdivision surfaces, splines, mesh simplification, implicit or blobby modeling, radiosity, procedural textures, filtering, BRDFs and procedural modeling. The class has several structured programming assignments and an optional final group project. Students are exposed to the wide variety of techniques available in graphics and also pick one area to study in depth. Prerequisites: CSE 332S and CSE 452A."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 553S Advanced Mobile Robotics",
+   "Credits": "3",
+   "Description": "This course covers advanced topics from the theory and practice of mobile robotics. Students read, present and discuss papers from the current research literature. There is a substantial programming project, in which students implement and test ideas from the current research literature on one of the department's research robot platforms. Prerequisites: CSE 550A and strong programming skills (preferably in C++)."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 554A Geometric Computing for Biomedicine",
+   "Credits": "3",
+   "Description": "With the advance of imaging technologies deployed in medicine, engineering and science, there is a rapidly increasing amount of spatial data sets (images, volumes, point clouds, etc.) that need to be processed, visualized and analyzed. This course will focus on a number of geometry-related computing problems that are essential in the knowledge discovery process in various spatial-data-driven biomedical applications. These problems include visualization, segmentation, mesh construction and processing, shape representation and analysis. The course consists of lectures that cover theories and algorithms, and a series of hands-on programming projects using real-world data collected by various imaging techniques (CT, MRI, electron cryo-microscopy, etc.). Prerequisites: CSE 247 and CSE 332 or approval by instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 555A Computational Photography",
+   "Credits": "3",
+   "Description": "Computational Photography describes the convergence of computer graphics, computer vision, and the internet with photography. Its goal is to overcome the limitations of traditional photography using computational techniques to enhance the way we capture, manipulate and interact with visual media. In this course we study many interesting, recent image-based algorithms and implement them to the degree that is possible. Topics may include: cameras and image formation, human visual perception, image processing (filtering, pyramids), image blending and compositing, image retargeting, texture synthesis and transfer, image completion/inpainting, super-resolution, deblurring, denoising, image-based lighting and rendering, high dynamic range, depth and defocus, flash/no flash photography, coded aperture photography, single/multiview reconstruction, photo quality assessment, non photorealistic rendering, modeling and synthesis using internet data, and others. Prerequisites: CSE 452A, CSE 554A, or CSE 559A. Permission of instructor required to enroll."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 556A Human-Computer Interaction Methods",
+   "Credits": "3",
+   "Description": "An introduction to user centered design processes. The course covers a variety of HCI techniques for use at different stages in the software development cycle, including techniques that can be used with and without users. Students will gain experience using these techniques through in-class exercises and then apply them in greater depth through a semester long interface development project. Students who enroll in this course are expected to be comfortable with building user interfaces in at least one framework and be willing to learn whatever framework is most appropriate for their project. Over the course of the semester, students will be expected to present their interface evaluation results through written reports and in class presentations. Prerequisites: 3xxS or 4xxS."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 557A Information Visualization",
+   "Credits": "3",
+   "Description": "We are in an era where it is possible to have all of the world's information at our fingertips. However, the more information we can access, the more difficult it is to obtain a holistic view of the data or to determine what's important to make decisions. Computer-based visualization systems provide the opportunity to represent large and/or complex data visually to aid comprehension and cognition. In this course, we study the principles for transforming abstract data into effective information visualizations. We learn about the state-of-the-art in visualization research and development, and we gain hands-on experience with designing and developing information visualizations. We also learn how to critique existing visualizations and how to evaluate the systems we build. Readings will include current research papers from the Information Visualization community. Prerequisite: permission of professor (this may change in subsequent semesters)."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 558A Motion Planning",
+   "Credits": "3",
+   "Description": "This course studies the general motion planning problem: computing a sequence of motions that transforms a given (initial) arrangement of physical objects to another (goal) arrangement of those objects. Many motion planning methods were developed in the realm of robotics research. For example, a typical problem might be to find a sequence of motions (called a path) to move a robot from one position to another without colliding with any objects in its workspace. However, the general motion planning problem that will be studied arises in many other application domains as well. For example, assembly planning (e.g., finding a valid order for adding the parts when building an engine), mechanical CAD studies (e.g., can you remove a certain part from an engine without taking the engine apart), artificial life simulations (e.g., moving a herd of animals from one location to another), and medicine (e.g., can a drug molecule reach a protein molecule). Prerequisite: CSE 247."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 559A Computer Vision",
+   "Credits": "3",
+   "Description": "Computer vision is the process of automatically extracting information from images and video. This course covers imaging geometry (camera calibration, stereo, and panoramic image stitching), and algorithms for video surveillance (motion detection and tracking), segmentation and object recognition. Final projects for the course will explore challenges in analysis of real-world data. Students with non-standard backgrounds (such as video art, or the use of imaging in physics and biology) are encouraged to contact the instructor. Prerequisites: CSE 247 and linear algebra."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 560M Computer Systems Architecture I",
+   "Credits": "3",
+   "Description": "An exploration of the central issues in computer architecture: instruction set design, addressing and register set design, control unit design, microprogramming, memory hierarchies (cache and main memories, mass storage, virtual memory), pipelining, and bus organization. The course emphasizes understanding the performance implications of design choices, using architecture modeling and evaluation using VHDL and/or instruction set simulation. Prerequisites: CSE 361S and CSE 260M."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 561M Computer Systems Architecture II",
+   "Credits": "3",
+   "Description": "Advanced techniques in computer system design. Selected topics from: processor and system-on-chip design (multicore organization, system-level integration), run-time systems, memory systems (topics in locality and special-purpose memories), I/O subsystems and devices, systems security, and power considerations. Prerequisite: CSE 560M or permission of instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 564M Advanced Digital Systems Engineering",
+   "Credits": "3",
+   "Description": "This course focuses on advance sensor design. The class covers various basic analog and digital building blocks that are common in most sensor integrated circuits. The class extensively uses state-of-the-art CAD program Cadence to simulate and analyze various circuit blocks. The first half of the course focuses on analyzing various operational amplifiers, analog filters, analog memory and analog to digital converters. The second half of the course focuses on understanding the basic building blocks of imaging sensors. The class has a final project consisting of designing a smart sensor using Cadence tools. Prerequisites: ESE 232 and CSE 362M."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 565M Acceleration of Algorithms in Reconfigurable Logic",
+   "Credits": "3",
+   "Description": "Reconfigurable logic, in the form of Field-Programmable Gate Arrays (FPGAs), enables the deployment of custom hardware for individual applications. To exploit this capability, the application developer is required to specify the design at the register-transfer level. This course explores techniques for designing algorithms that are amenable to hardware acceleration as well as provides experience in actual implementation. Example applications are drawn from a variety of fields, such as networking, computational biology, etc. Prerequisites: basic digital logic (CSE 260M) and some experience with a hardware description language (e.g., VHDL or Verilog)."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 566S High Performance Computer Systems",
+   "Credits": "3",
+   "Description": "Many applications make substantial performance demands upon the computer systems upon which those applications are deployed. In this context, performance is frequently multidimensional, including resource efficiency, power, execution speed (which can be quantified via elapsed run time, data throughput, or latency), etc. Modern computing platforms exploit parallelism and architectural diversity (e.g., co-processors such as graphics engines and/or reconfigurable logic) to achieve the desired performance goals. This course addresses the practical aspects of achieving high performance on modern computing platforms. This includes questions ranging from how the computing platform is designed to how are applications and algorithms expressed to exploit the platform's properties. Particular attention is given to the role of application development tools. Prerequisite: familiarity with software development in Linux preferred, graduate standing or permission of instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 567M Computer Systems Analysis",
+   "Credits": "3",
+   "Description": "A comprehensive course on performance analysis techniques. The topics include common mistakes, selection of techniques and metrics, summarizing measured data, comparing systems using random data, simple linear regression models, other regression models, experimental designs, 2**k experimental designs, factorial designs with replication, fractional factorial designs, one factor experiments, two factor full factorial design w/o replications, two factor full factorial designs with replications, general full factorial designs, introduction to queueing theory, analysis of single queues, queueing networks, operational laws, mean-value analysis, time series analysis, heavy tailed distributions, self-similar processes, long-range dependence, random number generation, analysis of simulation results, and art of data presentation. Prerequisites: CSE 131 and CSE 260M."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 568M Imaging Sensors",
+   "Credits": "3",
+   "Description": "This course will cover topics on digital imaging sensors including basic operations of silicon photodetectors; CCD and CMOS passive and active sensor operation; temporal and spatial noise in CMOS sensors; spatial resolution and MTF; SNR and dynamic range; high dynamic range architectures and application specific imaging sensors such as polarization imaging and fluorescent imaging sensors. Prerequisites: CSE 260M and ESE 232."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 569M Parallel Architectures and Algorithms",
+   "Credits": "3",
+   "Description": "A number of contemporary parallel computer architectures are reviewed and compared. The problems of process synchronization and load balancing in parallel systems are studied. Several selected applications problems are investigated and parallel algorithms for their solution are considered. Selected parallel algorithms are implemented in both a shared memory and distributed memory parallel programming environment. Prerequisites: graduate standing and knowledge of the C programming language."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 570S Recent Advances in Networking",
+   "Credits": "3",
+   "Description": "This course covers the latest advances in networking. The topics include Networking Trends, Data Center Network Topologies, Data Center Ethernet, Carrier IP, Multi-Protocol Label Switching (MPLS), Carrier Ethernet, Virtual Bridging, LAN Extension and Virtualization using Layer 3 Protocols, Virtual Routing Protocols, Internet of Things (IoT), Datalink Layer and Management Protocols for IoT, Networking Layer Protocols for IoT, 6LoWPAN, RPL, Messaging Protocols for IoT, MQTT, OpenFlow, Software Defined Networking (SDN) Network Function Virtualization (NFV), Big Data, Networking Issues for Big Data, Network Configuration, and Data Modeling, NETCONF, YIN, YANG, BEEP, and UML. Prerequisite: CSE 473S or equivalent."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 571S Network Security",
+   "Credits": "3",
+   "Description": "A comprehensive treatment of network security. Topics include Security Overview, Classical Encryption Techniques, Block Ciphers and DES, Basic Concepts in Number Theory and Finite Fields, Advanced Encryption Standard (AES), Block Cipher Operations, Pseudo Random Number Generation and Stream Ciphers, Number Theory, Public Key Cryptography, other Public Key Cryptosystems, Cryptographic Hash Functions, Message Authentication Codes, Digital Signatures, Key Management and Distribution, User Authentication Protocols, Network Access Control and Cloud Security, Transport Level Security, Wireless Network Security, Electronic Mail Security, IP Security, Intrusion Detection, and Malicious Software. Prerequisite: CSE 473S."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 573S Protocols for Computer Networks",
+   "Credits": "3",
+   "Description": "An introduction to the design, performance analysis and implementation of existing and emerging computer network protocols. Protocols include multiple access protocols (e.g., CSMA/CD, token ring), internet, working with the internet protocol (IP), transport protocols (e.g., UDP, TCP), high-speed bulk transfer protocols, and routing protocols (e.g., BGP, OSPF). General topics include error control, flow control, packet switching, mechanisms for reliable, ordered and bounded-time packet delivery, host-network interfacing and protocol implementation models. Substantial programming exercises supplement lecture topics. Prerequisite: CSE 473S or permission of the instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 574S Wireless and Mobile Networking",
+   "Credits": "3",
+   "Description": "First course in wireless networking providing a comprehensive treatment of wireless data and telecommunication networks. Topics include recent trends in wireless and mobile networking, wireless coding and modulation, wireless signal propagation, IEEE 802.11a/b/g/n/ac wireless local area networks, 60 GHz millimeter wave gigabit wireless networks, vehicular wireless networks, white spaces, IEEE 802.22 regional area networks, Bluetooth and Bluetooth Smart, wireless personal area networks, wireless protocols for Internet of Things, ZigBee, cellular networks: 1G/2G/3G, LTE, LTE-Advanced, and 5G. Prerequisites: CSE 473S or permission of the instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 577M Design and Analysis of Switching Systems",
+   "Credits": "3",
+   "Description": "Switching is a core technology in a wide variety of communication networks, including the internet, circuit-switched telephone networks and optical fiber transmission networks. The last decade has been a time of rapid development for switching technology in the internet. Backbone routers with 10 Gb/s links and aggregate capacities of hundreds of gigabits per second are becoming common, and advances in technology are now making multi-terabit routers practical. This course is concerned with the design of practical switching systems and evaluation of their performance and complexity. Prerequisites: CSE 247, 473S and ESE 326."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 581T Approximation Algorithms",
+   "Credits": "3",
+   "Description": "Numerous optimization problems are intractable to solve optimally. The intractability of a problem could come from the problem's computational complexity, for instance the problem is NP-Hard, or other computational barriers. To cope with the inability to find an optimal algorithm, one may desire an algorithm that is guaranteed to return a solution that is comparable to the optimum. Such an algorithm is known as an approximation algorithm. Approximation algorithms are a robust way to cope with intractability, and they are widely used in practice or are used to guide the development of practical heuristics. The area of approximation algorithms has developed a vast theory, revealing the underlying structure of problems as well as their different levels of difficulty. The majority of this course will focus on fundamental results and widely applicable algorithmic and analysis techniques for approximation algorithms. Prerequisite: CSE 347."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 582T Complexity Theory",
+   "Credits": "3",
+   "Description": "An introduction to the quantitative theory of computation with limited resources. The course examines the relative power of limited amounts of basic computational resources, such as time, memory, circuit size and random bits, as well as parallel, nondeterministic, alternating and interactive machine models. Models that capture special kinds of computational problems, such as counting problems or approximate solutions, will also be introduced and related to the standard models. This examination will emphasize surprising relationships between seemingly disparate resources and kinds of computational problems. The course will also discuss some meta-theory, illuminating the weaknesses of standard mathematical techniques of the field against its notorious open conjectures. Prerequisites: CSE 347 and mathematical maturity. CSE 547T recommended."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 583A Topics in Computational Molecular Biology",
+   "Credits": "Credit 2 units.",
+   "Description": "In-depth discussion of problems and methods in computational molecular biology. Each year three topics will be covered and those will change yearly. Prerequisite: Biol 5495 or instructor's consent.\nSame as L41 Biol 5497"
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 584A Algorithms for Biosequence Comparison",
+   "Credits": "3",
+   "Description": "This course surveys algorithms for comparing and organizing discrete sequential data, especially nucleic acid and protein sequences. Emphasis is on tools to support search in massive biosequence databases and to perform fundamental comparison tasks such as DNA short-read alignment. These techniques are also of interest for more general string processing and for building and mining textual databases. Algorithms are presented rigorously, including proofs of correctness and running time where feasible. Topics include classical string matching, suffix array string indices, space-efficient string indices, rapid inexact matching by filtering (including BLAST and related tools), and multiple alignment. Students complete written assignments and implement advanced comparison algorithms to address problems in bioinformatics. This course does not require a biology background. Prerequisites: CSE 347, graduate standing, or permission of instructor."
+  ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+  {
+   "Course title": "E81 CSE 587A Algorithms for Computational Biology",
+   "Credits": "3",
+   "Description": "This course is a survey of algorithms and mathematical methods in biological sequence analysis (with a strong emphasis on probabilistic methods) and systems biology. Sequence analysis topics include introduction to probability, probabilistic inference in missing data problems, hidden Markov models (HMMs), profile HMMs, sequence alignment, and identification of transcription-factor binding sites. Systems biology topics include discovery of gene regulatory networks, quantitative modeling of gene regulatory networks, synthetic biology, and (in some years) quantitative modeling of metabolism. Prerequisites: CSE 131 or CSE 501N."
+  }
+ ],
+ "WUSTL_ECE":[
+ {
+    "Course title": "E35 ESE 101 Introduction to Engineering Tools: MATLAB and Simulink",
+    "Credits": "1",
+    "Description": "MATLAB and Simulink are important tools in quickly analyzing different designs in many engineering disciplines and are also perhaps the most used software in many engineering schools. Gain skills in the basics of the array-based language MATLAB to write programs, including scripts and functions, to calculate and display variables and images. Learn the basics of Simulink to build and simulate models from standard blocks. Discover both MATLAB and Simulink in an environment with supervised practice and hands-on experience. Practice problems are chosen from different engineering fields as well as from a few socio-economic fields so that students can see the software being exploited in real life applications. This is a pass/fail course. Prerequisite: freshman standing."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 103 Introduction to Electrical Engineering",
+    "Credits": "1",
+    "Description": "A hands-on introduction to electrical engineering to put the fun into the electrical engineering fundamentals. Experiments are designed to be easy to conduct and understand. Some of the technologies explored are used in a variety of applications including ultrasound imaging, computed tomography, DC motors, analog to digital converters and credit card readers. Students work in groups of two in the newly renovated Urbauer 115 laboratory. Each station is equipped with modern electronic test equipment and a computer with an integrated Data Acquisition system. Using this lab equipment, students design and build solutions to the exercises. The students also learn to program in LabVIEW to control the Data Acquisition system and process the acquired signals. Also, throughout the semester, presentations are given by the ESE faculty about their research."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 141 Introductory Robotics",
+    "Credits": "1",
+    "Description": "A hands-on introduction to robotics. Project-oriented course where students build and program a robot guided by upper-division students. Friendly competition at the end of semester. Students gain electrical lab experience, programming experience, and a guided introduction into the field of robotics. Recommended to freshmen and sophomores. This is a pass/fail course."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 151 Introduction to Systems Science and Engineering",
+    "Credits": "Credit 2 units. EN: TU",
+    "Description": "Systems Science and Engineering (SSE) has grown in applicability to many industries. This course will provide an overview of the broad applicability of the analytical methods studied in SSE, as well as introduce many of these analytical methods. Each module of the course will present a domain area (e.g., energy, health care, etc.) with examples of how one of the SSE analytical methods (e.g., optimization, discrete event systems, etc.) is used with assistance of one of the many computing tools available for SSE-style projects (e.g., MATLAB, SIMUL8, etc.). The course will close with a final, exploratory project and presentation of an analytical method of the students' choosing and how this is applied to an industry of their choosing. (Not open to seniors or graduate students.) Corequisite: Math 132, Physics 117A or 197."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 205 Introduction to Engineering Design",
+    "Credits": "3",
+    "Description": "A hands-on course where students, divided in groups of two or three, will creatively solve one problem throughout the semester using tools from electrical and systems engineering. The groups choose their own schedule and work under the supervision of an academic team consisting of faculty and higher-level students. The evaluation considers the completion of objectives set by the students with help of the academic team, as well as the originality, innovation, and impact of the project. Prerequisites: CSE 131, Physics 117A or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 230 Introduction to Electrical and Electronic Circuits",
+    "Credits": "Credit 4 units. EN: TU",
+    "Description": "Electrical energy, current, voltage, and circuit elements. Resistors, Ohm's Law, power and energy, magnetic fields and DC motors. Circuit analysis and Kirchhoff's voltage and current laws. Thevenin and Norton transformations and the superposition theorem. Measuring current, voltage and power using ammeters and voltmeters. Energy and maximum electrical power transfer. Computer simulations of circuits. Reactive circuits, inductors, capacitors, mutual inductance, electrical transformers, energy storage, and energy conservation. RL, RC and RLC circuit transient responses, biological cell action potentials due to Na and K ions. AC circuits, complex impedance, RMS current and voltage. Electrical signal amplifiers and basic operational amplifier circuits. Inverting, noninverting, and difference amplifiers. Voltage gain, current gain, input impedance, and output impedance. Weekly laboratory exercises related to the lectures are an essential part of the course. Prerequisite: Physics 118A. Corequisite: Math 217."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 232 Introduction to Electronic Circuits",
+    "Credits": "3",
+    "Description": "Analysis and design of linear electronic circuits. Terminal characteristics of active semiconductor devices. Incremental and DC models for diodes, metal-oxide-semiconductor field effect transistors (MOSFETs) and bipolar junction transistors (BJTs). Design and analysis of single- and multistage amplifiers. Volatile and nonvolatile memories. Understanding of common application circuits (e.g., operational amplifier, memories) in integrated circuit chips. Semester-long design project. Prerequisite: ESE 230."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 260 Introduction to Digital Logic and Computer Design",
+    "Credits": "3",
+    "Description": "Introduction to design methods for digital logic and fundamentals of computer architecture. Boolean algebra and logic minimization techniques; sources of delay in combinational circuits and effect on circuit performance; survey of common combinational circuit components; sequential circuit design and analysis; timing analysis of sequential circuits; use of computer-aided design tools for digital logic design (schematic capture, hardware description languages, simulation); design of simple processors and memory subsystems; program execution in simple processors; basic techniques for enhancing processor performance; configurable logic devices. Prerequisite: CSE 131.\nSame as E81 CSE 260M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 297 Introduction to ESE Undergraduate Research Projects",
+    "Credits": "3",
+    "Description": "This course is offered to students at all levels from all departments. The course is designed to give students some hands-on experience by implementing projects that use the lab PCs, the sbRIO robots from National Instruments, acoustic sensors, bio-medical sensors and 3D cameras. These projects are implemented in LabVIEW and Matlab and should prepare the students to work on topics that include the Robotic Sensing Undergraduate Research Projects in subsequent semesters. Note that under ESE 497 Undergraduate Research, students may select the Robotic Sensing Projects as well as other projects. Working in groups, students implement algorithms that run on PCs and our wireless robotic platforms to track a moving audio source. Also, they use an EEG system to implement a Brain Computer Interface (BCI) project and work with the new Kinect camera from Microsoft. Corequisite: CSE 131 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 318 Engineering Mathematics A",
+    "Credits": "3",
+    "Description": "Laplace transforms; matrix algebra; vector spaces; eigenvalues and eigenvectors; vector differential calculus and vector integral calculus in three dimensions. Prerequisites: Math 233 and Math 217 or their equivalents."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 319 Engineering Mathematics B",
+    "Credits": "3",
+    "Description": "Power series and Frobenius series solutions of differential equations; Legendre's equation; Bessel's equation; Fourier series and Fourier transforms; Sturm-Liouville theory; solutions of partial differential equations; wave and heat equations. Prerequisites: Math 233 and Math 217 or their equivalents."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 326 Probability and Statistics for Engineering",
+    "Credits": "3",
+    "Description": "Study of probability and statistics together with engineering applications. Probability and statistics: random variables, distribution functions, density functions, expectations, means, variances, combinatorial probability, geometric probability, normal random variables, joint distribution, independence, correlation, conditional probability, Bayes theorem, the law of large numbers, the central limit theorem. Applications: reliability, quality control, acceptance sampling, linear regression, design and analysis of experiments, estimation, hypothesis testing. Examples are taken from engineering applications. Prerequisites: Math 233 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 330 Engineering Electromagnetics Principles",
+    "Credits": "3",
+    "Description": "Electromagnetic theory as applied to electrical engineering: vector calculus; electrostatics and magnetostatics; Maxwell's equations, including Poynting's theorem and boundary conditions; uniform plane-wave propagation; transmission lines, TEM modes, including treatment of general lossless lines, and pulse propagation; introduction to guided waves; introduction to radiation and scattering concepts. Prerequisites: Physics 118A and ESE 318 En Math A. Corequisite: ESE 319 En Math B."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 331 Electronics Laboratory",
+    "Credits": "3",
+    "Description": "Laboratory exercises provide students with a combination of hands-on experience in working with a variety of real instruments and in working in a simulated \"virtual\" laboratory setting. A sequence of lab experiments provide hands-on experience with grounding and shielding techniques, signal analysis, realistic operation amplifier (op amp) characterization, op amp based active filters characterization, MOSFET chopper/amplifier behavior, measurement of pulses propagating on a transmission line with various terminations, experience with both AM and FM modulation. Students will gain experience in working with: sampling oscilloscopes, various signal generators, frequency counters, digital multimeters, spectrum analyzers, and contemporary connection boards. The course concludes with a hands-on project to design and demonstrate an electronic component. Prerequisites: ESE 230, ESE 232; Corequisite: ESE 330."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 332 Power, Energy and Polyphase Circuits",
+    "Credits": "3",
+    "Description": "Fundamental concepts of power and energy; electrical measurements; physical and electrical arrangement of electrical power systems; polyphase circuit theory and calculations; principal elements of electrical systems such as transformers, rotating machines, control and protective devices, their description and characteristics; elements of industrial power system design. Prerequisite: ESE 230."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 337 Electronic Devices and Circuits",
+    "Credits": "3",
+    "Description": "Introduction to semiconductor electronic devices: transistors and diodes. Device electrical DC and high-frequency characteristics. Bipolar transistors and MOSFET transistors for analog electronics applications. Transistor fabrication as integrated-circuit chips and fundamentals of very large scale integration (VLSI). Large-signal and small-signal analysis of transistor amplifiers: voltage gain, input resistance and output resistance. Analysis of multitransistor amplifiers: cascoded amplifiers and differential amplifiers. Analysis of feedback circuits, operational amplifiers, stability, frequency compensation. Fundamentals of Analog VLSI Layout and post-layout simulation of operational amplifiers. Prerequisite: ESE 232."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 351 Signals and Systems",
+    "Credits": "3",
+    "Description": "Introduction to concepts and methodology of linear dynamic systems in relation to discrete- and continuous-time signals. Mathematical modeling. Representation of systems and signals. Fourier, Laplace, and Z-transforms and convolution. Input-output description of linear systems: impulse response, transfer function.Time-domain and frequency-domain system analysis: transient and steady-state responses, system modes, stability, frequency spectra and frequency responses. System design: filter, modulation, sampling theorem. Continuity is emphasized from analysis to synthesis. Use of Matlab. Prerequisites: Physics 117A-118A, Math 217, CSE 131, matrix addition and multiplication; Corequisite: ESE 318."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 362 Computer Architecture",
+    "Credits": "3",
+    "Description": "This course explores the interaction and design philosophy of hardware and software for digital computer systems. Topics include: Processor architecture, Instruction Set Architecture, Assembly Language, memory hierarchy design, I/O considerations, and a comparison of computer architectures. Prerequisite: CSE 260M.\nSame as E81 CSE 362M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 400 Independent Study",
+    "Credits": "Credit variable, maximum 3 units.",
+    "Description": "Opportunities to acquire experience outside the classroom setting and to work closely with individual members of the faculty. A final report must be submitted to the department. Not open to first-year or graduate students. Consult adviser. Hours and credit to be arranged."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 401 Fundamentals of Engineering Review",
+    "Credits": "1",
+    "Description": "A review and preparation of the most recent NCEES Fundamentals of Engineering (FE) Exam specifications is offered in a classroom setting. Exam strategies will be illustrated using examples. The main topics for the review include: engineering mathematics, statics, dynamics, thermodynamics, heat transfer, mechanical design and analysis, material science and engineering economics. A discussion of the importance and responsibilities of professional engineering licensure along with ethics will be included.\nSame as E37 MEMS 4001"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 403 Operations Research",
+    "Credits": "3",
+    "Description": "Introduction to the mathematical aspects of various areas of operations research, with additional emphasis on problem formulation. This is a course of broad scope, emphasizing both the fundamental mathematical concepts involved, and also aspects of the translation of real-world problems to an appropriate mathematical model. Subjects to be covered include linear and integer programming, network problems, and dynamic programming. Prerequisites: CSE 131, Math 309, and ESE 326, or permission of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 404 Applied Operations Research",
+    "Credits": "3",
+    "Description": "Application of operations research techniques to real-world problems. Emphasis is given to integer linear programming and computational methods. Real-world examples of integer programs will be studied in areas such as network flow, facility location, partitioning, matching, and transportation. Special emphasis will be placed on techniques used to solve integer programs. Prerequisites: ESE 403 and CSE 131."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 405 Reliability and Quality Control",
+    "Credits": "3",
+    "Description": "An integrated analysis of reliability and quality control function in manufacturing. Statistical process control, acceptance sampling, process capability analysis, reliability prediction, design, testing, failure analysis and prevention, maintainability, availability, and safety are discussed and related. Qualitative and quantitative aspects of statistical quality control and reliability are introduced in the context of manufacturing. Prerequisite: ESE 326 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 407 Analysis and Simulation of Discrete Event Systems",
+    "Credits": "3",
+    "Description": "Study of the dynamic behavior of discrete event systems and techniques for analyzing and optimizing the performance of such systems. Covers both classical and recent approaches. Classical topics include Markov chains, queueing theory, networks of queues, related algorithms and simulation methods. Recent approaches include decomposition and aggregation, approximation, and perturbation analysis of nonclassical systems. Applications are drawn from various areas, including production systems. Prerequisites: Math 217, ESE 326 or equivalent, programming experience such as CSE 131 or CSE 200."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 408 A System Dynamics Approach to Designing Sustainable Policies and Programs",
+    "Credits": "3",
+    "Description": "Principles and practice of modeling dynamic systems in the sciences, engineering, social sciences and business. Model structure and its relationships to prior knowledge and assumptions, measurable quantities and ultimate use in solving problems in application areas. Problems considered are in the areas of intervention, policy making, business and engineering systems. Model verification. The basic theory and practice of system dynamics. Quantitative methods are emphasized. Senior or graduate standing."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 415 Optimization",
+    "Credits": "3",
+    "Description": "Optimization problems with and without constraints. The projection theorem. Convexity, separating hyperplane theorems; Lagrange multipliers, Kuhn-Tucker-type conditions, duality; computational procedures. Use of optimization techniques in engineering design. Prerequisites: CSE 131, Math 309 and ESE 318 or permission of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 425 Random Processes and Kalman Filtering",
+    "Credits": "3",
+    "Description": "Probability and random variables; random processes; linear dynamic systems and random inputs; autocorrelation; spectral density; the discrete Kalman filter; applications; the extended Kalman filter for nonlinear dynamic systems. Kalman filter design using a computer package, mean square estimation; maximum likelihood; Wiener filtering and special factorization, LQG/LTR control. Prerequisite: ESE 326 and ESE 351 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 427 Financial Mathematics",
+    "Credits": "3",
+    "Description": "This course is a self-contained introduction to financial mathematics at the undergraduate level. Topics to be covered include pricing of the financial instruments such as options, forwards, futures and their derivatives along with basic hedging techniques and portfolio optimization strategies. The emphasis is put on using of discrete, mostly binary models. The general, continuous case including the concepts of Brownian motion, stochastic integral, and stochastic differential equations, is explained from intuitive and practical point of view. Among major results discussed are the Arbitrage Theorem and Black-Scholes differential equations and their solutions. Prerequisites: ESE 318 and ESE 326 or the consent of the instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 429 Basic Principles of Quantum Optics and Quantum Information",
+    "Credits": "3",
+    "Description": "This course provides an accessible introduction to quantum optics and quantum engineering for undergraduate students. This course covers the following topics: concept of photons, quantum mechanics for quantum optics, radiative transitions in atoms, lasers, photon statistics (photon counting, Sub-/Super-Poissionian photon statistics, bunching, anti-bunching, theory of photodetection, shot noise), entanglement, squeezed light, atom-photon interactions, cold atoms, atoms in cavities. The course will also provide an overview for quantum information processing: quantum computing, quantum cryptography, and teleportation. Prerequisite: Engineering Mathematics 318 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 433 Radio Frequency and Microwave Technology for Wireless Systems",
+    "Credits": "3",
+    "Description": "Focus is on the components and associated techniques employed to implement analog and digital radio frequency (RF) and microwave (MW) transceivers for wireless applications, including: cell phones; pagers; wireless local area networks; global positioning satellite-based devices; and RF identification systems. A brief overview of system-level considerations is provided, including modulation and detection approaches for analog and digital systems; multiple-access techniques and wireless standards; and transceiver architectures. Focus is on RF and MW: transmission lines; filter design; active component modeling; matching and biasing networks; amplifier design; and mixer design. Prerequisite: ESE 330."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 434 Solid-State Power Circuits and Applications",
+    "Credits": "3",
+    "Description": "Study of the strategies and applications power control using solid-state semiconductor devices. Survey of generic power electronic converters. Applications to power supplies, motor drives and consumer electronics. Introduction to power diodes, thyristors and MOSFETs. Prerequisites: ESE 232, ESE 351."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 435 Electrical Energy Laboratory",
+    "Credits": "3",
+    "Description": "Experimental studies of principles important in modern electrical energy systems. Topics include: AC power measurements, electric lighting, photovoltaic cells and arrays, batteries, DC-DC and DC-AC converters, and three-phase circuits. Each experiment requires analysis, simulation with MultiSim, and measurement via LabView and the Elvis II platform. Prerequisites: ESE 230 and ESE 351."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 436 Advanced Electronic Devices",
+    "Credits": "3",
+    "Description": "The physics of state-of-the-art electronic devices. Devices studied include novel diode structures (light-emitting diodes, semiconductor laser diodes), high-power devices (SCRs, TRIACs and power transistors), and high-speed devices. High-speed devices include heterojunction bipolar (HBT), heterojunction field-effect (HFET) and high electron mobility (HEMT) transistors used in very high-speed systems (up to 100 GHz). Advanced bipolar transistors (poly-Si), used in high-speed microprocessors, examined; also materials properties, transport mechanisms, band structure and physics of these devices. Prerequisite: ESE 336."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 437 Sustainable Energy Systems",
+    "Credits": "3",
+    "Description": "We will survey the field of sustainable energy and explore contributions within electrical and systems engineering. Topics include introductory electric power systems, smart grids, and the roles of heat engines, photovoltaics, wind power, and energy storage, as well as analysis and optimization of energy systems. The course will include review and discussion of literature, problem sets, exams, and student projects. Prerequisites: ESE 318 or 319 and ESE 230 or ESE 351 or permission of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 438 Applied Optics",
+    "Credits": "3",
+    "Description": "Topics relevant to the engineering and physics of conventional as well as experimental optical systems and applications explored. Items addressed include geometrical optics, Fourier optics such as diffraction and holography, polarization and optical birefringence such as liquid crystals, and nonlinear optical phenomena and devices. Prerequisite: ESE 330 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 439 Introduction to Quantum Communications",
+    "Credits": "3",
+    "Description": "This course covers the following topics: quantum optics, single-mode and two-mode quantum systems, nonlinear optics, and quantum systems theory. Specific topics include the following: Dirac notation quantum mechanics; harmonic oscillator quantization; number states, coherent states, and squeezed states; direct, homodyne, and heterodyne detection; linear propagation loss; phase insensitive and phase sensitive amplifiers; entanglement and teleportation; field quantization; quantum photodetection; phase-matched interactions; optical parametric amplifiers; generation of squeezed states, photon-twin beams, non-classical fourth-order interference, and polarization entanglement; optimum binary detection; quantum precision measurements; and quantum cryptography. Prerequisites: ESE 330 or Physics 421; Physics 217 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 441 Control Systems",
+    "Credits": "3",
+    "Description": "Introduction to the theory and practice of automatic control for dynamical systems. Dynamical systems as models for physical and observed phenomena. Mathematical representation of dynamical systems, such as state-space differential and difference equations, transfer functions, and block diagrams. Analysis of the time evolution of a system in response to control inputs, steady-state and transient responses, equilibrium points and their stability. Control via linear state feedback, and estimation using Leunberger observers. Relating the time response of a system to its frequency response, including Bode and Nyquist plots. Input-output stability and its relation to the stability of equilibrium points. Simple frequency-based controllers, such as PID and lead-lag compensators. Exercise involving the use of MATLAB/Simulink (or equivalent) to simulate and analyze systems. Prerequisites: CSE 131, and either ESE 351 or MEMS 431."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 444 Sensors and Actuators",
+    "Credits": "3",
+    "Description": "The course provide engineering students with basic understanding of two of the main components of any modern electrical or electromechanical system; sensors as inputs and actuators as outputs. The covered topics include transfer functions, frequency responses and feedback control. Component matching and bandwidth issues. Performance specification and analysis, Sensors: analog and digital motion sensors, optical sensors, temperature sensors, magnetic and electromagnetic sensors, acoustic sensors, chemical sensors, radiation sensors, torque, force and tactile sensors. Actuators: stepper motors, DC and AC motors, hydraulic actuators, magnet and electromagnetic actuators, acoustic actuators. Introduction to interfacing methods: bridge circuits, A/D and D/A converters, microcontrollers. This course is useful for those students interested in control engineering, robotics and systems engineering. Prerequisites: one of the following 4 conditions: (1) prerequisite of ESE 230 and corequisite of ESE 351; (2) prerequisites of ESE 230, ESE 318 and MEMS 255 (Mechanics II); (3) prerequisites of ESE 151 and ESE 351; (4) permission of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 446 Robotics: Dynamics and Control",
+    "Credits": "3",
+    "Description": "Homogeneous coordinates and transformation matrices. Kinematic equations and the inverse kinematic solutions for manipulators, the manipulator Jacobian and the inverse Jacobian. General model for robot arm dynamics, complete dynamic coefficients for six-link manipulator. Synthesis of manipulation control, motion trajectories, control of single- and multiple-link manipulators, linear optimal regulator. Model reference adaptive control, feedback control law for the perturbation equations along a desired motion trajectory. Design of the control system for robotics. Prerequisites: ESE 351, knowledge of a programming language, and ESE 318; Corequisite: ESE 441."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 447 Robotics Laboratory",
+    "Credits": "3",
+    "Description": "Introduces the students to various concepts such as modeling, identification, model validation and control of robotic systems. The course focuses on the implementation of identification and control algorithms on a two-link robotic manipulator (the so-called pendubot) that will be used as an experimental testbed. Topics include: introduction to the mathematical modeling of robotic systems; nonlinear model, linearized model; identification of the linearized model: input-output and state-space techniques; introduction to the identification of the nonlinear model: energy-based techniques; model validation and simulation; stabilization using linear control techniques; a closer look at the dynamics; stabilization using nonlinear control techniques. Prerequisite: ESE 351 or MEMS 431. Corequisites or Prerequisites: ESE 441 and 446."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 448 Systems Engineering Laboratory",
+    "Credits": "3",
+    "Description": "Experimental study of real and simulated systems and their control. Identification, input-output analysis, design and implementation of control systems. Noise effects. Design and implementation of control laws for specific engineering problems. Corequisites: ESE 441 and knowledge of a programming language."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 449 Digital Process Control Laboratory",
+    "Credits": "3",
+    "Description": "Applications of digital control principles to laboratory experiments supported by a networked distributed control system. Lecture material reviews background of real-time programming, data acquisition, process dynamics, and process control. Exercises in data acquisition and feedback control design using simple and advanced control strategies. Experiments in flow, liquid level, temperature, and pressure control. Term project. Prerequisite: ESE 441 or EECE 401 or equivalent. (Prior to FL2015, this course was numbered: E63 433.)\nSame as E44 EECE 424"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 455 Quantitative Methods for Systems Biology",
+    "Credits": "3",
+    "Description": "Application of computational mathematical techniques to problems in contemporary biology. Systems of linear ordinary differential equations in reaction-diffusion systems, hidden Markov models applied to gene discovery in DNA sequence, ordinary differential equation and stochastic models applied to gene regulation networks, negative feedback in transcription and metabolic pathway regulation. Prerequisites: (1) Math 217 Differential Equations and (2) a programming course and familiarity with MATLAB."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 460 Switching Theory",
+    "Credits": "3",
+    "Description": "Advanced topics in switching theory as employed in the synthesis, analysis, and design of information processing systems. Combinational techniques: minimization, multiple output networks, state identification and fault detection, hazards, testability and design for test are examined. Sequential techniques: synchronous circuits, machine minimization, optimal state assignment, asynchronous circuits, and built-in self-test techniques. Prerequisite: CSE 260M.\nSame as E81 CSE 460T"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 461 Design Automation for Integrated Circuit Systems",
+    "Credits": "3",
+    "Description": "Integrated circuit systems provide the core technology that power today's most advanced devices and electronics: smart phones, wearable devices, autonomous robots, and cars, aerospace or medical electronics. These systems often consist of silicon microchips made up by billions of transistors and contain various components such as microprocessors, DSPs, hardware accelerators, memories, and I/O interfaces; therefore, design automation is critical to tackle the design complexity at the system level. The objectives of this course are to 1) introduce transistor-level analysis of basic digital logic circuits; 2) provide a general understanding of hardware description language (HDL) and design automation tools for very large scale integrated (VLSI) systems; 3) expose students to the design automation techniques used in the best-known academic and commercial systems. Topics covered include device and circuits for digital logic circuits, digital IC design flow, logic synthesis, physical design, circuit simulation and optimization, timing analysis, power delivery network analysis. Assignments include homework, mini-projects, term paper and group project. Prerequisites: ESE 232; ESE 260."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 462 Computer Systems Design",
+    "Credits": "3",
+    "Description": "Introduction to modern design practices, including the use of FPGA design methodologies. Students use a commercial CAE/CAD system for VHDL-based design and simulation while designing a selected computation system. Prerequisites: CSE 361S and 362M.\nSame as E81 CSE 462M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 465 Digital Systems Laboratory",
+    "Credits": "3",
+    "Description": "Hardware/software co-design; processor interfacing; procedures for reliable digital design, both combinational and sequential; understanding manufacturers' specifications; use of test equipment. Several single-period laboratory exercises, several design projects, and application of microprocessors in digital design. One lecture and one laboratory period a week. Prerequisites: CSE 260M and CSE 361S."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 467 Embedded Computing Systems",
+    "Credits": "3",
+    "Description": "Introduces the issues, challenges and methods for designing embedded computing systems — systems designed to serve a particular application, which incorporate the use of digital processing devices. Examples of embedded systems include PDAs, cellular phones, appliances, game consoles, automobiles and iPod. Emphasis is given to aspects of design that are distinct to embedded systems. The course examines hardware, software and system-level design. Hardware topics include microcontrollers, digital signal processors, memory hierarchy and I/O. Software issues include languages, run-time environments and program analysis. System-level topics include real-time operating systems, scheduling, power management and wireless sensor networks. Students perform a course project on a real wireless sensor network testbed. Prerequisite: CSE 361S.\nSame as E81 CSE 467S"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 471 Communications Theory and Systems",
+    "Credits": "3",
+    "Description": "Introduction to the concepts of transmission of information via communication channels. Amplitude and angle modulation for the transmission of continuous-time signals. Analog-to-digital conversion and pulse code modulation. Transmission of digital data. Introduction to random signals and noise and their effects on communication. Optimum detection systems in the presence of noise. Elementary information theory. Overview of various communication technologies such as radio, television, telephone networks, data communication, satellites, optical fiber and cellular radio. Prerequisites: ESE 351 and ESE 326."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 474 Introduction to Wireless Sensor Networks",
+    "Credits": "3",
+    "Description": "This is an introductory course on wireless sensor networks for senior undergraduate students. The course uses a combination of lecturing, reading, and discussion of research papers to help each student to understand the characteristics and operations of various wireless sensor networks. Topics covered include sensor network architecture, communication protocols on Medium Access Control and Routing, sensor network operation systems, sensor data aggregation and dissemination, localization and time synchronization, energy management, and target detection and tracking using acoustic sensor networks. Prerequisite: ESE 351 (Signals and Systems)."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 482 Digital Signal Processing",
+    "Credits": "3",
+    "Description": "Introduction to analysis and synthesis of discrete-time linear time-invariant (LTI) systems. Discrete-time convolution, discrete-time Fourier transform, z-transform, rational function descriptions of discrete-time LTI systems. Sampling, analog-to-digital conversion and digital processing of analog signals. Techniques for the design of finite impulse response (FIR) and infinite impulse response (IIR) digital filters. Hardware implementation of digital filters and finite-register effects. The Discrete Fourier Transform and the Fast Fourier Transform (FFT) algorithms. Prerequisite: ESE 351."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 488 Signals and Communication Laboratory",
+    "Credits": "3",
+    "Description": "A laboratory course designed to complement the traditional EE course offerings in signal processing and communication theory. Signals and systems fundamentals: continuous-time and discrete-time linear time-invariant systems, impulse and step response, frequency response, A/D and D/A conversion. Digital signal processing: FIR and IIR digital filter design, implementation and application of the Fast Fourier Transform. Communication theory: baseband, digital communication, amplitude modulation, frequency modulation, bandpass digital communication. Laboratory experiments involve analog and digital electronics. Computer workstations and modern computational software used extensively for system simulation and real-time signal processing. Prerequisite: ESE 351."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 497 Undergraduate Research",
+    "Credits": "Credit variable, maximum 3 units.",
+    "Description": "Undergraduate research under the supervision of a faculty member. The scope and depth of the research must be approved by the faculty member prior to enrollment. A written final report and a webpage describing the research are required."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 498 Electrical Engineering Capstone Design Projects",
+    "Credits": "3",
+    "Description": "Capstone design project supervised by the course instructor. The project must use the theory, techniques, and concepts of the student's major: electrical engineering or systems science & engineering. The solution of a real technological or societal problem is carried through completely, starting from the stage of initial specification, proceeding with the application of engineering methods, and terminating with an actual solution. Collaboration with a client, typically either an engineer or supervisor from local industry or a professor or researcher in university laboratories, is encouraged. A proposal, an interim progress update, and a final report are required, each in the forms of a written document and oral presentation, as well as a webpage on the project. Weekly progress reports and meetings with the instructor are also required. Prerequisite: ESE senior standing and instructor's consent. Note: This course will meet at the scheduled time only during select weeks. If you cannot attend at that time, you may still register for the course."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 499 Systems Science and Engineering Capstone Design Project",
+    "Credits": "3",
+    "Description": "Capstone design project supervised by the course instructor. The project must use the theory, techniques, and concepts of the student's major: electrical engineering or systems science & engineering. The solution of a real technological or societal problem is carried through completely, starting from the stage of initial specification, proceeding with the application of engineering methods, and terminating with an actual solution. Collaboration with a client, typically either an engineer or supervisor from local industry or a professor or researcher in university laboratories, is encouraged. A proposal, an interim progress update, and a final report are required, each in the forms of a written document and oral presentation, as well as a webpage on the project. Weekly progress reports and meetings with the instructor are also required. Prerequisite: ESE senior standing and instructor's consent. Note: This course will meet at the scheduled time only during select weeks. If you cannot attend at that time, you may still register for the course."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 500 Independent Study",
+    "Credits": "Credit variable, maximum 3 units.",
+    "Description": "Opportunities to acquire experience outside the classroom setting and to work closely with individual members of the faculty. A final report must be submitted to the department. Prerequisite: Students must have the ESE Research/Independent Study Registration Form (PDF) approved by the department."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 501 Mathematics of Modern Engineering I",
+    "Credits": "3",
+    "Description": "Matrix algebra: systems of linear equations, vector spaces, linear independence and orthogonality in vector spaces, eigenvectors and eigenvalues; vector calculus: gradient, divergence, curl, line and surface integrals, theorems of Green, Stokes, and Gauss; Elements of Fourier analysis and its applications to solving some classical partial differential equations, heat, wave, and Laplace equation. Prerequisites: ESE 318 and ESE 319 or equivalent or consent of instructor. This course will not count toward the ESE doctoral program."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 502 Mathematics of Modern Engineering II",
+    "Credits": "3",
+    "Description": "Fourier series and Fourier integral transforms and their applications to solving some partial differential equations, heat and wave equations; complex analysis and its applications to solving real-valued problems: analytic functions and their role, Laurent series representation, complex-valued line integrals and their evaluation including the residual integration theory, conformal mappings and their applications. Prerequisites: ESE 318 and ESE 319 or ESE 317 or equivalent, or consent of instructor. This course will not count toward the ESE doctoral program."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 512 Advanced Numerical Analysis",
+    "Credits": "3",
+    "Description": "Special topics chosen from numerical solution of partial differential equations, uniform and least-squares approximation spline approximation, Galerkin methods and finite element approximation, functional analysis applied to numerical mathematics, and other topics of interest. Prerequisite: ESE 511 or consent of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 513 Convex Optimization and Duality Theory",
+    "Credits": "3",
+    "Description": "Graduate introduction to convex optimization with emphasis on convex analysis and duality theory. Topics include: convex sets, convex functions, convex cones, convex conjugates, Fenchel-Moreau theorem, convex duality and biconjugation, directional derivatives, subgradients and subdifferentials, optimality conditions, ordered vector spaces, Hahn-Banach theorem, extension and separation theorems, minimax theorems, and vector and set optimization. Prerequisites: ESE 415, Math 4111."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 514 Calculus of Variations",
+    "Credits": "3",
+    "Description": "Introduction to the theory and applications of the calculus of variations. Theory of functionals; variational problems for an unknown function; Euler's equation; variable end-point problems; variational problems with subsidiary conditions; sufficient conditions for extrema: applications to optimum control and/or to other fields. A term project is required. Prerequisites: ESE 318 and 319 or ESE 317 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 516 Optimization in Function Space",
+    "Credits": "3",
+    "Description": "Linear vector spaces, normed linear spaces, Lebesque integrals, the Lp spaces, linear operators, dual space, Hilbert spaces. Projection theorem, Hahn-Banach theorem. Hyperplanes and convex sets, Gateaux and Frächet differentials, unconstrained minima, adjoint operators, inverse function theorem. Constrained minima, equality constraints, Lagrange multipliers, calculus of variations, Euler-Lagrange equations, positive cones, inequality constraints. Kuhn-Tucker theorem, optimal control theory, Pontryagin's maximum principle, successive approximation methods, Newton's methods, steepest descent methods, primal-dual methods, penalty function methods, multiplier methods. Prerequisite: Math 4111."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 517 Partial Differential Equations",
+    "Credits": "3",
+    "Description": "Linear and nonlinear first order equations. Characteristics. Classification of equations. Theory of the potential linear and nonlinear diffusion theory. Linear and nonlinear wave equations. Initial and boundary value problems. Transform methods. Integral equations in boundary value problems. Prerequisites: ESE 318 and 319 or equivalent or consent of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 518 Optimization Methods in Control",
+    "Credits": "3",
+    "Description": "The course is divided in two parts: convex optimization and optimal control. In the first part we cover applications of Linear Matrix Inequalities and Semi-Definite Programming to control and estimation problems. We also cover Multiparametric Linear Programming and its application to the Model Predictive Control and Estimation of linear systems. In the second part we cover numerical methods to solve optimal control and estimation problems. We cover techniques to discretize optimal control problems, numerical methods to solve them, and their optimality conditions. We apply these results to the Model Predictive Control and Estimation of nonlinear systems. Prerequisites: ESE 551, and ESE 415 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 519 Convex Optimization",
+    "Credits": "3",
+    "Description": "Concentrates on recognizing and solving convex optimization problems that arise in applications. Convex sets, functions, and optimization problems. Basics of convex analysis. Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems. Optimality conditions, duality theory, theorems of alternative, and applications. Interior-point methods. Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance. Prerequisites: Math 309 and ESE 415."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 520 Probability and Stochastic Processes",
+    "Credits": "3",
+    "Description": "Review of probability theory; models for random signals and noise; calculus of random processes; noise in linear and nonlinear systems; representation of random signals by sampling and orthonormal expansions. Poisson, Gaussian and Markov processes as models for engineering problems. Prerequisite: ESE 326."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 521 Random Variables and Stochastic Processes I",
+    "Credits": "3",
+    "Description": "Mathematical foundations of probability theory, including constructions of measures, Lebesque-measure, Lebesque-integral, Banach space property of Lp, basic Hilbert-space theory, conditional expectation. Kolmogorov's theorems on existence and sample-path continuity of stochastic processes. An in-depth look at the Wiener process. Filtrations and stopping times. Markov processes and diffusions, including semigroup properties and the Kolmogorov forward and backward equations. Prerequisites: ESE 520 or equivalent, Math 411."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 523 Information Theory",
+    "Credits": "3",
+    "Description": "Discrete source and channel model, definition of information rate and channel capacity, coding theorems for sources and channels, encoding and decoding of data for transmission over noisy channels. Corequisite: ESE 520."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 524 Detection and Estimation Theory",
+    "Credits": "3",
+    "Description": "Study of detection and estimation of signals in noise. Linear algebra, vector spaces, independence, projections. Data independence, factorization theorem and sufficient statistics. Neyman-Pearson and Bayes detection. Least squares, maximum-likelihood and maximum a posteriori estimation of signal parameters. Conjugate priors, recursive estimation, Wiener and Kalman filters. Prerequisite: ESE 520."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 529 Special Topics in Information Theory and Applied Probability",
+    "Credits": "3"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 531 Nano and Micro Photonics",
+    "Credits": "3",
+    "Description": "This course focuses on fundamental theory, design, and applications of photonic materials and micro/nano photonic devices. It includes review and discussion of light-matter interactions in nano and micro scales, propagation of light in waveguides, nonlinear optical effect and optical properties of nano/micro structures, the device principles of waveguides, filters, photodetectors, modulators and lasers. Prerequisite: ESE 330."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 532 Introduction to Nano-Photonic Devices",
+    "Credits": "3",
+    "Description": "Introduction to photon transport in nano-photonic devices. This course focuses on the following topics: light and photons, statistical properties of photon sources, temporal and spatial correlations, light-matter interactions, optical nonlinearity, atoms and quantum dots, single- and two-photon devices, optical devices, and applications of nano-photonic devices in quantum and classical computing and communication. Prerequisites: ESE 330 and Physics 217, or permission of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 534 Special Topics in Advanced Electrodynamics",
+    "Credits": "3",
+    "Description": "This course covers advanced topics in electrodynamics. Topics include electromagnetic wave propagation (in free space, confined waveguides, or along engineered surfaces); electromagnetic wave scattering (off nano-particles or molecules); electromagnetic wave generation and detection (antenna and nano-antenna); inverse scattering problems; and numerical and approximate methods. Prerequisites: ESE 330, or Physics 421 and Physics 422."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 536 Introduction to Quantum Optics",
+    "Credits": "3",
+    "Description": "This course covers the following topics: quantum mechanics for quantum optics, radiative transitions in atoms, lasers, photon statistics (photon counting, Sub-/Super-Poissionian photon statistics, bunching, anti-bunching, theory of photodetection, shot noise), entanglement, squeezed light, atom-photon interactions, cold atoms, atoms in cavities. If time permits, the following topics are selectively covered: quantum computing, quantum cryptography, and teleportation. Prerequisites: ESE 330 and Physics 217 or Physics 421."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 538 Advanced Electromagnetic Engineering",
+    "Credits": "3",
+    "Description": "The course builds on undergraduate electromagnetics to systematically develop advanced concepts in electromagnetic theory for engineering applications. The following topics are covered: Maxwell's equations; fields and waves in materials; electromagnetic potentials and topics for circuits and systems; transmission-line essentials for digital electronics and for communications; guided wave principles for electronics and optoelectronics; principles of radiation and antennas; and numerical methods for computational electromagnetics."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 543 Control Systems Design by State Space Methods",
+    "Credits": "3",
+    "Description": "Advanced design and analysis of control systems by state-space methods: classical control review, Laplace transforms, review of linear algebra (vector space, change of basis, diagonal and Jordan forms), linear dynamic systems (modes, stability, controllability, state feedback, observability, observers, canonical forms, output feedback, separation principle and decoupling), nonlinear dynamic systems (stability, Lyapunov methods). Frequency domain analysis of multivariable control systems. State space control system design methods: state feedback, observer feedback, pole placement, linear optimal control. Design exercises with CAD (computer-aided design) packages for engineering problems. Prerequisite: ESE 351 and ESE 441, or permission of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 544 Optimization and Optimal Control",
+    "Credits": "3",
+    "Description": "Constrained and unconstrained optimization theory. Continuous time as well as discrete-time optimal control theory. Time-optimal control, bang-bang controls and the structure of the reachable set for linear problems. Dynamic programming, the Pontryagin maximum principle, the Hamiltonian-Jacobi-Bellman equation and the Riccati partial differential equation. Existence of classical and viscosity solutions. Application to time optimal control, regulator problems, calculus of variations, optimal filtering and specific problems of engineering interest. Prerequisites: ESE 551, ESE 552."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 545 Stochastic Control",
+    "Credits": "3",
+    "Description": "Introduction to the theory of stochastic differential equations based on Wiener processes and Poisson counters, and an introduction to random fields. The formulation and solution of problems in nonlinear estimation theory. The Kalman-Bucy filter and nonlinear analogues. Identification theory. Adaptive systems. Applications. Prerequisites: ESE 520 and ESE 551."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 546 Dynamics & Control in Neuroscience & Brain Medicine",
+    "Credits": "3",
+    "Description": "This course provides an introduction to systems engineering approaches to modeling, analysis and control of neuronal dynamics at multiple scales. A central motivation is the manipulation of neuronal activity for both scientific and medical applications using emerging neurotechnology and pharmacology. Emphasis is placed on dynamical systems and control theory, including bifurcation and stability analysis of single neuron models and population mean-field models. Synchronization properties of neuronal networks are covered and methods for control of neuronal activity in both oscillatory and non-oscillatory dynamical regimes are developed. Statistical models for neuronal activity are also discussed. An overview of signal processing and data analysis methods for neuronal recording modalities is provided, toward the development of closed-loop neuronal control paradigms. The final evaluation is based on a project or research survey. Prerequisite(s): ESE 553 (or equivalent); ESE 520 (or equivalent); ESE 351 (or equivalent)."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 547 Robust and Adaptive Control",
+    "Credits": "3",
+    "Description": "Graduate-level control system design methods for multi-input multi-output systems. Linear optimal-based methods in robust control, nonlinear model reference adaptive control. These design methods are currently used in most industry control system design problems. These methods are designed, analyzed and simulated using MATLAB. Linear control theory (review), robustness theory (Mu Analysis), optimal control and the robust servomechanism, H-infinity optimal control, robust output feedback controls, Kalman filter theory and design, linear quadratic gaussian with loop transfer recovery, the Loop Transfer Recovery method of Lavretsky, Mu synthesis, Lyapunov theory (review), LaSalle extensions, Barbalat's Lemma, model reference adaptive control, artificial neural networks, online parameter estimation, convergence and persistence of excitation. Prerequisite: ESE 543 or ESE 551 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 549 Special Topics in Control",
+    "Credits": "3"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 551 Linear Dynamic Systems I",
+    "Credits": "3",
+    "Description": "Input-output and state-space description of linear dynamic systems. Solution of the state equations and the transition matrix. Controllability, observability, realizations, pole-assignment, observers and decoupling of linear dynamic systems. Prerequisite: ESE 351."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 552 Linear Dynamic Systems II",
+    "Credits": "3",
+    "Description": "Least squares optimization problems. Riccati equation, terminal regulator and steady-state regulator. Introduction to filtering and stochastic control. Advanced theory of linear dynamic systems. Geometric approach to the structural synthesis of linear multivariable control systems. Disturbance decoupling, system invertibility and decoupling, extended decoupling and the internal model principle. Prerequisite: ESE 551."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 553 Nonlinear Dynamic Systems",
+    "Credits": "3",
+    "Description": "State space and functional analysis approaches to nonlinear systems. Questions of existence, uniqueness and stability; Lyapunov and frequency-domain criteria; w-limits and invariance, center manifold theory and applications to stability, steady-state response and singular perturbations. Poincare-Bendixson theory, the van der Pol oscillator, and the Hopf Bifurcation theorem. Prerequisite: ESE 551."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 554 Advanced Nonlinear Dynamic Systems",
+    "Credits": "3",
+    "Description": "Differentiable manifolds, vector fields, distributions on a manifold, Frobenius' theorem, Lie algebras. Controllability, observability of nonlinear systems, examined from the viewpoint of differential geometry. Transformation to normal forms. Exact linearization via feedback. Zero dynamics and related properties. Noninteracting control and disturbance decoupling. Controlled invariant distributions. Noninteracting control with internal stability. Prerequisites: ESE 553 and ESE 551."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 557 Hybrid Dynamic Systems",
+    "Credits": "3",
+    "Description": "Theory and analysis of hybrid dynamic systems, which is the class of systems whose state is composed by continuous-valued and discrete-valued variables. Discrete-event systems models and language descriptions. Models for hybrid systems. Conditions for existence and uniqueness. Stability and verification of hybrid systems. Optimal control of hybrid systems. Applications to cyber-physical systems and robotics. Prerequisite: ESE 551."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 559 Special Topics in Systems",
+    "Credits": "3"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 560 Computer Systems Architecture I",
+    "Credits": "3",
+    "Description": "An exploration of the central issues in computer architecture: instruction set design, addressing and register set design, control unit design, microprogramming, memory hierarchies (cache and main memories, mass storage, virtual memory), pipelining, and bus organization. The course emphasizes understanding the performance implications of design choices, using architecture modeling and evaluation using VHDL and/or instruction set simulation. Prerequisites: CSE 361S and CSE 260M.\nSame as E81 CSE 560M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 561 Computer Systems Architecture II",
+    "Credits": "3",
+    "Description": "Advanced techniques in computer system design. Selected topics from: processor design (multithreading, VLIW, data flow, chip-multiprocessors, application specific processors, vector units, large MIMD machines), memory systems (topics in locality, prefetching, reconfigurable and special-purpose memories), system specification and validation, and interconnection networks. Prerequisites: CSE 560M or permission of instructor.\nSame as E81 CSE 561M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 562 Analog Integrated Circuits",
+    "Credits": "3",
+    "Description": "This course focuses on fundamental and advanced topics in analog and mixed-signal VLSI techniques. The first part of the course covers graduate-level materials in the area of analog circuit synthesis and analysis. The second part of the course covers applications of the fundamental techniques for designing analog signal processors and data converters. Several practical aspects of mixed-signal design, simulation and testing are covered in this course. This is a project-oriented course, and it is expected that the students apply the concepts learned in the course to design, simulate and explore different circuit topologies. Prerequisites: CSE 260 and ESE 232."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 565 Acceleration of Algorithms in Reconfigurable Logic",
+    "Credits": "3",
+    "Description": "Reconfigurable logic, in the form of Field-Programmable Gate Arrays (FPGAs), enables the deployment of custom hardware for individual applications. To exploit this capability, the application developer is required to specify the design at the register-transfer level. This course explores techniques for designing algorithms that are amenable to hardware acceleration as well as provides experience in actual implementation. Example applications are drawn from a variety of fields, such as networking, computational biology, etc. Prerequisites: basic digital logic (CSE 260M) and some experience with a hardware description language (e.g., VHDL or Verilog).\nSame as E81 CSE 565M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 566A Modern System-on-Chip Design",
+    "Credits": "3",
+    "Description": "The System-on-Chip (SoCs) technology is at the core of most electronic systems: smart phones, wearable devices, autonomous robots, and cars, aerospace or medical electronics. In these SoCs, billions of transistors can be integrated on a single silicon chip, containing various components such as microprocessors, DSPs, hardware accelerators, memories, and I/O interfaces. Topics include SoC architectures, design tools and methods, as well as system-level tradeoffs between performance, power consumption, energy efficiency, reliability and programmability. Students gain an insight into the early stage of the SoC design process performing the tasks of developing functional specification, partition and map functions onto hardware and/or software, and evaluating and validating system performance. Assignments include hands-on design projects. Open to both graduate and senior undergraduate students. Prerequisite: ESE 461."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 567 Computer Systems Analysis",
+    "Credits": "3",
+    "Description": "A comprehensive course on performance analysis techniques. The topics include common mistakes, selection of techniques and metrics, summarizing measured data, comparing systems using random data, simple linear regression models, other regression models, experimental designs, 2**k experimental designs, factorial designs with replication, fractional factorial designs, one factor experiments, two factor full factorial design w/o replications, two factor full factorial designs with replications, general full factorial designs, introduction to queueing theory, analysis of single queues, queueing networks, operational laws, mean-value analysis, time series analysis, heavy tailed distributions, self-similar processes, long-range dependence, random number generation, analysis of simulation results, and art of data presentation. Prerequisites: CSE 131 and CSE 260M.\nSame as E81 CSE 567M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 569 Parallel Architectures and Algorithms",
+    "Credits": "3",
+    "Description": "Several contemporary parallel computer architectures are reviewed and compared. The problems of process synchronization and load balancing in parallel systems are studied. Several selected applications problems are investigated and parallel algorithms for their solution are considered. Selected parallel algorithms are implemented in both a shared memory and distributed memory parallel programming environment. Prerequisites: graduate standing and knowledge of the C programming language.\nSame as E81 CSE 569M"
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 570 Coding Theory",
+    "Credits": "3",
+    "Description": "Introduction to the algebra of finite fields. Linear block codes, cyclic codes, BCH and related codes for error detection and correction. Encoder and decoder circuits and algorithms. Spectral descriptions of codes and decoding algorithms. Code performances."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 571 Transmission Systems and Multiplexing",
+    "Credits": "3",
+    "Description": "Transmission and multiplexing systems are essential to providing efficient point-to-point communication over distance. This course introduces the principles underlying modern analog and digital transmission and multiplexing systems and covers a variety of system examples."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 572 Signaling and Control in Communication Networks",
+    "Credits": "3",
+    "Description": "The operation of modern communications networks is highly dependent on sophisticated control mechanisms that direct the flow of information through the network and oversee the allocation of resources to meet the communication demands of end users. This course covers the structure and operation of modern signaling systems and addresses the major design trade-offs that center on the competing demands of performance and service flexibility. Specific topics covered include protocols and algorithms for connection establishment and transformation, routing algorithms, overload and failure recovery and networking dimensioning. Case studies provide concrete examples and reveal the key design issues. Prerequisites: graduate standing and permission of instructor."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 575 Fiber-Optic Communications",
+    "Credits": "3",
+    "Description": "Introduction to optical communications via glass-fiber media. Pulse-code modulation and digital transmission methods, coding laws, receivers, bit-error rates. Types and properties of optical fibers; attenuation, dispersion, modes, numerical aperture. Light-emitting diodes and semiconductor laser sources; device structure, speed, brightness, modes, electrical properties, optical and spectral characteristics. Prerequisites: ESE 330, ESE 336."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 581 Radar Systems",
+    "Credits": "3",
+    "Description": "An introduction to the selection and processing of radar signals. Signal design for improving range and Doppler resolution, ambiguity functions, chirp and stepped-frequency waveforms, pulse-compression codes. Statistical models for radar data: range-spread, Doppler-spread, doubly spread reflectors. Matched-filter and estimator-correlator receivers for range and Doppler estimation. Tracking. Multiantenna radar receivers: interference rejection, adaptive canceling. Delay-Doppler radar-imaging using synthetic-aperture processing. Prerequisite: ESE 524."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 582 Fundamentals and Applications of Modern Optical Imaging",
+    "Credits": "3",
+    "Description": "Analysis, design and application of modern optical imaging systems with emphasis on biological imaging. First part of the course focuses on the physical principles underlying the operation of imaging systems and their mathematical models. Topics include ray optics (speed of light, refractive index, laws of reflection and refraction, plane surfaces, mirrors, lenses, aberrations), wave optics (amplitude and intensity, frequency and wavelength, superposition and interference, interferometry), Fourier optics (space-invariant linear systems, Huygens-Fresnel principle, angular spectrum, Fresnel diffraction, Fraunhofer diffraction, frequency analysis of imaging systems), and light-matter interaction (absorption, scattering, dispersion, fluorescence). Second part of the course compares modern quantitative imaging technologies including, but not limited to, digital holography, computational imaging, and super-resolution microscopy. Students evaluate and critique recent optical imaging literature. Prerequisites: ESE 318 and ESE 319 or their equivalents; ESE 330 or Physics 421 or equivalent."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 584 Statistical Signal Processing for Sensor Arrays",
+    "Credits": "3",
+    "Description": "Methods for signal processing and statistical inference for data acquired by an array of sensors, such as those found in radar, sonar and wireless communications systems. Multivariate statistical theory with emphasis on the complex multivariate normal distribution. Signal estimation and detection in noise with known statistics, signal estimation and detection in noise with unknown statistics, direction finding, spatial spectrum estimation, beam forming, parametric maximum-likelihood techniques. Subspace techniques, including MUSIC and ESPRIT. Performance analysis of various algorithms. Advanced topics may include structured covariance estimation, wide-band array processing, array calibration, array processing with polarization diversity, and space-time adaptive processing (STAP). Prerequisites: ESE 520, ESE 524, linear algebra, computer programming."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 588 Quantitative Image Processing",
+    "Credits": "3",
+    "Description": "Introduction to modeling, processing, manipulation and display of images. Application of two-dimensional linear systems to image processing. Two-dimensional sampling and transform methods. The eye and perception. Image restoration and reconstruction. Multiresolution processing, noise reduction and compression. Boundary detection and image segmentation. Case studies in image processing (examples: computer tomography and ultrasonic imaging). Prerequisites: ESE 326, ESE 482."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 589 Biological Imaging Technology",
+    "Credits": "3",
+    "Description": "This class develops a fundamental understanding of the physics and mathematical methods that underlie biological imaging and critically examine case studies of seminal biological imaging technology literature. The physics section examines how electromagnetic and acoustic waves interact with tissues and cells, how waves can be used to image the biological structure and function, image formation methods, and diffraction limited imaging. The math section examines image decomposition using basis functions (e.g., Fourier transforms), synthesis of measurement data, image analysis for feature extraction, reduction of multidimensional imaging datasets, multivariate regression, and statistical image analysis. Original literature on electron, confocal and two photon microscopy, ultrasound, computed tomography, functional and structural magnetic resonance imaging and other emerging imaging technology are critiqued."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 590 Electrical & Systems Engineering Graduate Seminar",
+    "Description": "This pass/fail course is required for the MS, DSc and PhD degrees in Electrical & Systems Engineering. A passing grade is required for each semester of enrollment and is received by attendance at regularly scheduled ESE seminars. MS students must attend at least three seminars per semester. DSc and PhD students must attend at least five seminars per semester. Part-time students are exempt except during their year of residency. Any student under continuing status is also exempt. Seminars missed in a given semester may be made up during the subsequent semester."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 596 Seminar in Imaging Science and Engineering",
+    "Credits": "1",
+    "Description": "This seminar course consists of a series of tutorial lectures on Imaging Science and Engineering with emphasis on applications of imaging technology. Students are exposed to a variety of imaging applications that vary depending on the semester, but may include multispectral remote sensing, astronomical imaging, microscopic imaging, ultrasound imaging and tomographic imaging. Guest lecturers come from several parts of the university. This course is required of all students in the Imaging Science and Engineering program; the only requirement is attendance. This course is graded pass/fail. Prerequisite: admission to Imaging Science and Engineering program. Same as CSE 596 (when offered) and BME 506."
+   ,"Difficulty": "0",    "Popularity": "0",    "Professor Rating": "0", "Field":"" },
+   {
+    "Course title": "E35 ESE 599 Master's Research",
+    "Credits": "Credit variable, maximum 3 units.",
+    "Description": "Prerequisite: Students must have the ESE Research/Independent Study Registration Form (PDF) approved by the department."
+   }
+  ]
+ }
+]
+}

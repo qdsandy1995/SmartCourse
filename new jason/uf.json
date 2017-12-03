@@ -1,0 +1,962 @@
+{"University of Florida": [
+{
+ "UF_CS": [
+  {
+   "Course title": "CAP 3020",
+   "Credits": "3",
+   "Desciption": "Combines the traditional media production pipeline and software engineering processes to synthesize an approach geared for the production of works incorporating both artistic and computational elements.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 3027",
+   "Credits": "3",
+   "Description": "Synergy between art and computing through a programming-oriented exploration of fundamental concepts in multimedia.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 3032",
+   "Credits": "3",
+   "Description": "Introduces programming and data structures for interactive two-dimensional multimedia applications. Representing form and transforms in two dimensions, capturing user actions and driving application behavior interactively. Graphical interfaces, image processing, automata and basic artificial intelligence.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 3034",
+   "Credits": "3",
+   "Description": "Introduces topics related to computer-aided animation. Rigging for forward and inverse kinematics. Skin weighting. Morph targets. Expression-driven animation, rigid-body and particle simulation.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 3220",
+   "Credits": "3",
+   "Description": "Introduces topics related to computer-aided modeling. Polygonal mesh, NURBS and subdivision surface meshes. Materials and shading networks. Lighting, shadows and rendering.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 4053",
+   "Credits": "3",
+   "Description": "Examines the use of A.I. in computer games. Topics include general A.I. knowledge, path finding, movement, tactics and planning, strategy, state machines, learning, dialogue, and emotions.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 4403",
+   "Credits": "3",
+   "Description": "Basic concepts of applying aesthetics to the representation of formal discrete structures found in computing, as well as to their operational behaviors.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 4621",
+   "Credits": "3",
+   "Description": "Introduces artificial intelligence concepts. Heuristic search, clause form logic, knowledge representation, reasoning and inference, overview of computer vision, planning, natural language, Lisp and Prolog. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 4680",
+   "Credits": "3",
+   "Description": "Concepts, theory and various applications for knowledge-based (expert) systems, reasoning schemes, knowledge representation, knowledge-based system tools, building knowledge bases, knowledge acquisition, reasoning under certainty and inexact reasoning.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 4730",
+   "Credits": "3",
+   "Description": "Studies the major topics in computer graphics: display and output technology, two and three dimensional manipulations; space curves and surfaces, hidden surface removal and shading models.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 4770",
+   "Credits": "3",
+   "Description": "Introduces the basics of data science including programming for data analytics, file management, relational databases, classification, clustering and regression. The foundation is laid for big data applications ranging from social networks to medical and business informatics.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CAP 4800",
+   "Credits": "3",
+   "Description": "Simulation methodology and practice. Covers basic concepts in modeling and analysis for both continuous and discrete systems. Combined simulation methods including integrated qualitative/quantitative system modeling. Uses in-house simulation software. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CDA 3101",
+   "Credits": "3",
+   "Description": "Organization of computing systems. Logical basis of computer structure. Machine representation of instructions and data, flow of control, and basic machine instructions. Assembly language programming. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CDA 4102",
+   "Credits": "3",
+   "Description": "Introduces computer architecture and system organization including virtual memory supports cache, pipeline, vector processing, multiprocessor and RISC architecture.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CEN 3031",
+   "Credits": "3",
+   "Description": "Topics include software planning, specifications, coding, testing and maintenance. Gain experience in the team approach to large system development. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "CEN 3907C",
+   "Credits": "3",
+   "Description": "Reinforce basic computer engineering skills; design, produce, and report on a computer engineering project, meeting defined specifications and using a structured design methodology and project management.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CEN 3908C",
+   "Credits": "3",
+   "Description": "Selected capstone design projects involving engineering applications in the various areas of computer engineering. Must be taken prior to the semester of graduation.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CEN 3913",
+   "Credits": "3",
+   "Description": "Preparatory skills are developed for CISE Design 2 for Computer Engineering students. Teams design, produce and report on a software prototype, meeting defined specifications and using a structured design methodology and project management.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CEN 4072",
+   "Credits": "3",
+   "Description": "Concepts, principles and techniques of software testing and verification. Strengths and limitations of black-box and white-box testing methods; techniques for proving the correctness of programs.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CEN 4721",
+   "Credits": "3",
+   "Description": "Studies the major topics in the study, planning and design of the interaction between people and computers. Topics include interface design (principles, theories and guidelines), virtual environments, interactive devices and collaboration.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CEN 4722",
+   "Credits": "3",
+   "Description": "Introduces methods and tools used in User Experience Design (UXD): the early stages of software design focused on meeting user needs. Key concepts include user research, contextual design, design thinking, ideation, iterative design, prototyping, and design documentation. Projects utilize software tools used in the industry.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CEN 4725",
+   "Credits": "3",
+   "Description": "Introduces the design, development and evaluation of Natural User Interaction (NUI) technologies (e.g., non-keyboard and mouse technologies such as touchscreen interaction, gesture interaction, speech interaction, etc.). Discussion of the hardware-to-software NUI pipeline and key considerations when developing NUI software, including existing platforms, toolkits and APIs used to create NUI software.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CEN 4914",
+   "Credits": "3",
+   "Description": "Involves completing a significant CEN-related project. Coordinate with the instructor and a project advisor, prepare a detailed technical report and deliver an oral presentation.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CGS 2032",
+   "Credits": "3",
+   "Description": "Introduces interdisciplinary computer science topics. Logic, discrete structures, algorithms and automa. Exploration of topics relating mathematics and computing to art, music and nature. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CGS 3063",
+   "Credits": "3.",
+   "Description": "Impact of computers on society. Discussion includes specific cases from many areas, but does not include problem solution. Does not teach how to use the computer but gives an understanding of the implications of computers. (S) (WR)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CGS 3065",
+   "Credits": "3",
+   "Description": "Explores the history, the myth, the ethics, the law and the risks of computer-based technology in modern society. Emphasizes critical analysis of hypotheticals and case studies. Published material is supplemented with online references.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 2354",
+   "Credits": "3",
+   "Description": "Introduces many issues in cybersecurity including ubiquity of processors and communications in modern society, vulnerabilities of computers, networks, data, and embedded systems; privacy, risk management, social engineering, various attacks on computers and networked systems, attacks on user authentication systems. Expect weekly discussion of current topics.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4204",
+   "Credits": "C3",
+   "Description": "Introduces principles and techniques associated with the cybersecurity practice known as penetration testing or ethical hacking. Covers planning, reconnaissance, scanning, exploitation, post-exploitation and result reporting. Discovers how system vulnerabilities can be exploited and learn to avoid such problems.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4301",
+   "Credits": "3",
+   "Description": "First part of a two-course sequence that studies the essential concepts, principles and techniques of modern database systems. Topics include modeling and querying of data using conceptual data models as well as the development of a database application. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4360",
+   "Credits": "3",
+   "Description": "Covers systematic threat and risk assessment; programmed threats and controls in hardware, software, and human procedures; security policies, models, and mechanisms; theoretical limitations and practical implementations; certification and accreditation standards; and case study reviews. Includes projects.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4362",
+   "Credits": "3",
+   "Description": "Introduces classical and modern cryptography and cryptanalysis, including symmetric and asymmetric (public key) ciphers. Covers cryptographic hash functions, block and stream ciphers, as well as differential and linear cryptanalysis. Reviews applications of cryptography, cryptographic standards and protocols, and analyzes case studies of failed implementations.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4905",
+   "Credits": "3",
+   "Description": "Problems in different areas of computer science.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4912C",
+   "Credits": "3",
+   "Description": "First part of a two-course sequence where teams of engineering and business students partner with industry sponsors to design and build authentic products and processes. Working closely with an industry liaison engineer and a faculty coach, students gain practical experience in teamwork and communication, problem solving and engineering design, and develop leadership, management and people skills. Weekly workshop activities adapt lecture topics to individual projects. Learn firsthand how to develop products and processes that meet customer requirements on time and within budget.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4913C",
+   "Credits": "3",
+   "Description": "Second part of the CIS 4912/4913 sequence where teams of engineering and business students partner with industry sponsors to design and build authentic products and processes",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4914",
+   "Credits": "3",
+   "Description": "Involves completing a significant CISE-related project. Coordinate with the instructor and a project advisor, prepare a detailed technical report and deliver an oral presentation. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4930",
+   "Credits": "3",
+   "Description": "Variable content provides an opportunity for in-depth study of topics not offered elsewhere and of topics of current significance.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4940",
+   "Credits": "1",
+   "Description": "One term practical software engineering work under industrial supervision as set forth in the Herbert Wertheim College of Engineering regulations. (S-U)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4949",
+   "Credits": "1",
+   "Description": "Practical engineering work under industrial supervision, as set forth in the Herbert Wertheim College of Engineering regulations. (S-U)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CIS 4956",
+   "Credits": "3",
+   "Description": "Provides a mechanism by which coursework taken as part of an approved study abroad program can be recorded on the UF transcript and counted toward graduation.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CNT 4007C",
+   "Credits": "4",
+   "Description": "Fundamental concepts, principles and standards of computer networks. Topics are introduced in bottom-up approach, starting from physical layer in OSI system architecture with a stronger focus on data link, mac, network and transport layers. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "CNT 4409",
+   "Credits": "3",
+   "Description": "Examines networked threats and vulnerabilities; trust, identification, authentication, and authorization in networked and distributed systems; secure network protocols and standards; certification of network products; firewall configurations, intrusion detection, and anomaly detection; security flaws in network protocols and distributed applications. Includes projects.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 2271",
+   "Credits": "2",
+   "Description": "Computer programming and the use of computers to solve engineering and mathematical problems. Emphasizes applying problem solving skills; directed toward technical careers in fields employing a reasonably high degree of mathematics. The programming language used depends on the demands of the departments in the college. Several languages may be taught each semester, no more than one per section. Those required to learn a specific language must enroll in the correct section. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 2271L",
+   "Credits": "1",
+   "Description": "Laboratory for computer programming and the use of computers to solve engineering and mathematical problems. Emphasizes applying problem solving skills. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 2800",
+   "Credits": "3",
+   "Description": "In-depth treatment of computer programming using JAVA. Problems related to a variety of disciplines are solved. Introduces the basic concepts of software and hardware; develop a variety of stand-alone applications and applets. For non-CISE majors only.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 3229",
+   "Credits": "3",
+   "Description": "In-depth treatment of the C++ programming language. Introduces Windows programming using Visual C++.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 3275",
+   "Credits": "3",
+   "Description": "Solve problems related to a variety of disciplines; introduces the basic concepts of software and hardware. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 3502",
+   "Credits": "3",
+   "Description": "First course of a two-semester introductory sequence for those planning further study in computer science, digital arts and sciences or computer engineering. Concepts of computer science and the process of computer programming, including object-oriented programming, procedural and data abstraction and program modularity.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 3503",
+   "Credits": "3",
+   "Description": "Second course of a two-semester introductory sequence for those planning further study in computer science, digital arts and sciences or computer engineering. Concepts of computer science and the process of computer programming, including object-oriented programming, procedural and data abstraction and program modularity.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 3504",
+   "Credits": "3",
+   "Description": "Fast-paced introduction to computer science for those with prior programming experience. Explores major concepts of computer science and the process of computer programming, including object-oriented programming, procedural and data abstraction and program modularity. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 3530",
+   "Credits": "4",
+   "Description": "Algorithm development using pseudo languages, basic program structures, program design techniques, storage and manipulation of basic data structures like arrays, stacks, queues, sorting and searching and string processing. Linked linear lists. Trees and multilinked structures. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 4020",
+   "Credits": "3",
+   "Description": "Introduces programming language principles, including language constructs, design goals, run-time structures, implementation techniques and exposure to a wide variety of programming paradigms.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 4331",
+   "Credits": "3",
+   "Description": "Fundamental conceptual models for programming languages illustrated with specific programming languages and application problems. Specific topics include class and object models, inheritance among classes, objects and static and dynamic systems and implementations.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 4600",
+   "Credits": "3",
+   "Description": "Design and implementation of various components of a modern operating system, including I/O programming, interrupt handling, process and resource management, computer networks and distributed systems. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 4620",
+   "Credits": "3",
+   "Description": "Translation of languages, scanning and parsing techniques. Translator writing systems. The implementation of a compiler. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COP 4720",
+   "Credits": "3",
+   "Description": "Part two of a two-course sequence. Provides a basic understanding of the internals of a modern database system. Topics include data storage, indexing, query processing and advanced concepts such as database tuning, alternate data models and emerging applications. (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COT 3100",
+   "Credits": "3",
+   "Description": "Covers the mathematics of discrete events; i.e., events that involve distinct elements, finite structures of distinct elements or finite sampled versions of continuous phenomena (such as movement). (M)",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  },
+  {
+   "Course title": "COT 4501",
+   "Credits": "3",
+   "Description": "Numerical integration, nonlinear equations, linear and nonlinear systems of equations, differential equations and interpolation.",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":""
+  }
+ ],
+
+
+
+    "UF_ECE": [
+     {
+      "Course title": "EEE 3308C",
+      "Credits": "4",
+      "Description": "Fundamentals of electronic circuits and systems. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""
+     },
+     {
+      "Course title": "EEE 3396C",
+      "Credits": "4",
+      "Description": "Introduces the principles of semiconductor electron device operation. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""
+     },
+     {
+      "Course title": "EEE 4210",
+      "Credits": "3",
+      "Description": "Introduces the principles of optics, lasers and biology, the interaction of light with cells and tissues, and various optical imaging, sensing and activation techniques and their applications in biomedicine.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""
+    },
+     {
+      "Course title": "EEE 4222",
+      "Credits": "3",
+      "Description": "Fundamentals of resonant micro-electro-mechanical systems (Resonant MEMS) and their applications.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""
+     },
+     {
+      "Course title": "EEE 4260C",
+      "Credits": "3",
+      "Description": "Covers the theoretical and quantitative perspective of bioelectrical signals reflecting the activity of the brain, the muscles, and the heart. Examines bases of modeling, measuring, processing and analyzing bioelectrical signals and systems, as well as common clinical applications. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4306",
+      "Credits": "3",
+      "Description": "Design-oriented continuation of EEE 3308C; feedback, op amp circuits and applications, digital electronics.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4310C",
+      "Credits": "3",
+      "Description": "Analysis and design of digital circuits using MOS and bipolar devices.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4329",
+      "Credits": "3",
+      "Description": "Surveys state-of-the-art microelectronics technology and prospects for future technologies. Topics include nanoscale MOSFETs, strained Si, high-k gate dielectrics, carbon nanotubes, molecular electronics and single-electron devices.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4331",
+      "Credits": "3",
+      "Description": "Principles of microelectronic device fabrication. Emphasis on the fundamentals of microfabrication processing and microelectronic device process flows.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4373",
+      "Credits": "3",
+      "Description": "Fundamental RF theory (such as resonant circuits, matching, noise and transmission lines), radio operation and design of key RF circuit blocks (such as amplifiers, mixers and oscillators).",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4404",
+      "Credits": "3",
+      "Description": "Fundamentals of testing IC devices and systems: test specifications, parametric training, measurement accuracy, test hardware, sampling theory, digital signal processing based testing, and calibrations. Circuit analysis and design with analog and mixed-signal systems. Labs on testing passive components, LDOs, Op-amps, DACS/ADCs, Mixed-Signal ICs Labview and the National Instruments Savage Tester.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4420",
+      "Credits": "3",
+      "Description": "Physical principles of modern solid-state devices and their applications, quantum mechanics and fundamentals of nanoelectronics.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4511C",
+      "Credits": "4",
+      "Description": "Real world digital signal processing (DSP) tasks are presented and solved in a lab environment that utilizes a Floating Point DSP and a development simulation and hardware emulation tool. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4701",
+      "Credits": "3",
+      "Description": "Develop modeling, formal specification, and automated verification skills for analyzing complex hardware and/or software systems. Hands-on experience with model checking tools.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4714",
+      "Credits": "3",
+      "Description": "Fundamentals of hardware security and trust for integrated circuits. Cryptographic hardware, invasive and non-invasive attacks, side-channel attacks, physically unclonable functions (PUFs), true random number generation (TRNG), watermarking of Intellectual Property (IP) blocks, FPGA security, counterfeit detection, hardware Trojan detection, and prevention in IP cores and integrated circuits.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEE 4720",
+      "Credits": "3",
+      "Description": "Governing equations for wave theory of sound; Character of plane acoustic waves and 3-D acoustic fields; Sound transmission/reflection at an interface between two media; Waves transmission/attenuation inducts; Low frequency approximations (lumped-element modeling) and transducers; sources of sound.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3000",
+      "Credits": "2",
+      "Description": "Introduces electrical and computer engineering tools, both hardware and software. Professional ethics, career development. Assemble and test hardware project to provide hands-on experience.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3003",
+      "Credits": "3",
+      "Description": "Introduces the theory and practice of electrical engineering for those not majoring in electrical engineering. Discusses circuits, machines, electronics and systems.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3008",
+      "Credits": "3",
+      "Description": "Introduces the fundamental physics underlying components and devices and their application to electronics, power, and wireless.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3105",
+      "Credits": "3",
+      "Description": "Application of calculus to develop the analytical tools used in electrical engineering. Real and complex functions; linear spaces and eigevalue problems; linear differential operators; and approximation, curve-fitting and interpolation.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3111C",
+      "Credits": "4",
+      "Description": "Basic analysis of DC and AC electric circuits. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3112",
+      "Credits": "3",
+      "Description": "Continuous-time signals and linear systems: Fourier series and transforms, frequency, response, Laplace transform and system function, analog filters; emphasis on electrical circuits. Sampling.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3117L",
+      "Credits": "1",
+      "Description": "Introductory electrical engineering lab in electrical instrumentation, devices and systems. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3135",
+      "Credits": "4",
+      "Description": "Continuous-time and discrete-time signal analysis including Fourier series and discrete-time and discrete Fourier transforms; sampling; discrete-time linear system analysis with emphasis on FIR and IIR systems: impulse response, frequency response, and system function; MATLAB-based programming for Signals and Systems.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3211C",
+      "Credits": "4",
+      "Description": "Analysis and modeling of power system components. Magnetic circuits, energy conservation, transformers, and AC and DC rotating machines. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3402",
+      "Credits": "3",
+      "Description": "Remote sensing theory, systems and applications using information obtained from the visible/near infrared, thermal infrared and microwave regions of the EM spectrum.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3472C",
+      "Credits": "4",
+      "Description": "Transmission line equations, electrostatics, magnetostatics, time-varying fields, plane waves, introduction to antennas and waveguides. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3701C",
+      "Credits": "4",
+      "Description": "Overview of logic design, algorithms, computer organization and assembly language programming and computer engineering technology. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3744C",
+      "Credits": "4",
+      "Description": "Experience in the elements of microprocessor-based systems, hardware interfacing and software design for their application. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3834",
+      "Credits": "3",
+      "Description": "Develops computer skills and the art of writing sound computer programs using examples and exercises relevant to electrical and computer engineering.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 3923C",
+      "Credits": "3",
+      "Description": "Teams design, produce and report on a hardware prototype, meeting defined specifications and using a structured design methodology. Includes project management, hardware prototyping and project reporting.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4201L",
+      "Credits": "1",
+      "Description": "Electric energy conversion, devices, and systems. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4242C",
+      "Credits": "3",
+      "Description": "Circuit topologies, analysis, design and simulation of electronic circuits such as power supplies, and motor drives.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4251",
+      "Credits": "3",
+      "Description": "Development of power system equivalents by phase network analysis, load flow, symmetrical components, sequence networks, and fault analysis.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4271",
+      "Credits": "3",
+      "Description": "Power systems protection analytical methodologies and algorithms. Analyzes different methods for equipment and systems protection and discusses wide-area monitoring techniques, which allow real-time operation and control. Introduces cyber-physical security approaches for the smart grid and realizes numerical construction of protection methods considering realistic engineering hypothesis.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4287",
+      "Credits": "3",
+      "Description": "Survey of power grid operations and markets for students with interest in power systems and/or sustainable energy. Characteristics of traditional and new energy resources; how resources impact the grid; control on many time-scales; how the power grid and power markets of tomorrow will differ from those of today.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4403",
+      "Credits": "3",
+      "Description": "Fundamentals of computational photography, sensing, imaging and illumination.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4412",
+      "Credits": "3",
+      "Description": "Introduces magnetism, magnetic materials, and magnetic devices; offers a balance of theory and application from an applied engineering perspective.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4421",
+      "Credits": "3",
+      "Description": "Radio frequency (RF)/microwave passive components and circuits such as transmission lines, waveguides, couplers, filters, and resonators.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4440",
+      "Credits": "3",
+      "Description": "Introduces electromagnetic waves, dielectric waveguides and fibers, propagation characteristics of fibers, characterization methods, LEDs and laser diodes, photodetector optical receivers and communication systems.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4446",
+      "Credits": "3",
+      "Description": "Studies lasers from basic principles to operational characteristics.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":"" },
+     {
+      "Course title": "EEL 4458",
+      "Credits": "3",
+      "Description": "Reviews electromagnetic fields and waves, energy bands in semiconductors, p-n junctions and optical properties of semiconductors. Fundamentals of optical modulators and waveguides and photonic applications.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4461",
+      "Credits": "3",
+      "Description": "Electromagnetic field theory and its application to antenna design.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4473",
+      "Credits": "3",
+      "Description": "Maxwell's equations, electromagnetic wave propagation in different media, antennas, waveguides, numerical methods and electromagnetic coupling.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":"" },
+     {
+      "Course title": "EEL 4495",
+      "Credits": "3",
+      "Description": "Introduces lightning discharge processes. Electromagnetics relevant to lightning measurements. Applications for determining lightning charge, current, location and characteristics. Lightning protection.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4514C",
+      "Credits": "4",
+      "Description": "Theory of communication and applications to radio, television, telephone, satellite, cellular telephone, spread spectrum and computer communication systems. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4516",
+      "Credits": "3",
+      "Description": "Origin, characterization and measurement of random noise. Calculation of signal-to-noise ratios and probability of errors in communication systems.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4523",
+      "Credits": "3",
+      "Description": "Introduces audio and sound engineering that includes the underlying theory of acoustics, electronics and signal processing; demonstrates modern audio engineering practice as applied to music, home audio, recording and sound reinforcement.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4540",
+      "Credits": "3",
+      "Description": "Basic principles of cw and pulsed radar; angle, range, and Doppler tracking; accuracy and resolution; signal design.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4598",
+      "Credits": "3",
+      "Description": "Introduces the principles and practice of computer networking, emphasizing data communication and the lower layers of the OSI and TCP/IP protocol architectures.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4599",
+      "Credits": "3",
+      "Description": "Senior-level study of wireless and mobile networks. Investigates telecommunication architectures and protocols for wireless sensor networks and wireless embedded systems; Wi-Fi and wireless local area networks; mobile ad-hoc networks; next generation cellular systems and satellite networks.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4610",
+      "Credits": "3",
+      "Description": "Linear algebra and state variable methods for design and analysis of discrete and continuous linear systems.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4657C",
+      "Credits": "4",
+      "Description": "Theory and design of linear control systems. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4657L",
+      "Credits": "1",
+      "Description": "Practical applications of linear control theory. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4665C",
+      "Credits": "4",
+      "Description": "Design simulation, fabrication, assembly and testing of intelligent robotic machines. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4712C",
+      "Credits": "4",
+      "Description": "Advanced modular logic design, design languages, finite state machines and binary logic. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4713C",
+      "Credits": "4",
+      "Description": "The use of electronic digital modules to design computers. Includes the organization and operation of computers, hardware/software tradeoffs and design of computer interfacing. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4720",
+      "Credits": "3",
+      "Description": "Fundamental concepts at advanced undergraduate level in reconfigurable computing based upon advanced technologies in field-programmable logic devices. Topics include general concepts, device architectures, design tools, metrics and kernels, system architectures and application case studies.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":"" },
+     {
+      "Course title": "EEL 4732",
+      "Credits": "3",
+      "Description": "Develop a deep understanding of operating system concepts and systems programming fundamentals and gain hands-on experience in systems programming by using Pthreads as well as implementing Linux device drivers and testing/verifying systems code for deadlock and race-freedom.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4736",
+      "Credits": "3",
+      "Description": "Broadly introduces the main principles and abstractions for engineering hardware and software systems. Includes in-depth studies of their use on computer systems across a variety of designs, be it an operating system, a client/server application, a database server or a fault-tolerant disk cluster.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4750",
+      "Credits": "3",
+      "Description": "Analysis and design of digital filters for discrete signal processing, spectral analysis and fast Fourier transform.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4853",
+      "Credits": "3",
+      "Description": "Develop an understanding of the principles of computer security, as it crosses layers of abstraction (application, operating system, hardware, and network). Learn the challenges of building secure computer systems with examples and hands-on assignments. Current research on these challenges will be discussed. Students will review and present conference papers.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4905",
+      "Credits": "3",
+      "Description": "Selected problems or projects in the student's major field of engineering study.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4912",
+      "Credits": "3",
+      "Description": "First part of two in which multidisciplinary teams of engineering and business students partner with industry sponsors to design and build authentic products and processes, on time and within budget. Working closely with industry liaison engineers and a faculty coach, students gain practical experience in teamwork and communication, problem solving and engineering design, and develop leadership, management and people skills.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4913",
+      "Credits": "3",
+      "Description": "Second part of two in which multidisciplinary teams of engineering and business students partner with industry sponsors to design and build authentic products and processes, on time and within budget. Working closely with industry liaison engineers and a faculty coach, students gain practical experience in teamwork and communication, problem solving and engineering design, and develop leadership, management and people skills.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4924C",
+      "Credits": "3",
+      "Description": "Selected design projects involving engineering applications in the various areas of electrical engineering. Laboratory.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4930",
+      "Credits": "3",
+      "Description": "Special courses covering selected topics in electrical engineering.",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4948",
+      "Credits": "1",
+      "Description": "One term industrial employment, including extra work according to a pre-approved outline. Practical engineering work under industrial supervision, as set forth in the Herbert Wertheim College of Engineering regulations. (S-U)",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EEL 4949",
+      "Credits": "1",
+      "Description": "Practical co-op engineering work under approved industrial supervision. (S-U)",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""},
+     {
+      "Course title": "EGN 4930",
+      "Credits": "1",
+      "Description": "Intended for those interested in pursuing a career in sales engineering (required for students enrolled in the sales engineering certificate program). Lectures and discussions on practice-oriented sales engineering topics. (S-U)",
+      "Difficulty": "0",
+      "Popularity": "0",
+      "Professor Rating": "0", "Field":""}
+    ]
+}
+]
+}

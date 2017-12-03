@@ -1,0 +1,523 @@
+{"New York University":[
+ {"NYU_CS": [
+  {
+   "Course title": "Quantitative Reasoning: Mathematics & Computing",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Computers in Society",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Introduction to Computer Programming",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Introduction to Web Design & Computer Principles",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Database Design and Web Implementation",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Web Development and Programming",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Introduction to Computer Science",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Data Structures",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Computer Systems Organization",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Operating Systems",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Basic Algorithms",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Introduction to Computer Simulation",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Topics of General Computing Interest",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Numerical Computing",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Computer Architecture",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Theory of Computation",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Introduction to Robotics",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "UNIX Tools",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Object-Oriented Programming",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Artificial Intelligence",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Introduction to Machine Learning",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Introduction to Cryptography",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Special Topics in Computer Science",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Undergraduate Research",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Undergraduate Research",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Internship",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Internship",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Independent Study",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Independent Study",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  },
+  {
+   "Course title": "Problem Solving",
+   "Credits": "4",
+   "Description": "0",
+   "Difficulty": "0",
+   "Popularity": "0",
+   "Professor Rating": "0", "Field":"" 
+  }
+],
+
+"NYU_ECE":[
+    
+         {
+          "Course title": "Introduction to Electrical Engineering EE-UY 1002",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Introduction to Computer Engineering EE-UY 1012",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Fundamentals of Electric Circuits I EE-UY 2013",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Fundamentals of Electric Circuits II EE-UY 2024",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Signals and Systems EE-UY 3054",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Feedback Control EE-UY 3064",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Fundamentals of Electronics I EE-UY 3114",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+       
+         },
+         {
+          "Course title": "Fundamentals of Electronics II EE-UY 3124",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Introduction to Very Large Scale Integrated Circuits EE-UY 3193",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Fundamentals of Communication Theory EE-UY 3404",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Multimedia Communication Systems I EE-UY 3414",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Electromagnetic Waves EE-UY 3604",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Electric Energy Conversion Systems EE-UY 3824",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "1 Credits ECE Professional Development & Presentation EE-UY 4001",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Introduction to Embedded Systems Design EE-UY 4144",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Multimedia Communication Systems II EE-UY 4414",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Dp I - Controls and Robotics EE-UY 4113",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Senior Design in Electrical Power & Machinery EE-UY 4123",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Des Proj: Electromagnetic Waves and Apps EE-UY 4133",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Des Project I: Integrated Circuit Design EE-UY 4143",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Multimedia EE-UY 4153",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Signal and Image Processing EE-UY 4163",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Design Project I-Telecommunications Network EE-UY 4173",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Wireless Communications EE-UY 4183",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Electrical Engineering Design Project II EE-UY 4223",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Computer Engineering Design Project I EE-UY 4313",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Computer Engineering Design Project II EE-UY 4323",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Electric and Hybrid Vehicles EE-UY 4823",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Control System Design EE-UY 107",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Communication Electronics EE-UY 116",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Communication Networks EE-UY 136",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Electromagnetic Fields and Radiation EE-UY 164",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Summer Honors Lab/Project EE-UY 210",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         },
+         {
+          "Course title": "Senior Thesis EE-UY 397",
+          "Credits": "4",
+          "Description": "0",
+          "Difficulty": "0",
+          "Popularity": "0",
+          "Professor Rating": "0", "Field":"" 
+         }
+        ]
+       }
+    ]
+}
